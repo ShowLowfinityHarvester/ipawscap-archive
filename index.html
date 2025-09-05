@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:title" content="WSLF IPAWS CAP Archive">
+  <meta property="og:description" content="Daily archive of IPAWS CAP alerts captured by the WSLF CAPDEC.">
+  <meta property="og:image" content="https://wslf-radio.neocities.org/WSLF_Transparent.png">
+  <title>WSLF Radio IPAWSCAP Archive</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <style>
+    /* --- minimal reuse of your styles --- */
+    body{margin:0;padding:0;font-family:'Roboto',sans-serif;background:#2a2a2a;color:#f0f0f0;line-height:1.6;overflow-x:hidden}
+    .menu-bar{position:fixed;top:0;left:0;background:#3a3a3a;display:flex;justify-content:space-between;align-items:center;padding:10px;width:100%;z-index:1000;box-shadow:0 2px 10px rgba(0,0,0,.6)}
+    .menu-bar img{width:50px;margin-right:20px}
+    .menu-items{display:flex;align-items:center;flex-wrap:nowrap;overflow:hidden}
+    .menu-item{margin-right:20px;cursor:pointer;color:#e0e0e0;text-decoration:none;font-weight:500;padding:8px 12px;border-radius:6px;transition:.2s}
+    .menu-item:hover{background:#fff;color:#000}
+    .content{max-width:1000px;margin:80px auto 30px auto;padding:25px;background:rgba(0,0,0,.9);border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.6)}
+    h1{margin:0 0 10px 0;text-align:center;font-weight:500}
+    .sub{opacity:.8;text-align:center;margin:0 0 20px 0}
+    .controls{display:flex;gap:8px;justify-content:center;align-items:center;margin:10px 0 20px 0;flex-wrap:wrap}
+    .btn{background:#3a3a3a;border:1px solid #555;color:#e0e0e0;border-radius:6px;padding:8px 12px;cursor:pointer}
+    .btn:hover{background:#fff;color:#000}
+    .date-chip{background:#555;color:#fff;border-radius:16px;padding:6px 12px;font-weight:500}
+    table{border-collapse:collapse;width:100%;margin-top:10px}
+    th,td{border:1px solid #555;padding:.6rem;text-align:left}
+    tbody tr:hover{background:#3a3a3a}
+    .badge{display:inline-block;padding:.2rem .5rem;border-radius:.35rem;font-size:.85rem;font-weight:600}
+    .green{background:#4CAF50;color:#fff}
+    .yellow{background:#FFA500;color:#000}
+    .red{background:#FF5252;color:#fff}
+    .details{margin-top:16px;padding:14px;border:1px solid #555;border-radius:8px;background:#1f1f1f}
+    .grid{display:grid;grid-template-columns:1fr;gap:10px}
+    .mono{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;white-space:pre-wrap;word-break:break-word}
+    audio{width:100%;margin-top:8px}
+    @media (max-width:768px){.menu-bar img{width:40px}}
+  </style>
+</head>
+<body>
+  <!-- top bar (trim to taste / match your site) -->
+  <div class="menu-bar">
+    <div style="display:flex;align-items:center;">
+      <img src="/WSLF.png" alt="WSLF Logo">
+      <div class="menu-items">
+        <div class="menu-item" onclick="location.href='/'"><i class="fas fa-home"></i> Home</div>
+        <div class="menu-item" onclick="location.href='/about'"><i class="fas fa-info-circle"></i> About</div>
+        <div class="menu-item" onclick="location.href='/alerts/'"><i class="fas fa-bullhorn"></i> IPAWS Archive</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="content">
+    <h1>IPAWS CAP Archive</h1>
+    <p class="sub">Daily listing of alerts captured by WSLF CAPDEC. Click a row to view full details and audio.</p>
+
+    <div class="controls">
+      <button id="prev" class="btn"><i class="fas fa-chevron-left"></i> Prev Day</button>
+      <span id="chip" class="date-chip">Loading…</span>
+      <button id="next" class="btn">Next Day <i class="fas fa-chevron-right"></i></button>
+      <input id="picker" type="date" class="btn" style="background:#2a2a2a;border-color:#555">
+      <button id="today" class="btn">Today</button>
+    </div>
+
+    <table id="tbl">
+      <thead>
+        <tr>
+          <th>Sent (UTC)</th>
+          <th>Org</th>
+          <th>Event</th>
+          <th>Title</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <div id="details" class="details" hidden>
+      <div class="grid">
+        <div>
+          <h3 id="d_title" style="margin:.2rem 0 0 0;"></h3>
+          <div id="d_meta" style="opacity:.8;font-size:.95rem"></div>
+          <div id="d_audio"></div>
+        </div>
+        <div>
+          <h4 style="margin:12px 0 6px 0;">SAME Header</h4>
+          <pre id="d_same" class="mono"></pre>
+          <h4 style="margin:12px 0 6px 0;">Extra Text</h4>
+          <pre id="d_extra" class="mono"></pre>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // timezone: America/Phoenix (no DST). we'll compute YYYY/MM/DD in that zone.
+    // simple offset approach: Phoenix is UTC-7 year-round.
+    const PHX_OFFSET_MIN = 7*60; // UTC-7
+    function toPhoenixDate(d){ // returns a Date representing local (Phoenix) midnight offset
+      const utc = new Date(d.getTime() + d.getTimezoneOffset()*60000);
+      return new Date(utc.getTime() - PHX_OFFSET_MIN*60000);
+    }
+    function ymdParts(d){
+      const y=d.getUTCFullYear();
+      const m=String(d.getUTCMonth()+1).padStart(2,'0');
+      const day=String(d.getUTCDate()).padStart(2,'0');
+      return {y,m,day};
+    }
+    function addDays(d, n){
+      const dd=new Date(d); dd.setUTCDate(dd.getUTCDate()+n); return dd;
+    }
+
+    // choose date from URL (/alerts/YYYY/MM/DD/) or default to "today" in PHX
+    function pathDateOrToday(){
+      const m = location.pathname.match(/\/alerts\/(\d{4})\/(\d{2})\/(\d{2})\//);
+      if(m){ return new Date(Date.UTC(+m[1], +m[2]-1, +m[3])); }
+      return ymdToUTC(toPhoenixDate(new Date()));
+    }
+    function ymdToUTC(localPhxDate){
+      // interpret the provided PHX date parts as a UTC date for folder naming
+      const {y,m,day} = ymdParts(localPhxDate);
+      return new Date(Date.UTC(y, Number(m)-1, Number(day)));
+    }
+
+    let currentDayUTC = pathDateOrToday();
+
+    const elChip = document.getElementById('chip');
+    const elPrev = document.getElementById('prev');
+    const elNext = document.getElementById('next');
+    const elPicker = document.getElementById('picker');
+    const elToday = document.getElementById('today');
+    const tbody = document.querySelector('#tbl tbody');
+    const det = {
+      wrap: document.getElementById('details'),
+      title: document.getElementById('d_title'),
+      meta: document.getElementById('d_meta'),
+      same: document.getElementById('d_same'),
+      extra: document.getElementById('d_extra'),
+      audio: document.getElementById('d_audio')
+    };
+
+    function setChip(dUTC){
+      const d = dUTC; // UTC date object
+      const s = d.toISOString().slice(0,10);
+      elChip.textContent = s + ' (Arizona/Phoenix)';
+      elPicker.value = s;
+    }
+
+    async function loadDay(dUTC){
+      const {y,m,day} = ymdParts(dUTC);
+      const base = `/alerts/${y}/${m}/${day}/`;
+      const res = await fetch(base + 'index.json', {cache:'no-cache'});
+      tbody.innerHTML = '';
+      det.wrap.hidden = true;
+
+      if(!res.ok){
+        tbody.innerHTML = `<tr><td colspan="4" style="opacity:.8">No manifest for this day.</td></tr>`;
+        return;
+      }
+      const data = await res.json();
+      const list = (data.alerts||[]).slice().sort((a,b)=>a.sent_utc.localeCompare(b.sent_utc));
+
+      if(list.length===0){
+        tbody.innerHTML = `<tr><td colspan="4" style="opacity:.8">No alerts captured.</td></tr>`;
+        return;
+      }
+
+      list.forEach(a=>{
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${a.sent_utc || ''}</td>
+          <td>${a.org || ''}</td>
+          <td><span class="badge">${a.event_code||''}</span></td>
+          <td>${a.title || ''}</td>`;
+        tr.onclick = ()=>loadAlert(base + (a.href || `${a.id}.json`));
+        tbody.appendChild(tr);
+
+        // auto-open if #hash matches id
+        if(location.hash && location.hash.slice(1)===a.id){ tr.click(); }
+      });
+    }
+
+    async function loadAlert(url){
+      const r = await fetch(url, {cache:'no-cache'}); if(!r.ok) return;
+      const j = await r.json();
+      det.title.textContent = `${j.title||''} (${j.event_code||''})`;
+      det.meta.textContent =
+        `ID: ${j.id||''} • Org: ${j.org||''} • Sent: ${j.sent_utc||''}` +
+        (j.expires_utc?` • Expires: ${j.expires_utc}`:'');
+      det.same.textContent = j.same_header || '(none)';
+      det.extra.textContent = (j.extra_text||'').trim() || '(no extra text provided)';
+      det.audio.innerHTML = j.audio_url ? `<audio controls src="${j.audio_url}"></audio>` : '';
+      det.wrap.hidden = false;
+      if(j.id) location.hash = j.id;
+    }
+
+    function go(n){
+      currentDayUTC = addDays(currentDayUTC, n);
+      setChip(currentDayUTC);
+      loadDay(currentDayUTC);
+      // if we are on a dated folder page, update URL
+      if(location.pathname.match(/^\/alerts\/$/)){
+        // stay on index; users can copy row links from player if needed
+      } else {
+        const {y,m,day}=ymdParts(currentDayUTC);
+        history.replaceState({}, '', `/alerts/${y}/${m}/${day}/`);
+      }
+    }
+
+    // init controls
+    elPrev.onclick = ()=>go(-1);
+    elNext.onclick = ()=>go(+1);
+    elToday.onclick = ()=>{
+      currentDayUTC = pathDateOrToday();
+      setChip(currentDayUTC);
+      loadDay(currentDayUTC);
+    };
+    elPicker.onchange = ()=>{
+      const d = new Date(elPicker.value+'T00:00:00Z');
+      if(!isNaN(d)) { currentDayUTC = d; setChip(currentDayUTC); loadDay(currentDayUTC); }
+    };
+
+    // boot
+    setChip(currentDayUTC);
+    loadDay(currentDayUTC);
+  </script>
+</body>
+</html>
