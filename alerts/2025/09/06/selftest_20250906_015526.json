@@ -1,0 +1,8 @@
+{
+  "id": "selftest_20250906_015526",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: The United States; AT 06:55 PM ON SEP 05, 2025 EFFECTIVE UNTIL 07:10 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is only a test entry to verify GitHub upload, manifest updating, and the website UI (EAS2Text, ExtraText, and audio player).",
+  "sent_utc": "2025-09-06T01:55:26.097699+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/06/selftest_20250906_015526.mp3"
+}
