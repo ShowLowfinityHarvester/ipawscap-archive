@@ -179,7 +179,7 @@
         return;
       }
       const data = await res.json();
-      const list = (data.alerts||[]).slice().sort((a,b)=>a.sent_utc.localeCompare(b.sent_utc));
+      const list = (data.alerts||[]).slice().sort((a,b)=>b.sent_utc.localeCompare(a.sent_utc));
 
       if(list.length===0){
         tbody.innerHTML = `<tr><td colspan="3" class="muted">No alerts captured.</td></tr>`;
