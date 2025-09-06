@@ -10,30 +10,65 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
   <style>
-    body{margin:0;padding:0;font-family:'Roboto',sans-serif;background:#2a2a2a;color:#f0f0f0;line-height:1.6;overflow-x:hidden}
-    .menu-bar{position:fixed;top:0;left:0;background:#3a3a3a;display:flex;justify-content:space-between;align-items:center;padding:10px;width:100%;z-index:1000;box-shadow:0 2px 10px rgba(0,0,0,.6)}
-    .menu-bar img{width:50px;margin-right:20px}
-    .menu-items{display:flex;align-items:center;flex-wrap:nowrap;overflow:hidden}
-    .menu-item{margin-right:20px;cursor:pointer;color:#e0e0e0;text-decoration:none;font-weight:500;padding:8px 12px;border-radius:6px;transition:.2s}
+    /* Base */
+    :root{
+      --bg:#2a2a2a; --panel:#0f0f0f; --panel-2:#1a1a1a;
+      --text:#f0f0f0; --muted:#bbb; --border:#555; --head:#232323;
+      --chip:#555; --badge:#314964; --badge-b:#223145;
+    }
+    *{box-sizing:border-box}
+    body{margin:0;padding:0;font-family:'Roboto',sans-serif;background:var(--bg);color:var(--text);line-height:1.6;overflow-x:hidden}
+    .menu-bar{position:fixed;top:0;left:0;right:0;background:#3a3a3a;display:flex;justify-content:space-between;align-items:center;padding:10px 12px;z-index:1000;box-shadow:0 2px 10px rgba(0,0,0,.6)}
+    .menu-bar img{width:42px;margin-right:10px}
+    .menu-items{display:flex;align-items:center;gap:10px;overflow:auto}
+    .menu-item{cursor:pointer;color:#e0e0e0;text-decoration:none;font-weight:500;padding:8px 10px;border-radius:6px;transition:.2s;white-space:nowrap}
     .menu-item:hover{background:#fff;color:#000}
-    .content{max-width:1000px;margin:80px auto 30px auto;padding:25px;background:rgba(0,0,0,.9);border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.6)}
-    h1{margin:0 0 10px 0;text-align:center;font-weight:500}
-    .sub{opacity:.8;text-align:center;margin:0 0 20px 0}
-    .controls{display:flex;gap:8px;justify-content:center;align-items:center;margin:10px 0 20px 0;flex-wrap:wrap}
-    .btn{background:#3a3a3a;border:1px solid #555;color:#e0e0e0;border-radius:6px;padding:8px 12px;cursor:pointer}
+
+    .content{max-width:1000px;margin:80px auto 30px auto;padding:18px;background:rgba(0,0,0,.9);border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.6)}
+    h1{margin:4px 0 8px 0;text-align:center;font-weight:500}
+    .sub{opacity:.85;text-align:center;margin:0 0 14px 0}
+
+    .controls{display:flex;gap:8px;justify-content:center;align-items:center;margin:12px 0 14px 0;flex-wrap:wrap}
+    .btn{background:#3a3a3a;border:1px solid var(--border);color:#e0e0e0;border-radius:6px;padding:8px 12px;cursor:pointer}
     .btn:hover{background:#fff;color:#000}
-    .date-chip{background:#555;color:#fff;border-radius:16px;padding:6px 12px;font-weight:500}
-    table{border-collapse:collapse;width:100%;margin-top:10px}
-    th,td{border:1px solid #555;padding:.6rem;text-align:left}
-    thead th{background:#232323}
+    .date-chip{background:var(--chip);color:#fff;border-radius:16px;padding:6px 12px;font-weight:500}
+
+    /* Table */
+    table{border-collapse:collapse;width:100%;margin-top:6px}
+    thead th{background:var(--head)}
+    th,td{border:1px solid var(--border);padding:.6rem;text-align:left;vertical-align:top}
+    tbody tr{cursor:pointer}
     tbody tr:hover{background:#3a3a3a}
-    .badge{display:inline-block;padding:.2rem .5rem;border-radius:.35rem;font-size:.85rem;font-weight:600;background:#314964;border:1px solid #223145}
-    .details{margin-top:16px;padding:14px;border:1px solid #555;border-radius:8px;background:#1f1f1f}
-    .grid{display:grid;grid-template-columns:1fr;gap:10px}
+    .badge{display:inline-block;padding:.2rem .5rem;border-radius:.35rem;font-size:.85rem;font-weight:600;background:var(--badge);border:1px solid var(--badge-b)}
+    .muted{opacity:.85;color:var(--muted)}
+
+    /* Responsive tweaks */
+    @media (max-width: 860px){
+      .content{margin:72px 10px 20px 10px;padding:14px}
+      th:nth-child(3), td:nth-child(3){white-space:nowrap}
+    }
+    @media (max-width: 640px){
+      .menu-bar img{width:36px}
+      .controls{gap:6px}
+      .btn{padding:7px 10px}
+      th,td{padding:.5rem}
+      /* allow horizontal scroll if text gets long */
+      .table-wrap{overflow:auto}
+      table{min-width:720px}
+    }
+
+    /* Modal (details) */
+    .modal{position:fixed;inset:0;background:rgba(0,0,0,.55);display:none;align-items:flex-start;justify-content:center;padding:18px;z-index:2000}
+    .modal.show{display:flex;animation:fadeIn .15s ease-out}
+    .modal-card{width:min(980px,100%);background:var(--panel-2);border:1px solid var(--border);border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,.5);transform-origin:top center;animation:pop .18s ease-out}
+    .modal-head{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-bottom:1px solid var(--border);background:var(--panel)}
+    .modal-body{padding:14px}
+    .xbtn{background:transparent;border:0;color:#ddd;font-size:20px;cursor:pointer}
     .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre-wrap;word-break:break-word}
     audio{width:100%;margin-top:8px}
-    .muted{opacity:.8}
-    @media (max-width:768px){.menu-bar img{width:40px}}
+
+    @keyframes fadeIn{from{opacity:0}to{opacity:1}}
+    @keyframes pop{from{opacity:.6;transform:translateY(-8px) scale(.98)}to{opacity:1;transform:translateY(0) scale(1)}}
   </style>
 </head>
 <body>
@@ -49,8 +84,8 @@
   </div>
 
   <div class="content">
-    <h1>IPAWS CAP Archive</h1>
-    <p class="sub">Daily listing of alerts captured by WSLF CAPDEC. Click a row to view full details and audio.</p>
+    <h1>WSLF Radio IPAWSCAP Archive</h1>
+    <p class="sub">Daily listing of alerts captured by WSLF CAPDEC. Tap a row to see full details and audio.</p>
 
     <div class="controls">
       <button id="prev" class="btn"><i class="fas fa-chevron-left"></i> Prev Day</button>
@@ -60,68 +95,72 @@
       <button id="today" class="btn">Today</button>
     </div>
 
-    <table id="tbl">
-      <thead>
-        <tr>
-          <th style="width:100px;">Event</th>
-          <th>EAS Text</th>
-          <th style="width:165px;">Sent (UTC)</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
+    <div class="table-wrap">
+      <table id="tbl">
+        <thead>
+          <tr>
+            <th style="width:88px;">Event</th>
+            <th>EAS Text</th>
+            <th style="width:165px;">Sent (UTC)</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
 
-    <div id="details" class="details" hidden>
-      <div class="grid">
-        <div>
-          <h3 id="d_title" style="margin:.2rem 0 0 0;"></h3>
-          <div id="d_meta" style="opacity:.8;font-size:.95rem"></div>
-          <div id="d_audio"></div>
-        </div>
-        <div>
-          <h4 style="margin:12px 0 6px 0;">EAS Text</h4>
-          <pre id="d_eas" class="mono"></pre>
-          <h4 style="margin:12px 0 6px 0;">Extra Text</h4>
-          <pre id="d_extra" class="mono"></pre>
-        </div>
+  <!-- Modal -->
+  <div class="modal" id="modal">
+    <div class="modal-card">
+      <div class="modal-head">
+        <div id="m_title" style="font-weight:600"></div>
+        <button class="xbtn" id="m_close" aria-label="Close">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div id="m_meta" class="muted" style="margin-bottom:10px"></div>
+        <div id="m_audio" style="margin-bottom:10px"></div>
+        <h4 style="margin:10px 0 6px 0;">EAS Text</h4>
+        <pre id="m_eas" class="mono"></pre>
+        <h4 style="margin:12px 0 6px 0;">Extra Text</h4>
+        <pre id="m_extra" class="mono"></pre>
       </div>
     </div>
   </div>
 
   <script>
-    // -------- path prefix for project pages --------
-    // If hosted at /ipawscap-archive/, prefix requests with that; else blank (root site).
-    const PATH_PARTS = location.pathname.split('/').filter(Boolean);
-    const PREFIX = PATH_PARTS[0] === 'ipawscap-archive' ? '/ipawscap-archive' : '';
+    /* -------- project prefix (works for /ipawscap-archive) -------- */
+    const PARTS = location.pathname.split('/').filter(Boolean);
+    const PREFIX = PARTS[0] === 'ipawscap-archive' ? '/ipawscap-archive' : '';
 
-    // Phoenix (UTC-7) date helpers
-    const PHX_OFFSET_MIN = 7*60; // UTC-7
-    function toPhoenixDate(d){ const utc=new Date(d.getTime()+d.getTimezoneOffset()*60000); return new Date(utc.getTime()-PHX_OFFSET_MIN*60000); }
-    function ymdParts(d){ return {y:d.getUTCFullYear(), m:String(d.getUTCMonth()+1).padStart(2,'0'), day:String(d.getUTCDate()).padStart(2,'0')}; }
-    function addDays(d,n){ const x=new Date(d); x.setUTCDate(x.getUTCDate()+n); return x; }
-    function ymdToUTC(localPhx){ const {y,m,day}=ymdParts(localPhx); return new Date(Date.UTC(y, +m-1, +day)); }
+    /* Phoenix helpers */
+    const PHX_OFFSET_MIN = 7*60;
+    function toPhx(d){ const utc=new Date(d.getTime()+d.getTimezoneOffset()*60000); return new Date(utc.getTime()-PHX_OFFSET_MIN*60000); }
+    function ymd(d){ return {y:d.getUTCFullYear(), m:String(d.getUTCMonth()+1).padStart(2,'0'), day:String(d.getUTCDate()).padStart(2,'0')}; }
+    function addDays(d,n){ const t=new Date(d); t.setUTCDate(t.getUTCDate()+n); return t; }
+    function phxTodayUTC(){ const p=toPhx(new Date()); return new Date(Date.UTC(p.getUTCFullYear(),p.getUTCMonth(),p.getUTCDate())); }
+
+    /* pick date from path or default */
     function pathDateOrToday(){
       const m = location.pathname.match(/\/alerts\/(\d{4})\/(\d{2})\/(\d{2})\//);
-      if(m){ return new Date(Date.UTC(+m[1], +m[2]-1, +m[3])); }
-      return ymdToUTC(toPhoenixDate(new Date()));
+      return m ? new Date(Date.UTC(+m[1], +m[2]-1, +m[3])) : phxTodayUTC();
     }
 
     let currentDayUTC = pathDateOrToday();
-
     const elChip = document.getElementById('chip');
     const elPrev = document.getElementById('prev');
     const elNext = document.getElementById('next');
     const elPicker = document.getElementById('picker');
     const elToday = document.getElementById('today');
     const tbody = document.querySelector('#tbl tbody');
-    const det = {
-      wrap: document.getElementById('details'),
-      title: document.getElementById('d_title'),
-      meta: document.getElementById('d_meta'),
-      eas: document.getElementById('d_eas'),
-      extra: document.getElementById('d_extra'),
-      audio: document.getElementById('d_audio')
-    };
+
+    /* modal refs */
+    const modal = document.getElementById('modal');
+    const mTitle = document.getElementById('m_title');
+    const mMeta = document.getElementById('m_meta');
+    const mAudio = document.getElementById('m_audio');
+    const mEas = document.getElementById('m_eas');
+    const mExtra = document.getElementById('m_extra');
+    const mClose = document.getElementById('m_close');
 
     function setChip(dUTC){
       const s = dUTC.toISOString().slice(0,10);
@@ -130,12 +169,10 @@
     }
 
     async function loadDay(dUTC){
-      const {y,m,day} = ymdParts(dUTC);
+      const {y,m,day} = ymd(dUTC);
       const base = `${PREFIX}/alerts/${y}/${m}/${day}/`;
 
       tbody.innerHTML = '';
-      det.wrap.hidden = true;
-
       const res = await fetch(base + 'index.json', {cache:'no-cache'});
       if(!res.ok){
         tbody.innerHTML = `<tr><td colspan="3" class="muted">No manifest for this day.</td></tr>`;
@@ -143,13 +180,13 @@
       }
       const data = await res.json();
       const list = (data.alerts||[]).slice().sort((a,b)=>a.sent_utc.localeCompare(b.sent_utc));
+
       if(list.length===0){
         tbody.innerHTML = `<tr><td colspan="3" class="muted">No alerts captured.</td></tr>`;
         return;
       }
 
       const cache = Object.create(null);
-
       for(const a of list){
         const tr = document.createElement('tr');
         tr.innerHTML = `
@@ -158,12 +195,11 @@
           <td>${a.sent_utc||''}</td>`;
         tbody.appendChild(tr);
 
-        // fetch per-alert JSON to populate EAS text preview + audio in details
         const detailUrl = base + (a.href || `${a.id}.json`);
         (async ()=>{
           try{
             if(!cache[detailUrl]){
-              const rr = await fetch(detailUrl, {cache:'no-cache'});
+              const rr = await fetch(detailUrl,{cache:'no-cache'});
               if(!rr.ok) throw new Error('detail not found');
               cache[detailUrl] = await rr.json();
             }
@@ -171,15 +207,14 @@
             const preview = (j.eas_text||'').trim();
             tr.children[1].textContent = preview.length>300 ? preview.slice(0,300)+'…' : preview || '(no EAS text)';
             tr.onclick = ()=>{
-              det.title.textContent = `${(j.event_code||'')}`;
-              det.meta.textContent = `ID: ${j.id||''} • Sent: ${j.sent_utc||''}`;
-              det.eas.textContent = (j.eas_text||'').trim() || '(none)';
-              det.extra.textContent = (j.extra_text||'').trim() || '(none)';
-              det.audio.innerHTML = j.audio_url ? `<audio controls src="${j.audio_url}"></audio>` : '';
-              det.wrap.hidden = false;
+              mTitle.textContent = j.event_code || 'Alert';
+              mMeta.textContent = `ID: ${j.id||''} • Sent: ${j.sent_utc||''}`;
+              mEas.textContent = (j.eas_text||'').trim() || '(none)';
+              mExtra.textContent = (j.extra_text||'').trim() || '(none)';
+              mAudio.innerHTML = j.audio_url ? `<audio controls src="${j.audio_url}"></audio>` : '';
+              modal.classList.add('show');
               if(j.id) location.hash = j.id;
             };
-            // auto-open if hash matches
             if(location.hash && location.hash.slice(1)===a.id){ tr.click(); }
           }catch(e){
             tr.children[1].innerHTML = '<span class="muted">unavailable</span>';
@@ -192,17 +227,22 @@
       currentDayUTC = addDays(currentDayUTC, n);
       setChip(currentDayUTC);
       loadDay(currentDayUTC);
-      if(location.pathname.match(/^\/alerts\/\d{4}\/\d{2}\/\d{2}\//)){
-        const {y,m,day}=ymdParts(currentDayUTC);
-        history.replaceState({}, '', `${PREFIX}/alerts/${y}/${m}/${day}/`);
-      }
+      const {y,m,day} = ymd(currentDayUTC);
+      history.replaceState({}, '', `${PREFIX}/alerts/${y}/${m}/${day}/`);
     }
 
+    /* modal close */
+    mClose.onclick = ()=>modal.classList.remove('show');
+    modal.addEventListener('click', (e)=>{ if(e.target === modal) modal.classList.remove('show'); });
+    window.addEventListener('keydown', (e)=>{ if(e.key === 'Escape') modal.classList.remove('show'); });
+
+    /* controls */
     elPrev.onclick = ()=>go(-1);
     elNext.onclick = ()=>go(+1);
     elToday.onclick = ()=>{ currentDayUTC = pathDateOrToday(); setChip(currentDayUTC); loadDay(currentDayUTC); };
     elPicker.onchange = ()=>{ const d=new Date(elPicker.value+'T00:00:00Z'); if(!isNaN(d)){ currentDayUTC=d; setChip(d); loadDay(d);} };
 
+    /* boot */
     setChip(currentDayUTC);
     loadDay(currentDayUTC);
   </script>
