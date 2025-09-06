@@ -1,0 +1,8 @@
+{
+  "id": "selftest_20250906_022919",
+  "event_code": "RWT",
+  "eas_text": "AN EAS PARTICIPANT HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Apache, AZ; Coconino, AZ; Navajo, AZ; Bernalillo, NM; Cibola, NM; McKinley, NM; Rio Arriba, NM; Sandoval, NM; San Juan, NM; Socorro, NM; and San Juan, UT; AT 07:29 PM ON SEP 05, 2025 EFFECTIVE UNTIL 07:44 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the WSLF Radio CAP internet archive system. This is only a test.",
+  "sent_utc": "2025-09-06T02:29:19.275738+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/06/selftest_20250906_022919.mp3"
+}
