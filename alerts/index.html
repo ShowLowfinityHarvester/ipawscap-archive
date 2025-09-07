@@ -1,147 +1,170 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta property="og:title" content="WSLF IPAWS CAP Archive" />
-  <meta property="og:description" content="Daily archive of IPAWS CAP alerts captured by the WSLF CAPDEC." />
-  <meta property="og:image" content="https://wslf-radio.neocities.org/WSLF_Transparent.png" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta property="og:title" content="WSLF IPAWS CAP Archive">
+  <meta property="og:description" content="Daily archive of IPAWS CAP alerts captured by the WSLF CAPDEC.">
+  <meta property="og:image" content="https://wslf-radio.neocities.org/WSLF_Transparent.png">
   <title>WSLF Radio IPAWSCAP Archive</title>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
   <style>
+    /* Base */
     :root{
-      --bg:#121212; --panel:#1b1b1b; --panel-2:#161616;
-      --text:#f2f2f2; --muted:#bdbdbd; --border:#2e2e2e; --head:#202020;
-      --chip:#2a2a2a; --badge:#2a4766; --badge-b:#1e3550;
-      --accent:#5aa6ff; --danger:#ff6b6b;
-      --radius:12px;
+      --bg:#2a2a2a; --panel:#0f0f0f; --panel-2:#1a1a1a;
+      --text:#f0f0f0; --muted:#bbb; --border:#555; --head:#232323;
+      --chip:#555; --badge:#314964; --badge-b:#223145;
     }
     *{box-sizing:border-box}
     html,body{height:100%}
-    body{margin:0;font-family:Roboto,system-ui,-apple-system,Segoe UI,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.55;-webkit-font-smoothing:antialiased}
-
-    /* Top bar */
-    .menu-bar{position:sticky;top:0;left:0;right:0;background:#1f1f1f;display:flex;gap:10px;align-items:center;padding:10px 12px;z-index:1000;border-bottom:1px solid var(--border)}
-    .menu-left{display:flex;align-items:center;gap:10px;min-width:0}
-    .menu-bar img{width:40px;height:40px;border-radius:8px}
-    .menu-items{display:flex;align-items:center;gap:8px;overflow:auto}
-    .menu-item{cursor:pointer;color:#e6e6e6;text-decoration:none;font-weight:500;padding:8px 10px;border-radius:8px;transition:.15s white-space:nowrap}
-    .menu-item:hover,.menu-item:focus{outline:none;background:#fff;color:#000}
-
-    /* Page container */
-    .content{max-width:1000px;margin:14px auto;padding:16px;background:var(--panel);border:1px solid var(--border);border-radius:var(--radius)}
-    .title{margin:2px 0 6px 0;text-align:center;font-weight:700;letter-spacing:.2px}
-    .sub{opacity:.9;text-align:center;margin:0 0 16px 0}
-
-    /* Controls */
-    .controls{position:sticky;top:64px;z-index:900;background:var(--panel);padding:10px;border:1px solid var(--border);border-radius:10px;display:flex;gap:8px;justify-content:center;align-items:center;flex-wrap:wrap}
-    .btn{background:#2a2a2a;border:1px solid var(--border);color:#ececec;border-radius:10px;padding:10px 14px;cursor:pointer;min-height:42px}
-    .btn:hover,.btn:focus{outline:none;background:#fff;color:#000}
-    .btn[disabled]{opacity:.55;cursor:not-allowed}
-    .date-chip{background:var(--chip);color:#fff;border-radius:999px;padding:8px 14px;font-weight:700;letter-spacing:.25px}
-    .picker{background:#1a1a1a;border:1px solid var(--border);color:#e9e9e9;border-radius:10px;padding:9px 12px;min-height:42px}
-
-    /* Views */
-    .table-wrap{border:1px solid var(--border);border-radius:10px;overflow:auto;background:var(--panel-2)}
-    table{border-collapse:collapse;width:100%}
-    thead th{background:var(--head);position:sticky;top:0;z-index:5}
-    th,td{border-bottom:1px solid var(--border);padding:.7rem;text-align:left;vertical-align:top}
-    tbody tr{cursor:pointer}
-    tbody tr:hover{background:#242424}
-    .badge{display:inline-block;padding:.25rem .55rem;border-radius:.5rem;font-size:.85rem;font-weight:700;background:var(--badge);border:1px solid var(--badge-b)}
-    .muted{color:var(--muted)}
-    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre-wrap;word-break:break-word}
-
-    /* Card list for mobile */
-    .cards{display:none;gap:10px}
-    .card{border:1px solid var(--border);border-radius:12px;background:var(--panel-2);padding:12px;display:flex;flex-direction:column;gap:8px}
-    .card-top{display:flex;justify-content:space-between;gap:10px;align-items:center}
-    .card-time{font-size:.9rem;color:var(--muted)}
-    .card-text{color:#eaeaea}
-    .card .open{align-self:stretch}
-
-    /* Skeleton */
-    .skeleton{background:linear-gradient(90deg,#232323 25%,#2b2b2b 37%,#232323 63%);background-size:400% 100%;animation:skeleton 1.2s ease-in-out infinite;border-radius:6px}
-    @keyframes skeleton{0%{background-position:100% 0}100%{background-position:0 0}}
-
-    /* Modal */
-    .modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;align-items:flex-start;justify-content:center;padding:18px;z-index:2000}
-    .modal.show{display:flex}
-    .modal-card{width:min(980px,100%);background:var(--panel);border:1px solid var(--border);border-radius:14px;box-shadow:0 10px 40px rgba(0,0,0,.5)}
-    .modal-head{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-bottom:1px solid var(--border);background:var(--head)}
-    .modal-title{font-weight:800}
-    .modal-body{padding:14px;max-height:70vh;overflow:auto;scrollbar-gutter:stable}
-    .xbtn{background:transparent;border:0;color:#ddd;font-size:22px;cursor:pointer;border-radius:8px;padding:6px}
-    .xbtn:hover,.xbtn:focus{outline:none;background:#2a2a2a}
-
-    audio{width:100%;margin-top:8px;border:1px solid var(--border);border-radius:10px}
-
-    /* Responsive */
-    @media (max-width: 900px){
-      .content{margin:10px; padding:14px}
-      .controls{top:58px}
+    body{
+      margin:0;padding:0;
+      font-family:'Roboto',sans-serif;
+      background:var(--bg);color:var(--text);line-height:1.6;
+      -webkit-text-size-adjust:100%;
+      text-size-adjust:100%;
     }
+
+    /* Top bar (your original) */
+    .menu-bar{position:sticky;top:0;left:0;right:0;background:#3a3a3a;display:flex;justify-content:space-between;align-items:center;padding:10px 12px;z-index:1000;box-shadow:0 2px 10px rgba(0,0,0,.6)}
+    .menu-bar img{width:42px;margin-right:10px}
+    .menu-items{display:flex;align-items:center;gap:10px;overflow:auto}
+    .menu-item{cursor:pointer;color:#e0e0e0;text-decoration:none;font-weight:500;padding:8px 10px;border-radius:6px;transition:.2s;white-space:nowrap}
+    .menu-item:hover{background:#fff;color:#000}
+
+    .content{max-width:1000px;margin:16px auto 30px auto;padding:18px;background:rgba(0,0,0,.9);border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.6)}
+    h1{margin:4px 0 8px 0;text-align:center;font-weight:500}
+    .sub{opacity:.85;text-align:center;margin:0 0 14px 0}
+
+    /* Controls (fix: prev/next together on mobile) */
+    .controls{
+      display:flex;flex-wrap:wrap;gap:10px 12px;
+      justify-content:center;align-items:center;
+      margin:12px 0 14px 0;
+    }
+    .pager{display:flex;gap:8px;flex:0 0 auto}            /* keeps Prev + Next side-by-side */
+    .btn{background:#3a3a3a;border:1px solid var(--border);color:#e0e0e0;border-radius:8px;padding:10px 14px;cursor:pointer;line-height:1}
+    .btn:hover{background:#fff;color:#000}
+    .date-chip{background:var(--chip);color:#fff;border-radius:16px;padding:7px 14px;font-weight:500;text-align:center}
+    .picker{background:#2a2a2a;border:1px solid var(--border);color:#e0e0e0;border-radius:8px;padding:9px 12px;min-height:40px}
+
+    /* Table (desktop) */
+    .table-wrap{overflow:visible}
+    table{border-collapse:collapse;width:100%;margin-top:6px}
+    thead th{background:var(--head);position:sticky;top:0;z-index:5}
+    th,td{border:1px solid var(--border);padding:.75rem;text-align:left;vertical-align:top}
+    tbody tr{cursor:pointer}
+    tbody tr:hover{background:#3a3a3a}
+    .badge{display:inline-block;padding:.25rem .55rem;border-radius:.35rem;font-size:.85rem;font-weight:600;background:var(--badge);border:1px solid var(--badge-b)}
+    .muted{opacity:.85;color:var(--muted)}
+
+    /* Responsive: convert table rows to cards on small screens (no sideways scroll) */
     @media (max-width: 720px){
-      .table-wrap{display:none}
-      .cards{display:grid;grid-template-columns:1fr}
-      .menu-bar img{width:36px;height:36px}
-      .btn,.picker{padding:10px 12px}
+      .content{margin:12px 10px 20px 10px;padding:14px}
+      .btn{padding:9px 12px}
+      .controls{gap:8px}
+      /* Order rows: pager on top; chip below; picker & today last */
+      .pager{order:1}
+      .date-chip{order:2; width:100%}
+      .picker{order:3}
+      #today{order:4}
+
+      .table-wrap{overflow:visible}
+      table{border:0}
+      thead{display:none}
+      tbody{display:grid;grid-template-columns:1fr;gap:10px}
+      tbody tr{
+        display:grid;
+        grid-template-columns: 1fr;
+        gap:8px;
+        border:1px solid var(--border);
+        border-radius:10px;
+        padding:10px;
+        background:var(--panel-2);
+      }
+      tbody tr:hover{background:var(--panel)}
+      tbody td{border:0;padding:0}
+      .cell{display:flex;gap:8px}
+      .cell .label{min-width:84px;opacity:.8;color:var(--muted);font-size:.9rem}
+      .cell .value{flex:1;min-width:0}
+      .sent{white-space:nowrap}
+    }
+
+    /* Modal (details) */
+    .modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;align-items:center;justify-content:center;padding:18px;z-index:2000}
+    .modal.show{display:flex;animation:fadeIn .15s ease-out}
+    .modal-card{
+      width:min(980px,100%);max-height:92vh;background:var(--panel-2);
+      border:1px solid var(--border);border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.55);
+      transform-origin:top center;animation:pop .18s ease-out;overflow:hidden;
+    }
+    .modal-head{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-bottom:1px solid var(--border);background:var(--panel)}
+    .modal-body{padding:14px;overflow:auto;max-height:calc(92vh - 56px)}
+    .xbtn{background:transparent;border:0;color:#ddd;font-size:22px;cursor:pointer}
+    .xbtn:focus{outline:2px solid #fff;outline-offset:2px}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre-wrap;word-break:break-word}
+    audio{width:100%;margin-top:8px}
+
+    @keyframes fadeIn{from{opacity:0}to{opacity:1}}
+    @keyframes pop{from{opacity:.6;transform:translateY(-8px) scale(.98)}to{opacity:1;transform:translateY(0) scale(1)}}
+
+    @media (prefers-reduced-motion: reduce){
+      .modal.show{animation:none}
+      .modal-card{animation:none}
     }
   </style>
 </head>
 <body>
-  <div class="menu-bar" role="navigation">
-    <div class="menu-left">
-      <img src="/WSLF.png" alt="WSLF Logo" />
+  <div class="menu-bar">
+    <div style="display:flex;align-items:center;">
+      <img src="/WSLF.png" alt="WSLF Logo" width="42" height="42">
       <div class="menu-items">
-        <button class="menu-item" onclick="location.href='/'"><i class="fas fa-home"></i> Home</button>
-        <button class="menu-item" onclick="location.href='/about'"><i class="fas fa-info-circle"></i> About</button>
-        <button class="menu-item" onclick="location.href='./'"><i class="fas fa-bullhorn"></i> IPAWS Archive</button>
+        <div class="menu-item" onclick="location.href='/'"><i class="fas fa-home"></i> Home</div>
+        <div class="menu-item" onclick="location.href='/about'"><i class="fas fa-info-circle"></i> About</div>
+        <div class="menu-item" onclick="location.href='./'"><i class="fas fa-bullhorn"></i> IPAWS Archive</div>
       </div>
     </div>
   </div>
 
-  <main class="content">
-    <h1 class="title">WSLF Radio IPAWSCAP Archive</h1>
+  <div class="content">
+    <h1>WSLF Radio IPAWSCAP Archive</h1>
     <p class="sub">Daily listing of alerts captured by WSLF CAPDEC. Tap a row to see full details and audio.</p>
 
-    <section class="controls" aria-label="Day Controls">
-      <button id="prev" class="btn" aria-label="Previous day"><i class="fas fa-chevron-left"></i> Prev</button>
-      <span id="chip" class="date-chip">Loading…</span>
-      <button id="next" class="btn" aria-label="Next day">Next <i class="fas fa-chevron-right"></i></button>
-      <input id="picker" type="date" class="picker" aria-label="Pick a date" />
-      <button id="today" class="btn" aria-label="Jump to today">Today</button>
-    </section>
+    <div class="controls">
+      <div class="pager">
+        <button id="prev" class="btn" type="button" aria-label="Previous day"><i class="fas fa-chevron-left"></i> Prev Day</button>
+        <button id="next" class="btn" type="button" aria-label="Next day">Next Day <i class="fas fa-chevron-right"></i></button>
+      </div>
+      <span id="chip" class="date-chip" aria-live="polite">Loading…</span>
+      <input id="picker" type="date" class="picker" aria-label="Pick a date">
+      <button id="today" class="btn" type="button">Today</button>
+    </div>
 
-    <!-- Desktop table -->
-    <div class="table-wrap" aria-live="polite">
+    <div class="table-wrap">
       <table id="tbl">
         <thead>
           <tr>
             <th style="width:88px;">Event</th>
             <th>EAS Text</th>
-            <th style="width:180px;">Sent (UTC)</th>
+            <th style="width:165px;">Sent (UTC)</th>
           </tr>
         </thead>
         <tbody></tbody>
       </table>
     </div>
-
-    <!-- Mobile cards -->
-    <div id="cards" class="cards" aria-live="polite"></div>
-  </main>
+  </div>
 
   <!-- Modal -->
-  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="m_title" aria-describedby="m_eas">
+  <div class="modal" id="modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="m_title">
     <div class="modal-card">
       <div class="modal-head">
-        <div id="m_title" class="modal-title">Alert</div>
-        <button class="xbtn" id="m_close" aria-label="Close details">&times;</button>
+        <div id="m_title" style="font-weight:600"></div>
+        <button class="xbtn" id="m_close" aria-label="Close">&times;</button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body" id="m_body" tabindex="-1">
         <div id="m_meta" class="muted" style="margin-bottom:10px"></div>
-        <div id="m_audio" style="margin-bottom:12px"></div>
+        <div id="m_audio" style="margin-bottom:10px"></div>
         <h4 style="margin:10px 0 6px 0;">EAS Text</h4>
         <pre id="m_eas" class="mono"></pre>
         <h4 style="margin:12px 0 6px 0;">Extra Text</h4>
@@ -155,16 +178,16 @@
     const PARTS = location.pathname.split('/').filter(Boolean);
     const PREFIX = PARTS[0] === 'ipawscap-archive' ? '/ipawscap-archive' : '';
 
-    /* Phoenix helpers (canonical TZ version) */
+    /* Phoenix helpers */
     const PHX_TZ = 'America/Phoenix';
+    function ymd(d){ return {y:d.getUTCFullYear(), m:String(d.getUTCMonth()+1).padStart(2,'0'), day:String(d.getUTCDate()).padStart(2,'0')}; }
+    function addDays(d,n){ const t=new Date(d); t.setUTCDate(t.getUTCDate()+n); return t; }
     function phxTodayUTC(){
       const now = new Date();
       const fmt = new Intl.DateTimeFormat('en-CA',{timeZone:PHX_TZ,year:'numeric',month:'2-digit',day:'2-digit'});
-      const [y,m,d] = fmt.format(now).split('-');
-      return new Date(Date.UTC(+y,+m-1,+d));
+      const [y,m,day] = fmt.format(now).split('-');
+      return new Date(Date.UTC(+y, +m-1, +day));
     }
-    function ymd(d){ return {y:d.getUTCFullYear(), m:String(d.getUTCMonth()+1).padStart(2,'0'), day:String(d.getUTCDate()).padStart(2,'0')}; }
-    function addDays(d,n){ const t=new Date(d); t.setUTCDate(t.getUTCDate()+n); return t; }
 
     /* pick date from path or default */
     function pathDateOrToday(){
@@ -179,7 +202,6 @@
     const elPicker = document.getElementById('picker');
     const elToday = document.getElementById('today');
     const tbody = document.querySelector('#tbl tbody');
-    const cards = document.getElementById('cards');
 
     /* modal refs */
     const modal = document.getElementById('modal');
@@ -189,162 +211,116 @@
     const mEas = document.getElementById('m_eas');
     const mExtra = document.getElementById('m_extra');
     const mClose = document.getElementById('m_close');
+    const mBody  = document.getElementById('m_body');
 
-    /* Modal helpers: focus trap + scroll lock + back button support */
-    let lastFocused = null;
-    function openModal(){
-      lastFocused = document.activeElement;
-      modal.classList.add('show');
-      document.body.style.overflow = 'hidden';
-      mClose.focus();
-      history.pushState({modal:true}, '', location.pathname + location.search + location.hash);
-      document.addEventListener('keydown', onKeyTrap, true);
+    /* scroll-lock helpers (prevents background jump) */
+    let __scrollY = 0;
+    function lockBody(){
+      __scrollY = window.scrollY || document.documentElement.scrollTop;
+      document.body.style.position = 'fixed';
+      document.body.style.top = `-${__scrollY}px`;
+      document.body.style.left = '0';
+      document.body.style.right = '0';
+      document.body.style.width = '100%';
     }
-    function closeModal(){
-      modal.classList.remove('show');
-      document.body.style.overflow = '';
-      document.removeEventListener('keydown', onKeyTrap, true);
-      if(lastFocused) lastFocused.focus();
+    function unlockBody(){
+      document.body.style.position = '';
+      document.body.style.top = '';
+      document.body.style.left = '';
+      document.body.style.right = '';
+      document.body.style.width = '';
+      window.scrollTo(0, __scrollY);
     }
-    function onKeyTrap(e){
-      if(e.key === 'Escape'){ e.preventDefault(); closeModal(); return; }
-      if(e.key === 'Tab'){
-        const f = modal.querySelectorAll('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])');
-        const foc = Array.from(f).filter(x=>!x.hasAttribute('disabled'));
-        if(foc.length===0) return;
-        const i = foc.indexOf(document.activeElement);
-        if(e.shiftKey && (i<=0 || i===-1)){ e.preventDefault(); foc[foc.length-1].focus(); }
-        else if(!e.shiftKey && (i===foc.length-1)){ e.preventDefault(); foc[0].focus(); }
-      }
-    }
-    // Close on overlay click
-    modal.addEventListener('click', (e)=>{ if(e.target === modal) closeModal(); });
-    // Back button closes modal first
-    window.addEventListener('popstate', ()=>{ if(modal.classList.contains('show')) closeModal(); });
 
     function setChip(dUTC){
       const iso = dUTC.toISOString().slice(0,10);
-      const pretty = new Date(iso+'T00:00:00Z').toLocaleDateString('en-US',{weekday:'short',year:'numeric',month:'short',day:'numeric',timeZone:'UTC'});
+      const pretty = new Date(iso+'T00:00:00Z')
+        .toLocaleDateString('en-US', { weekday:'short', year:'numeric', month:'short', day:'numeric', timeZone:'UTC' });
       elChip.textContent = `${pretty} (Arizona/Phoenix)`;
       elPicker.value = iso;
     }
+
     function pushPathFor(dUTC){
       const {y,m,day} = ymd(dUTC);
       history.replaceState({}, '', `${PREFIX}/alerts/${y}/${m}/${day}/`);
     }
 
-    function skeletonRow(){
-      const tr = document.createElement('tr');
-      tr.innerHTML = `
-        <td><span class="skeleton" style="display:inline-block;width:52px;height:22px"></span></td>
-        <td><div class="skeleton" style="height:18px;width:90%"></div><div class="skeleton" style="height:14px;width:70%;margin-top:8px"></div></td>
-        <td><div class="skeleton" style="height:16px;width:120px"></div></td>`;
-      return tr;
-    }
-    function skeletonCard(){
-      const div = document.createElement('div');
-      div.className = 'card';
-      div.innerHTML = `
-        <div class="card-top">
-          <span class="skeleton" style="width:60px;height:24px"></span>
-          <span class="skeleton" style="width:120px;height:16px"></span>
-        </div>
-        <div class="skeleton" style="height:16px;width:90%"></div>
-        <div class="skeleton" style="height:14px;width:70%"></div>
-      `;
-      return div;
-    }
-
     async function loadDay(dUTC){
-      // Disable "Next" if the next day would be beyond phoenix-today
-      const isToday = dUTC.getTime() === phxTodayUTC().getTime();
-      elNext.disabled = isToday;
-
-      tbody.innerHTML = '';
-      cards.innerHTML = '';
-      // skeletons
-      for(let i=0;i<4;i++){ tbody.appendChild(skeletonRow()); cards.appendChild(skeletonCard()); }
-
       const {y,m,day} = ymd(dUTC);
       const base = `${PREFIX}/alerts/${y}/${m}/${day}/`;
 
-      try{
-        const res = await fetch(base + 'index.json', {cache:'no-cache'});
-        if(!res.ok){
-          tbody.innerHTML = `<tr><td colspan="3" class="muted">No manifest for this day.</td></tr>`;
-          cards.innerHTML = `<div class="muted" style="padding:12px">No manifest for this day.</div>`;
-          return;
-        }
-        const data = await res.json();
-        const list = (data.alerts||[]).slice().sort((a,b)=>b.sent_utc.localeCompare(a.sent_utc));
+      tbody.innerHTML = '';
+      const res = await fetch(base + 'index.json', {cache:'no-cache'});
+      if(!res.ok){
+        tbody.innerHTML = `<tr><td colspan="3" class="muted">No manifest for this day (yet).</td></tr>`;
+        return;
+      }
+      const data = await res.json();
+      const list = (data.alerts||[]).slice().sort((a,b)=>b.sent_utc.localeCompare(a.sent_utc));
 
-        if(list.length===0){
-          tbody.innerHTML = `<tr><td colspan="3" class="muted">No alerts captured.</td></tr>`;
-          cards.innerHTML = `<div class="muted" style="padding:12px">No alerts captured.</div>`;
-          return;
-        }
+      if(list.length===0){
+        tbody.innerHTML = `<tr><td colspan="3" class="muted">No alerts captured.</td></tr>`;
+        return;
+      }
 
-        const cache = Object.create(null);
-        tbody.innerHTML = '';
-        cards.innerHTML = '';
+      const cache = Object.create(null);
+      for(const a of list){
+        const tr = document.createElement('tr');
 
-        for(const a of list){
-          const tr = document.createElement('tr');
-          tr.innerHTML = `
-            <td><span class="badge">${a.event_code||''}</span></td>
-            <td class="eas-cell"><span class="muted">loading…</span></td>
-            <td>${a.sent_utc||''}</td>`;
-          tbody.appendChild(tr);
+        /* desktop cells */
+        tr.innerHTML = `
+          <td data-key="Event"><span class="badge">${a.event_code||''}</span></td>
+          <td data-key="EAS Text" class="eas-cell"><span class="muted">loading…</span></td>
+          <td data-key="Sent (UTC)" class="sent">${a.sent_utc||''}</td>`;
 
-          // Mobile card
-          const card = document.createElement('div');
-          card.className = 'card';
-          card.innerHTML = `
-            <div class="card-top">
-              <span class="badge">${a.event_code||''}</span>
-              <span class="card-time">${a.sent_utc||''}</span>
-            </div>
-            <div class="card-text muted">loading…</div>
-            <button class="btn open">Open</button>
-          `;
-          cards.appendChild(card);
+        /* mobile-friendly card labels (transform via CSS) */
+        const tds = tr.querySelectorAll('td');
+        tds.forEach(td=>{
+          const label = document.createElement('div');
+          label.className = 'label';
+          label.textContent = td.getAttribute('data-key') || '';
+          const value = document.createElement('div');
+          value.className = 'value';
+          value.append(...Array.from(td.childNodes));
+          const wrap = document.createElement('div');
+          wrap.className = 'cell';
+          wrap.append(label, value);
+          td.appendChild(wrap);
+        });
 
-          const detailUrl = base + (a.href || `${a.id}.json`);
-          (async ()=>{
-            try{
-              if(!cache[detailUrl]){
-                const rr = await fetch(detailUrl,{cache:'no-cache'});
-                if(!rr.ok) throw new Error('detail not found');
-                cache[detailUrl] = await rr.json();
-              }
-              const j = cache[detailUrl];
-              const preview = (j.eas_text||'').trim();
-              const text = preview ? (preview.length>300 ? preview.slice(0,300)+'…' : preview) : '(no EAS text)';
-              tr.children[1].textContent = text;
-              card.querySelector('.card-text').textContent = text;
+        tbody.appendChild(tr);
 
-              const openDetails = ()=>{
-                mTitle.textContent = j.event_code || 'Alert';
-                mMeta.textContent = `ID: ${j.id||''} • Sent: ${j.sent_utc||''}`;
-                mEas.textContent = (j.eas_text||'').trim() || '(none)';
-                mExtra.textContent = (j.extra_text||'').trim() || '(none)';
-                mAudio.innerHTML = j.audio_url ? `<audio controls src="${j.audio_url}"></audio>` : '';
-                location.hash = a.id || '';
-                openModal();
-              };
-              tr.onclick = openDetails;
-              card.querySelector('.open').onclick = openDetails;
-
-              if(location.hash && location.hash.slice(1)===a.id){ openDetails(); }
-            }catch(e){
-              tr.children[1].innerHTML = '<span class="muted">unavailable</span>';
-              card.querySelector('.card-text').textContent = '(unavailable)';
+        const detailUrl = base + (a.href || `${a.id}.json`);
+        (async ()=>{
+          try{
+            if(!cache[detailUrl]){
+              const rr = await fetch(detailUrl,{cache:'no-cache'});
+              if(!rr.ok) throw new Error('detail not found');
+              cache[detailUrl] = await rr.json();
             }
-          })();
-        }
-      }catch(e){
-        tbody.innerHTML = `<tr><td colspan="3" class="muted">Failed to load. Check connection.</td></tr>`;
-        cards.innerHTML = `<div class="muted" style="padding:12px">Failed to load. Check connection.</div>`;
+            const j = cache[detailUrl];
+            const preview = (j.eas_text||'').trim();
+            const previewText = preview.length>300 ? preview.slice(0,300)+'…' : (preview || '(no EAS text)');
+
+            const easTd = tr.children[1].querySelector('.value');
+            easTd.textContent = previewText;
+
+            tr.onclick = ()=>{
+              mTitle.textContent = j.event_code || 'Alert';
+              mMeta.textContent = `ID: ${j.id||''} • Sent: ${j.sent_utc||''}`;
+              mEas.textContent = (j.eas_text||'').trim() || '(none)';
+              mExtra.textContent = (j.extra_text||'').trim() || '(none)';
+              mAudio.innerHTML = j.audio_url ? `<audio controls src="${j.audio_url}"></audio>` : '';
+              modal.classList.add('show');
+              modal.setAttribute('aria-hidden','false');
+              lockBody();
+              setTimeout(()=>mBody.focus(), 0);
+            };
+          }catch(e){
+            const easTd = tr.children[1].querySelector('.value');
+            easTd.innerHTML = '<span class="muted">unavailable</span>';
+          }
+        })();
       }
     }
 
@@ -352,27 +328,30 @@
       currentDayUTC = addDays(currentDayUTC, n);
       setChip(currentDayUTC);
       loadDay(currentDayUTC);
-      const {y,m,day} = ymd(currentDayUTC);
-      history.replaceState({}, '', `${PREFIX}/alerts/${y}/${m}/${day}/`);
+      pushPathFor(currentDayUTC);
     }
+
+    /* modal close */
+    function closeModal(){
+      modal.classList.remove('show');
+      modal.setAttribute('aria-hidden','true');
+      unlockBody();
+      mClose.blur();
+    }
+    mClose.onclick = closeModal;
+    modal.addEventListener('click', (e)=>{ if(e.target === modal) closeModal(); });
+    window.addEventListener('keydown', (e)=>{ if(e.key === 'Escape') closeModal(); });
 
     /* controls */
     elPrev.onclick = ()=>go(-1);
     elNext.onclick = ()=>go(+1);
-    elToday.onclick = ()=>{ currentDayUTC = pathDateOrToday(); setChip(currentDayUTC); loadDay(currentDayUTC); };
-    elPicker.onchange = ()=>{ const d=new Date(elPicker.value+'T00:00:00Z'); if(!isNaN(d)){ currentDayUTC=d; setChip(d); loadDay(d);} };
-
-    /* modal close */
-    mClose.onclick = ()=>{ closeModal(); };
-    // Keep old hash if user manually edits hash; closing modal should not nuke date path
-    window.addEventListener('hashchange', ()=>{
-      if(location.hash==='' && modal.classList.contains('show')) closeModal();
-    });
+    elToday.onclick = ()=>{ currentDayUTC = pathDateOrToday(); setChip(currentDayUTC); loadDay(currentDayUTC); pushPathFor(currentDayUTC); };
+    elPicker.onchange = ()=>{ const d=new Date(elPicker.value+'T00:00:00Z'); if(!isNaN(d)){ currentDayUTC=d; setChip(d); loadDay(d); pushPathFor(d);} };
 
     /* boot */
     setChip(currentDayUTC);
     loadDay(currentDayUTC);
-    (function pushInitial(){ const {y,m,day}=ymd(currentDayUTC); history.replaceState({},'',`${PREFIX}/alerts/${y}/${m}/${day}/`); })();
+    pushPathFor(currentDayUTC);
   </script>
 </body>
 </html>
