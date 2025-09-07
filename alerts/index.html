@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta property="og:title" content="WSLF IPAWS CAP Archive">
   <meta property="og:description" content="Daily archive of IPAWS CAP alerts captured by the WSLF CAPDEC.">
   <meta property="og:image" content="https://wslf-radio.neocities.org/WSLF_Transparent.png">
@@ -17,64 +17,109 @@
       --chip:#555; --badge:#314964; --badge-b:#223145;
     }
     *{box-sizing:border-box}
-    body{margin:0;padding:0;font-family:'Roboto',sans-serif;background:var(--bg);color:var(--text);line-height:1.6;overflow-x:hidden}
-    .menu-bar{position:fixed;top:0;left:0;right:0;background:#3a3a3a;display:flex;justify-content:space-between;align-items:center;padding:10px 12px;z-index:1000;box-shadow:0 2px 10px rgba(0,0,0,.6)}
+    html,body{height:100%}
+    body{
+      margin:0;padding:0;
+      font-family:'Roboto',sans-serif;
+      background:var(--bg);color:var(--text);line-height:1.6;
+      -webkit-text-size-adjust:100%;
+      text-size-adjust:100%;
+    }
+
+    /* Top bar */
+    .menu-bar{position:sticky;top:0;left:0;right:0;background:#3a3a3a;display:flex;justify-content:space-between;align-items:center;padding:10px 12px;z-index:1000;box-shadow:0 2px 10px rgba(0,0,0,.6)}
     .menu-bar img{width:42px;margin-right:10px}
     .menu-items{display:flex;align-items:center;gap:10px;overflow:auto}
     .menu-item{cursor:pointer;color:#e0e0e0;text-decoration:none;font-weight:500;padding:8px 10px;border-radius:6px;transition:.2s;white-space:nowrap}
     .menu-item:hover{background:#fff;color:#000}
 
-    .content{max-width:1000px;margin:80px auto 30px auto;padding:18px;background:rgba(0,0,0,.9);border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.6)}
+    .content{max-width:1000px;margin:16px auto 30px auto;padding:18px;background:rgba(0,0,0,.9);border-radius:10px;box-shadow:0 2px 10px rgba(0,0,0,.6)}
     h1{margin:4px 0 8px 0;text-align:center;font-weight:500}
     .sub{opacity:.85;text-align:center;margin:0 0 14px 0}
 
     .controls{display:flex;gap:8px;justify-content:center;align-items:center;margin:12px 0 14px 0;flex-wrap:wrap}
-    .btn{background:#3a3a3a;border:1px solid var(--border);color:#e0e0e0;border-radius:6px;padding:8px 12px;cursor:pointer}
+    .btn{background:#3a3a3a;border:1px solid var(--border);color:#e0e0e0;border-radius:8px;padding:10px 14px;cursor:pointer;line-height:1}
     .btn:hover{background:#fff;color:#000}
-    .date-chip{background:var(--chip);color:#fff;border-radius:16px;padding:6px 12px;font-weight:500}
+    .date-chip{background:var(--chip);color:#fff;border-radius:16px;padding:7px 14px;font-weight:500}
 
-    /* Table */
+    /* Table (desktop) */
+    .table-wrap{overflow:visible}
     table{border-collapse:collapse;width:100%;margin-top:6px}
-    thead th{background:var(--head)}
-    th,td{border:1px solid var(--border);padding:.6rem;text-align:left;vertical-align:top}
+    thead th{background:var(--head);position:sticky;top:0;z-index:5}
+    th,td{border:1px solid var(--border);padding:.75rem;text-align:left;vertical-align:top}
     tbody tr{cursor:pointer}
     tbody tr:hover{background:#3a3a3a}
-    .badge{display:inline-block;padding:.2rem .5rem;border-radius:.35rem;font-size:.85rem;font-weight:600;background:var(--badge);border:1px solid var(--badge-b)}
+    .badge{display:inline-block;padding:.25rem .55rem;border-radius:.35rem;font-size:.85rem;font-weight:600;background:var(--badge);border:1px solid var(--badge-b)}
     .muted{opacity:.85;color:var(--muted)}
 
-    /* Responsive tweaks */
-    @media (max-width: 860px){
-      .content{margin:72px 10px 20px 10px;padding:14px}
-      th:nth-child(3), td:nth-child(3){white-space:nowrap}
-    }
-    @media (max-width: 640px){
-      .menu-bar img{width:36px}
+    /* Responsive: convert table rows to cards on small screens (no sideways scroll) */
+    @media (max-width: 720px){
+      .content{margin:12px 10px 20px 10px;padding:14px}
       .controls{gap:6px}
-      .btn{padding:7px 10px}
-      th,td{padding:.5rem}
-      /* allow horizontal scroll if text gets long */
-      .table-wrap{overflow:auto}
-      table{min-width:720px}
+      .btn{padding:9px 12px}
+      .table-wrap{overflow:visible}
+      table{border:0}
+      thead{display:none}
+      tbody{display:grid;grid-template-columns:1fr;gap:10px}
+      tbody tr{
+        display:grid;
+        grid-template-columns: 1fr;
+        gap:8px;
+        border:1px solid var(--border);
+        border-radius:10px;
+        padding:10px;
+        background:var(--panel-2);
+      }
+      tbody tr:hover{background:var(--panel)}
+      tbody td{
+        border:0;
+        padding:0;
+      }
+      .cell{display:flex;gap:8px}
+      .cell .label{
+        min-width:84px;
+        opacity:.8;
+        color:var(--muted);
+        font-size:.9rem;
+      }
+      .cell .value{flex:1;min-width:0}
+      .sent{white-space:nowrap}
     }
 
     /* Modal (details) */
-    .modal{position:fixed;inset:0;background:rgba(0,0,0,.55);display:none;align-items:flex-start;justify-content:center;padding:18px;z-index:2000}
+    .modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;align-items:center;justify-content:center;padding:18px;z-index:2000}
     .modal.show{display:flex;animation:fadeIn .15s ease-out}
-    .modal-card{width:min(980px,100%);background:var(--panel-2);border:1px solid var(--border);border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,.5);transform-origin:top center;animation:pop .18s ease-out}
+    .modal-card{
+      width:min(980px,100%);
+      max-height:92vh;
+      background:var(--panel-2);
+      border:1px solid var(--border);
+      border-radius:12px;
+      box-shadow:0 10px 30px rgba(0,0,0,.55);
+      transform-origin:top center;animation:pop .18s ease-out;
+      overflow:hidden;
+    }
     .modal-head{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;border-bottom:1px solid var(--border);background:var(--panel)}
-    .modal-body{padding:14px}
-    .xbtn{background:transparent;border:0;color:#ddd;font-size:20px;cursor:pointer}
+    .modal-body{padding:14px;overflow:auto;max-height:calc(92vh - 56px)}
+    .xbtn{background:transparent;border:0;color:#ddd;font-size:22px;cursor:pointer}
+    .xbtn:focus{outline:2px solid #fff;outline-offset:2px}
     .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre-wrap;word-break:break-word}
     audio{width:100%;margin-top:8px}
 
     @keyframes fadeIn{from{opacity:0}to{opacity:1}}
     @keyframes pop{from{opacity:.6;transform:translateY(-8px) scale(.98)}to{opacity:1;transform:translateY(0) scale(1)}}
+
+    /* Reduce motion for those who prefer it */
+    @media (prefers-reduced-motion: reduce){
+      .modal.show{animation:none}
+      .modal-card{animation:none}
+    }
   </style>
 </head>
 <body>
   <div class="menu-bar">
     <div style="display:flex;align-items:center;">
-      <img src="/WSLF.png" alt="WSLF Logo">
+      <img src="/WSLF.png" alt="WSLF Logo" width="42" height="42">
       <div class="menu-items">
         <div class="menu-item" onclick="location.href='/'"><i class="fas fa-home"></i> Home</div>
         <div class="menu-item" onclick="location.href='/about'"><i class="fas fa-info-circle"></i> About</div>
@@ -88,11 +133,11 @@
     <p class="sub">Daily listing of alerts captured by WSLF CAPDEC. Tap a row to see full details and audio.</p>
 
     <div class="controls">
-      <button id="prev" class="btn"><i class="fas fa-chevron-left"></i> Prev Day</button>
-      <span id="chip" class="date-chip">Loading…</span>
-      <button id="next" class="btn">Next Day <i class="fas fa-chevron-right"></i></button>
-      <input id="picker" type="date" class="btn" style="background:#2a2a2a;border-color:#555">
-      <button id="today" class="btn">Today</button>
+      <button id="prev" class="btn" type="button" aria-label="Previous day"><i class="fas fa-chevron-left"></i> Prev Day</button>
+      <span id="chip" class="date-chip" aria-live="polite">Loading…</span>
+      <button id="next" class="btn" type="button" aria-label="Next day">Next Day <i class="fas fa-chevron-right"></i></button>
+      <input id="picker" type="date" class="btn" style="background:#2a2a2a;border-color:#555" aria-label="Pick a date">
+      <button id="today" class="btn" type="button">Today</button>
     </div>
 
     <div class="table-wrap">
@@ -110,13 +155,13 @@
   </div>
 
   <!-- Modal -->
-  <div class="modal" id="modal">
+  <div class="modal" id="modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="m_title">
     <div class="modal-card">
       <div class="modal-head">
         <div id="m_title" style="font-weight:600"></div>
         <button class="xbtn" id="m_close" aria-label="Close">&times;</button>
       </div>
-      <div class="modal-body">
+      <div class="modal-body" id="m_body" tabindex="-1">
         <div id="m_meta" class="muted" style="margin-bottom:10px"></div>
         <div id="m_audio" style="margin-bottom:10px"></div>
         <h4 style="margin:10px 0 6px 0;">EAS Text</h4>
@@ -133,11 +178,15 @@
     const PREFIX = PARTS[0] === 'ipawscap-archive' ? '/ipawscap-archive' : '';
 
     /* Phoenix helpers */
-    const PHX_OFFSET_MIN = 7*60;
-    function toPhx(d){ const utc=new Date(d.getTime()+d.getTimezoneOffset()*60000); return new Date(utc.getTime()-PHX_OFFSET_MIN*60000); }
+    const PHX_TZ = 'America/Phoenix';
     function ymd(d){ return {y:d.getUTCFullYear(), m:String(d.getUTCMonth()+1).padStart(2,'0'), day:String(d.getUTCDate()).padStart(2,'0')}; }
     function addDays(d,n){ const t=new Date(d); t.setUTCDate(t.getUTCDate()+n); return t; }
-    function phxTodayUTC(){ const p=toPhx(new Date()); return new Date(Date.UTC(p.getUTCFullYear(),p.getUTCMonth(),p.getUTCDate())); }
+    function phxTodayUTC(){
+      const now = new Date();
+      const fmt = new Intl.DateTimeFormat('en-CA',{timeZone:PHX_TZ,year:'numeric',month:'2-digit',day:'2-digit'});
+      const [y,m,day] = fmt.format(now).split('-');
+      return new Date(Date.UTC(+y, +m-1, +day));
+    }
 
     /* pick date from path or default */
     function pathDateOrToday(){
@@ -161,11 +210,38 @@
     const mEas = document.getElementById('m_eas');
     const mExtra = document.getElementById('m_extra');
     const mClose = document.getElementById('m_close');
+    const mBody  = document.getElementById('m_body');
+
+    /* scroll-lock helpers (prevents background jump) */
+    let __scrollY = 0;
+    function lockBody(){
+      __scrollY = window.scrollY || document.documentElement.scrollTop;
+      document.body.style.position = 'fixed';
+      document.body.style.top = `-${__scrollY}px`;
+      document.body.style.left = '0';
+      document.body.style.right = '0';
+      document.body.style.width = '100%';
+    }
+    function unlockBody(){
+      document.body.style.position = '';
+      document.body.style.top = '';
+      document.body.style.left = '';
+      document.body.style.right = '';
+      document.body.style.width = '';
+      window.scrollTo(0, __scrollY);
+    }
 
     function setChip(dUTC){
-      const s = dUTC.toISOString().slice(0,10);
-      elChip.textContent = s + ' (Arizona/Phoenix)';
-      elPicker.value = s;
+      const iso = dUTC.toISOString().slice(0,10);
+      const pretty = new Date(iso+'T00:00:00Z')
+        .toLocaleDateString('en-US', { weekday:'short', year:'numeric', month:'short', day:'numeric', timeZone:'UTC' });
+      elChip.textContent = `${pretty} (Arizona/Phoenix)`;
+      elPicker.value = iso;
+    }
+
+    function pushPathFor(dUTC){
+      const {y,m,day} = ymd(dUTC);
+      history.replaceState({}, '', `${PREFIX}/alerts/${y}/${m}/${day}/`);
     }
 
     async function loadDay(dUTC){
@@ -175,7 +251,7 @@
       tbody.innerHTML = '';
       const res = await fetch(base + 'index.json', {cache:'no-cache'});
       if(!res.ok){
-        tbody.innerHTML = `<tr><td colspan="3" class="muted">No manifest for this day.</td></tr>`;
+        tbody.innerHTML = `<tr><td colspan="3" class="muted">No alerts have been archived on this day.</td></tr>`;
         return;
       }
       const data = await res.json();
@@ -189,10 +265,28 @@
       const cache = Object.create(null);
       for(const a of list){
         const tr = document.createElement('tr');
+
+        /* desktop cells */
         tr.innerHTML = `
-          <td><span class="badge">${a.event_code||''}</span></td>
-          <td class="eas-cell"><span class="muted">loading…</span></td>
-          <td>${a.sent_utc||''}</td>`;
+          <td data-key="Event"><span class="badge">${a.event_code||''}</span></td>
+          <td data-key="EAS Text" class="eas-cell"><span class="muted">loading…</span></td>
+          <td data-key="Sent (UTC)" class="sent">${a.sent_utc||''}</td>`;
+
+        /* mobile-friendly card labels (transform via CSS) */
+        const tds = tr.querySelectorAll('td');
+        tds.forEach(td=>{
+          const label = document.createElement('div');
+          label.className = 'label';
+          label.textContent = td.getAttribute('data-key') || '';
+          const value = document.createElement('div');
+          value.className = 'value';
+          value.append(...Array.from(td.childNodes));
+          const wrap = document.createElement('div');
+          wrap.className = 'cell';
+          wrap.append(label, value);
+          td.appendChild(wrap);
+        });
+
         tbody.appendChild(tr);
 
         const detailUrl = base + (a.href || `${a.id}.json`);
@@ -205,19 +299,29 @@
             }
             const j = cache[detailUrl];
             const preview = (j.eas_text||'').trim();
-            tr.children[1].textContent = preview.length>300 ? preview.slice(0,300)+'…' : preview || '(no EAS text)';
+            const previewText = preview.length>300 ? preview.slice(0,300)+'…' : (preview || '(no EAS text)');
+
+            // update both desktop and mobile
+            const easTd = tr.children[1].querySelector('.value');
+            easTd.textContent = previewText;
+
             tr.onclick = ()=>{
+              // populate modal
               mTitle.textContent = j.event_code || 'Alert';
               mMeta.textContent = `ID: ${j.id||''} • Sent: ${j.sent_utc||''}`;
               mEas.textContent = (j.eas_text||'').trim() || '(none)';
               mExtra.textContent = (j.extra_text||'').trim() || '(none)';
               mAudio.innerHTML = j.audio_url ? `<audio controls src="${j.audio_url}"></audio>` : '';
+              // show modal (no hash change => no jump)
               modal.classList.add('show');
-              if(j.id) location.hash = j.id;
+              modal.setAttribute('aria-hidden','false');
+              lockBody();
+              // focus into modal body for accessibility & make inner scroll work
+              setTimeout(()=>mBody.focus(), 0);
             };
-            if(location.hash && location.hash.slice(1)===a.id){ tr.click(); }
           }catch(e){
-            tr.children[1].innerHTML = '<span class="muted">unavailable</span>';
+            const easTd = tr.children[1].querySelector('.value');
+            easTd.innerHTML = '<span class="muted">unavailable</span>';
           }
         })();
       }
@@ -227,24 +331,30 @@
       currentDayUTC = addDays(currentDayUTC, n);
       setChip(currentDayUTC);
       loadDay(currentDayUTC);
-      const {y,m,day} = ymd(currentDayUTC);
-      history.replaceState({}, '', `${PREFIX}/alerts/${y}/${m}/${day}/`);
+      pushPathFor(currentDayUTC);
     }
 
     /* modal close */
-    mClose.onclick = ()=>modal.classList.remove('show');
-    modal.addEventListener('click', (e)=>{ if(e.target === modal) modal.classList.remove('show'); });
-    window.addEventListener('keydown', (e)=>{ if(e.key === 'Escape') modal.classList.remove('show'); });
+    function closeModal(){
+      modal.classList.remove('show');
+      modal.setAttribute('aria-hidden','true');
+      unlockBody();
+      mClose.blur();
+    }
+    mClose.onclick = closeModal;
+    modal.addEventListener('click', (e)=>{ if(e.target === modal) closeModal(); });
+    window.addEventListener('keydown', (e)=>{ if(e.key === 'Escape') closeModal(); });
 
     /* controls */
     elPrev.onclick = ()=>go(-1);
     elNext.onclick = ()=>go(+1);
-    elToday.onclick = ()=>{ currentDayUTC = pathDateOrToday(); setChip(currentDayUTC); loadDay(currentDayUTC); };
-    elPicker.onchange = ()=>{ const d=new Date(elPicker.value+'T00:00:00Z'); if(!isNaN(d)){ currentDayUTC=d; setChip(d); loadDay(d);} };
+    elToday.onclick = ()=>{ currentDayUTC = pathDateOrToday(); setChip(currentDayUTC); loadDay(currentDayUTC); pushPathFor(currentDayUTC); };
+    elPicker.onchange = ()=>{ const d=new Date(elPicker.value+'T00:00:00Z'); if(!isNaN(d)){ currentDayUTC=d; setChip(d); loadDay(d); pushPathFor(d);} };
 
     /* boot */
     setChip(currentDayUTC);
     loadDay(currentDayUTC);
+    pushPathFor(currentDayUTC);
   </script>
 </body>
 </html>
