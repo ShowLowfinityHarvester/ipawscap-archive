@@ -1,0 +1,8 @@
+{
+  "id": "AS-UT-fca17f5f-2637-49e4-8e7e-32b7a09dd7ae",
+  "event_code": "LAE",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A LOCAL AREA EMERGENCY FOR THE FOLLOWING COUNTIES/AREAS: San Juan, UT; AT 11:53 AM ON SEP 13, 2025 EFFECTIVE UNTIL 12:53 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "The National Weather Service in Grand Junction has issued a* Severe Thunderstorm Warning for...Southeastern San Juan County in southeastern Utah...* Until 115 PM MDT.* At 1242 PM MDT, a severe thunderstorm was located 7 miles northeastof Montezuma Creek, or 22 miles southeast of Blanding, movingnortheast at 10 mph.HAZARD...60 mph wind gusts and quarter size hail.SOURCE...Radar indicated.IMPACT...Hail damage to vehicles is expected. Expect wind damageto roofs, siding, and trees.* Locations impacted include...Hovenweep National Monument.PRECAUTIONARY/PREPAREDNESS ACTIONS...Remain alert for a possible tornado! Tornadoes can develop quicklyfrom severe thunderstorms. If you spot a tornado go at once into thebasement or small central room in a sturdy structure.For your protection move to an interior room on the lowest floor of abuilding.Torrential rainfall is occurring with this storm, and may lead toflash flooding. Do not drive your vehicle through flooded roadways.&&LAT...LON 3739 10938 3754 10915 3738 10904 3730 109043728 10927TIME...MOT...LOC 1842Z 241DEG 7KT 3735 10925TORNADO...POSSIBLEHAIL THREAT...RADAR INDICATEDMAX HAIL SIZE...1.00 INWIND THREAT...RADAR INDICATEDMAX WIND GUST...60 MPH",
+  "sent_utc": "2025-09-13T18:53:48+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/13/AS-UT-fca17f5f-2637-49e4-8e7e-32b7a09dd7ae.mp3"
+}
