@@ -1,0 +1,8 @@
+{
+  "id": "AS-MN-3f3508e2-3fe4-4a8e-aab0-f3065837ba18",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Cottonwood, MN; AT 03:28 PM ON SEP 15, 2025 EFFECTIVE UNTIL 03:43 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the IPAWS system. If this was an actual emergency, further instructions would be listed.",
+  "sent_utc": "2025-09-15T22:28:18+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/15/AS-MN-3f3508e2-3fe4-4a8e-aab0-f3065837ba18.mp3"
+}
