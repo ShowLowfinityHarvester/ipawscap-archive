@@ -1,0 +1,8 @@
+{
+  "id": "GA.507_418_2025-09-15T10:31:01-04:00",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Georgia; AT 07:31 AM ON SEP 15, 2025 EFFECTIVE UNTIL 08:31 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is the required weekly test of the emergency alert system for the State of Georgia",
+  "sent_utc": "2025-09-15T14:31:01+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/15/GA.507_418_2025-09-15T10_31_01-04_00.mp3"
+}
