@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-1364-20250919043000",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Jackson, OR; AT 04:30 AM ON SEP 19, 2025 EFFECTIVE UNTIL 04:45 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2025-09-19T11:30:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/19/CAPNET-0-1364-20250919043000.mp3"
+}
