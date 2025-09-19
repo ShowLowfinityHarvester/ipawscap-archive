@@ -1,0 +1,8 @@
+{
+  "id": "PA.002_28_2025-09-19T11:45:37-04:00",
+  "event_code": "DMO",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A PRACTICE/DEMO WARNING FOR THE FOLLOWING COUNTIES/AREAS: Dauphin, PA; AT 08:45 AM ON SEP 19, 2025 EFFECTIVE UNTIL 10:45 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "TEST TEST TEST This is a test of the emergency alert system, this is only a test. no action is required.",
+  "sent_utc": "2025-09-19T15:45:37+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/19/PA.002_28_2025-09-19T11_45_37-04_00.mp3"
+}
