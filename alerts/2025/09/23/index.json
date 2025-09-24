@@ -125,6 +125,12 @@
       "event_code": "CEM",
       "sent_utc": "2025-09-24T00:25:29+00:00",
       "href": "AS-HI-8099e3bc-a2de-4d7c-b40b-8343786c3ced.json"
+    },
+    {
+      "id": "CAPNET-1-2552-20250923195400",
+      "event_code": "RWT",
+      "sent_utc": "2025-09-24T00:54:00+00:00",
+      "href": "CAPNET-1-2552-20250923195400.json"
     }
   ]
 }
