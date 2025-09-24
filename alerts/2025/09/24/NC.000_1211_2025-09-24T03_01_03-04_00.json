@@ -1,0 +1,8 @@
+{
+  "id": "NC.000_1211_2025-09-24T03:01:03-04:00",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: North Carolina; AT 12:01 AM ON SEP 24, 2025 EFFECTIVE UNTIL 02:01 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a required weekly test from the North Carolina State Emergency Operations Center",
+  "sent_utc": "2025-09-24T07:01:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/24/NC.000_1211_2025-09-24T03_01_03-04_00.mp3"
+}
