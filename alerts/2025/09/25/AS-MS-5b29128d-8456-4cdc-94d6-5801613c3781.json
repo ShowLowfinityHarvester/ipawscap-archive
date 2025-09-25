@@ -1,0 +1,8 @@
+{
+  "id": "AS-MS-5b29128d-8456-4cdc-94d6-5801613c3781",
+  "event_code": "TOE",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A 911 TELEPHONE OUTAGE EMERGENCY FOR THE FOLLOWING COUNTIES/AREAS: Lamar, MS; AT 01:19 PM ON SEP 25, 2025 EFFECTIVE UNTIL 05:19 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "911 OUTAGE for Lamar County The State 911 system has had a critical incident and 911 may not be available from a cellular phone. You can still call 911 from a landline phone. If you have an emergency you can contact 911 dispatch at the following numbers: 601-596-7082, 769-456-1538, 769-456-1629, 769-456-1136, 769-456-1450",
+  "sent_utc": "2025-09-25T20:19:02+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/25/AS-MS-5b29128d-8456-4cdc-94d6-5801613c3781.mp3"
+}
