@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-6ee4b5e6d82849c993e26187e93af4b2",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Michigan; AT 10:01 AM ON SEP 25, 2025 EFFECTIVE UNTIL 11:01 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a required weekly test of the Emergency Alert System, originating from the Michigan State Police State Emergency Operations Center in Lansing. If this had been an actual emergency such as a tornado, toxic material release, nuclear plant incident, widespread phone or power outage, or other state or local emergency that affects your safety, official messages would have followed the alert tone. This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2025-09-25T17:01:35+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/25/OnSolve-6ee4b5e6d82849c993e26187e93af4b2.mp3"
+}
