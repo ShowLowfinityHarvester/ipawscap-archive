@@ -1,0 +1,8 @@
+{
+  "id": "IN.201_627_2025-09-26T06:34:54-04:00",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Indiana; AT 03:34 AM ON SEP 26, 2025 EFFECTIVE UNTIL 05:34 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test.  This is ONLY a test.  The Indiana Department of Homeland Security,  Alternate Warning Site with the Indiana State Police is conducting the required weekly test of the Emergency Alert System for all Indiana locations as required by the Indiana State EAS Plan.   This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2025-09-26T10:34:54+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/26/IN.201_627_2025-09-26T06_34_54-04_00.mp3"
+}
