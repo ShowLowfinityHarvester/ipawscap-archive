@@ -27,7 +27,7 @@
     {
       "id": "17589541680001390592927",
       "event_code": "EVI",
-      "sent_utc": "2025-09-27T06:22:48+00:00",
+      "sent_utc": "2025-09-27T06:22:48+00:00 NOTE: This alert has an invalid expiration time due to a calculation error on the SonidoDEC. It's expiration time was 7:22 AM.",
       "href": "17589541680001390592927.json"
     }
   ]
