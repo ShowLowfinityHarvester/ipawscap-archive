@@ -59,6 +59,12 @@
       "event_code": "RWT",
       "sent_utc": "2025-09-29T16:00:00+00:00",
       "href": "RWT_CDT_1759161600000.json"
+    },
+    {
+      "id": "AS-KS-1a4db867-ca6a-4795-aa86-6a7888835432",
+      "event_code": "ADR",
+      "sent_utc": "2025-09-29T16:15:23+00:00",
+      "href": "AS-KS-1a4db867-ca6a-4795-aa86-6a7888835432.json"
     }
   ]
 }
