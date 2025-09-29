@@ -1,0 +1,8 @@
+{
+  "id": "2178615181662893",
+  "event_code": "LAE",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A LOCAL AREA EMERGENCY FOR THE FOLLOWING COUNTIES/AREAS: Hays; Travis; Williamson, TX; AT 01:02 PM ON SEP 29, 2025 EFFECTIVE UNTIL 02:02 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "City of Austin Emergency Management. This is a TEST of the City of Austin Emergency Alert System.  This tests our ability to send emergency messages directly to mobile devices. No action is required. THIS IS ONLY A TEST. You can visit www.ReadyCentralTexas.org for more information.",
+  "sent_utc": "2025-09-29T20:02:40+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/29/2178615181662893.mp3"
+}
