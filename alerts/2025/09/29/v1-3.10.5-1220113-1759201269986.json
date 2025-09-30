@@ -1,0 +1,8 @@
+{
+  "id": "v1-3.10.5-1220113-1759201269986",
+  "event_code": "LAE",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A LOCAL AREA EMERGENCY FOR THE FOLLOWING COUNTIES/AREAS: San Jacinto, TX; AT 08:01 PM ON SEP 29, 2025 EFFECTIVE UNTIL 08:01 PM SEP 30, 2025. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "No drones allowed near medical aircraft",
+  "sent_utc": "2025-09-30T03:01:10+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/09/29/v1-3.10.5-1220113-1759201269986.mp3"
+}
