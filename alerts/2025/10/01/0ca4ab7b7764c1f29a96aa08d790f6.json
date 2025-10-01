@@ -1,0 +1,8 @@
+{
+  "id": "0ca4ab7b7764c1f29a96aa08d790f6",
+  "event_code": "LAE",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A LOCAL AREA EMERGENCY FOR THE FOLLOWING COUNTIES/AREAS: Marshall, AL; AT 01:22 PM ON OCT 01, 2025 EFFECTIVE UNTIL 01:37 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Marshall County Emergency Management Agency alerting system. **THIS IS ONLY A TEST** Should this have been a real emergency then instructions would follow.",
+  "sent_utc": "2025-10-01T20:22:01+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/01/0ca4ab7b7764c1f29a96aa08d790f6.mp3"
+}
