@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-1-14168-20251001092700",
+  "event_code": "DMO",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A PRACTICE/DEMO WARNING FOR THE FOLLOWING COUNTIES/AREAS: Franklin, OH; AT 06:27 AM ON OCT 01, 2025 EFFECTIVE UNTIL 07:27 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "Test Ohio EMA: Prolonged power outages expected across Meigs County. Heat index up to 115 F for several days poses serious health risks, especially for vulnerable populations. Cooling centers open 24/7 at all Meigs Local Schools. Limit travel. More: www.meigscountyema.org No action is needed. This is only a test.",
+  "sent_utc": "2025-10-01T13:27:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/01/CAPNET-1-14168-20251001092700.mp3"
+}
