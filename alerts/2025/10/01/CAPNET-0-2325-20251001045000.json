@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-2325-20251001045000",
+  "event_code": "RMT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED MONTHLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Santa Barbara, CA; AT 04:50 AM ON OCT 01, 2025 EFFECTIVE UNTIL 05:50 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a required monthly test of the Emergency Alert System. This is only a test. If this was a real alert, you should tune to one of these television or radio stations to receive instructions from authorities about what is happening and what you need to do. This concludes this test of the emergency alert system. No action is needed. This is only a test.",
+  "sent_utc": "2025-10-01T11:50:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/01/CAPNET-0-2325-20251001045000.mp3"
+}
