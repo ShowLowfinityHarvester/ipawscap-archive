@@ -1,0 +1,8 @@
+{
+  "id": "bf4d248507f2977aeb4bdb5c33352a",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Marshall, AL; AT 11:20 AM ON OCT 01, 2025 EFFECTIVE UNTIL 11:35 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Marshall County Emergency Management Agency alerting system. **THIS IS ONLY A TEST** Should this have been a real emergency then instructions would follow.",
+  "sent_utc": "2025-10-01T18:20:22+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/01/bf4d248507f2977aeb4bdb5c33352a.mp3"
+}
