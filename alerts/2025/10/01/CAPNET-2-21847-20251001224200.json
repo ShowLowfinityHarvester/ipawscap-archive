@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-2-21847-20251001224200",
+  "event_code": "RMT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED MONTHLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Minnesota; AT 08:42 PM ON OCT 01, 2025 EFFECTIVE UNTIL 09:42 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a coordinated test of the Emergency Alert System in cooperation with the local broadcasters. This is only a test. This test is from the Minnesota Bureau of Criminal Apprehension. No action is needed. This is only a test.",
+  "sent_utc": "2025-10-02T03:42:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/01/CAPNET-2-21847-20251001224200.mp3"
+}
