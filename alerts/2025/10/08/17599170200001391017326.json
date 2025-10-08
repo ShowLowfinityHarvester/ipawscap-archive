@@ -1,0 +1,8 @@
+{
+  "id": "17599170200001391017326",
+  "event_code": "RMT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED MONTHLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Arizona; AT 02:50 AM ON OCT 08, 2025 EFFECTIVE UNTIL 06:03 AM OCT 12, 2025. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System, originated by the Arizona Department of Public Safety. If this had been an actual emergency, important information or instructions would have followed the tones you just heard. This concludes this test. This is a Test",
+  "sent_utc": "2025-10-08T09:50:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/08/17599170200001391017326.mp3"
+}
