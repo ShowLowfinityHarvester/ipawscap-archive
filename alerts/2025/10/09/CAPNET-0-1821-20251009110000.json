@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-1821-20251009110000",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Oregon; Clark, WA; AT 11:00 AM ON OCT 09, 2025 EFFECTIVE UNTIL 02:00 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2025-10-09T18:00:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/09/CAPNET-0-1821-20251009110000.mp3"
+}
