@@ -1,0 +1,8 @@
+{
+  "id": "2203972668493546",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Washington; AT 11:00 AM ON OCT 14, 2025 EFFECTIVE UNTIL 12:00 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test.  This is only a test of the Emergency Alert System in Washington State issued by the Washington State Emergency Operations Center. In the event of an emergency, this system would bring you important information. The following tones will conclude this test from the Washington State Emergency Operations Center.",
+  "sent_utc": "2025-10-14T18:00:15+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/14/2203972668493546.mp3"
+}
