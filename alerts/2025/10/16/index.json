@@ -1,3 +1,10 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "id": "d2049e5dcaf78120bd071ec30e8799",
+      "event_code": "RWT",
+      "sent_utc": "2025-10-16T09:00:09+00:00",
+      "href": "d2049e5dcaf78120bd071ec30e8799.json"
+    }
+  ]
 }
