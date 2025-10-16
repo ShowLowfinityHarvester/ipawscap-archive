@@ -1,0 +1,8 @@
+{
+  "id": "17606458540001390997420",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Arizona; AT 01:17 PM ON OCT 16, 2025 EFFECTIVE UNTIL 05:03 PM OCT 20, 2025. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System, originated by the Arizona Department of Public Safety. If this had been an actual emergency, important information or instructions would have followed the tones you just heard. This concludes this test.",
+  "sent_utc": "2025-10-16T20:17:34+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/16/17606458540001390997420.mp3"
+}
