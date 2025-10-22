@@ -1,0 +1,8 @@
+{
+  "id": "MD.000_79_2025-10-22T12:22:57-04:00",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Maryland; AT 09:22 AM ON OCT 22, 2025 EFFECTIVE UNTIL 10:22 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "Test   This is a statewide Required Weekly Test of the Emergency Alert System originating from the Maryland Emergency Management Agency.  This is only a test",
+  "sent_utc": "2025-10-22T16:22:57+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/22/MD.000_79_2025-10-22T12_22_57-04_00.mp3"
+}
