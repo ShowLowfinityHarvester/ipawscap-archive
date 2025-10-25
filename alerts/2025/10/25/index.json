@@ -1,3 +1,10 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "id": "AS-KS-a21a3bfc-4677-4a40-82f3-0c501146fdcd",
+      "event_code": "RWT",
+      "sent_utc": "2025-10-25T13:04:44+00:00",
+      "href": "AS-KS-a21a3bfc-4677-4a40-82f3-0c501146fdcd.json"
+    }
+  ]
 }
