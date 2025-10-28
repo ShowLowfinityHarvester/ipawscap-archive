@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-2378-20251028090700",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Santa Barbara, CA; AT 09:07 AM ON OCT 28, 2025 EFFECTIVE UNTIL 09:22 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2025-10-28T16:07:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/28/CAPNET-0-2378-20251028090700.mp3"
+}
