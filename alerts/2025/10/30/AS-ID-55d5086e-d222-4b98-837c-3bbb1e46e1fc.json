@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-55d5086e-d222-4b98-837c-3bbb1e46e1fc",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Idaho; Lincoln, MT; Malheur, OR; Adams; Asotin; Columbia; Ferry; Garfield; Lincoln; Pend Oreille; Spokane; Stevens; Whitman, WA; AT 08:14 AM ON OCT 30, 2025 EFFECTIVE UNTIL 10:14 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the State of Idaho Emergency Alert System. In the event of an emergency, this system would bring you important information. This test was conducted from the Idaho State Communications Center in Meridian, Idaho and is now concluded.",
+  "sent_utc": "2025-10-30T15:14:37+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/10/30/AS-ID-55d5086e-d222-4b98-837c-3bbb1e46e1fc.mp3"
+}
