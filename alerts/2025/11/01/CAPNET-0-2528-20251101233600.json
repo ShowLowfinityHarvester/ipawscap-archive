@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-2528-20251101233600",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Kentucky; Daviess; Fayette; Franklin; Madison; Ohio, KY; AT 08:36 PM ON NOV 01, 2025 EFFECTIVE UNTIL 08:51 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2025-11-02T03:36:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/01/CAPNET-0-2528-20251101233600.mp3"
+}
