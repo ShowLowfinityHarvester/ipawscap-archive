@@ -35,6 +35,12 @@
       "event_code": "CAE",
       "sent_utc": "2025-11-02T20:12:37+00:00",
       "href": "OnSolve-26cfa91c7b9d486da85ff9d13b6cd9e2.json"
+    },
+    {
+      "id": "RWT_GDT_1762131600000",
+      "event_code": "RWT",
+      "sent_utc": "2025-11-03T01:00:00+00:00",
+      "href": "RWT_GDT_1762131600000.json"
     }
   ]
 }
