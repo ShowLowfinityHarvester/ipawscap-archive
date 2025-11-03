@@ -71,6 +71,12 @@
       "event_code": "RWT",
       "sent_utc": "2025-11-03T17:00:00+00:00",
       "href": "RWT_CDT_1762189200000.json"
+    },
+    {
+      "id": "RWT_MDT_1762192800000",
+      "event_code": "RWT",
+      "sent_utc": "2025-11-03T18:00:00+00:00",
+      "href": "RWT_MDT_1762192800000.json"
     }
   ]
 }
