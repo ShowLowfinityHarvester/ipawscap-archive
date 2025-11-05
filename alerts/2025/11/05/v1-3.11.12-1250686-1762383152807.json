@@ -1,0 +1,8 @@
+{
+  "id": "v1-3.11.12-1250686-1762383152807",
+  "event_code": "RMT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED MONTHLY TEST FOR THE FOLLOWING COUNTIES/AREAS: San Diego, CA; AT 03:52 PM ON NOV 05, 2025 EFFECTIVE UNTIL 05:52 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "TEST - This is the required monthly test TEST - This is the required monthly test of the Emergency Alert System.",
+  "sent_utc": "2025-11-05T22:52:33+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/05/v1-3.11.12-1250686-1762383152807.mp3"
+}
