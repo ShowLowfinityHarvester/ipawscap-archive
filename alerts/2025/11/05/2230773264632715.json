@@ -1,0 +1,8 @@
+{
+  "id": "2230773264632715",
+  "event_code": "DMO",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A PRACTICE/DEMO WARNING FOR THE FOLLOWING COUNTIES/AREAS: Fort Bend, TX; AT 03:11 PM ON NOV 05, 2025 EFFECTIVE UNTIL 04:11 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert system. This message is being broadcast as part of a required test conducted by the Fort Bend County Office of Homeland Security & Emergency Management. This is only a test. No action is required.\n\nEste es una prueba del Sistema de Alerta de Emergencia. Este mensaje se transmite como parte de una prueba requerida realizada por la Oficina de Seguridad Nacional y Manejo de Emergencias del Condado de Fort Bend. Esto es solo una prueba. No se requiere ninguna acci\u00f3n.",
+  "sent_utc": "2025-11-05T22:11:45+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/05/2230773264632715.mp3"
+}
