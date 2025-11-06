@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-3634ced586864a7a97a369703f64a9b4",
+  "event_code": "CEM",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A CIVIL EMERGENCY MESSAGE FOR THE FOLLOWING COUNTIES/AREAS: Yakima, WA; AT 03:10 PM ON NOV 06, 2025 EFFECTIVE UNTIL 06:10 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is the Required Monthly Test (RMT) of the local emergency alert system for Yakima County Washington. In the event of an emergency, broadcast stations would provide important public safety information. This is only a test.",
+  "sent_utc": "2025-11-06T22:10:34+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/06/OnSolve-3634ced586864a7a97a369703f64a9b4.mp3"
+}
