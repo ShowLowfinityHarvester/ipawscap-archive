@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-277-20251106134600",
+  "event_code": "RMT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED MONTHLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Minnesota; AT 12:46 PM ON NOV 06, 2025 EFFECTIVE UNTIL 01:46 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a coordinated monthly test of the broadcast stations in your area. If this had been an actual emergency - such as a tornado - official messages would have followed the alert tone.  This concludes this test of the Emergency Alert System. This test is from the Minnesota Division of Homeland Security and Emergency Management. This is only a test, no action required.",
+  "sent_utc": "2025-11-06T19:46:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/06/CAPNET-0-277-20251106134600.mp3"
+}
