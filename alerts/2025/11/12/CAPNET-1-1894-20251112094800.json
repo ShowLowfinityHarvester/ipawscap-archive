@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-1-1894-20251112094800",
+  "event_code": "RMT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED MONTHLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Ohio; AT 07:48 AM ON NOV 12, 2025 EFFECTIVE UNTIL 08:48 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a statewide test of the Ohio emergency alert system, originating from the state emergency operations center in Columbus. This is only a test. The Ohio emergency alert system has been designed to provide the public with timely warnings and emergency information. Had this been an actual emergency, you would have received instructions and information related to that emergency over this and other stations in your area. This concludes this test of the Ohio emergency alert system. No action is needed. This is only a test.",
+  "sent_utc": "2025-11-12T14:48:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/12/CAPNET-1-1894-20251112094800.mp3"
+}
