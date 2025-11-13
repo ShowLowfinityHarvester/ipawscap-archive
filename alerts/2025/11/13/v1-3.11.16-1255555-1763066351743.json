@@ -1,0 +1,8 @@
+{
+  "id": "v1-3.11.16-1255555-1763066351743",
+  "event_code": "EVI",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED AN IMMEDIATE EVACUATION NOTICE FOR THE FOLLOWING COUNTIES/AREAS: Mono, CA; AT 01:39 PM ON NOV 13, 2025 EFFECTIVE UNTIL 02:39 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "Evacuate immediately per the Mono County Sheriffs Office. Temporary evacuation points have been established at Mammoth Lakes Middle School and the Tri-County Fairgrounds in Bishop.",
+  "sent_utc": "2025-11-13T20:39:12+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/13/v1-3.11.16-1255555-1763066351743.mp3"
+}
