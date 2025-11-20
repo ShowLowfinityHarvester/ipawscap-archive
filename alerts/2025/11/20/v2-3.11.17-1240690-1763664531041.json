@@ -1,0 +1,8 @@
+{
+  "id": "v2-3.11.17-1240690-1763664531041",
+  "event_code": "DMO",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A PRACTICE/DEMO WARNING FOR THE FOLLOWING COUNTIES/AREAS: Los Angeles, CA; AT 11:48 AM ON NOV 20, 2025 EFFECTIVE UNTIL 12:48 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "Los Angeles County Office of Emergency Management: November 20, 2025, at 10:50 AM - This is a practice demonstration message of the Emergency Alert System. This is only a test. No action is required. This test is being conducted by the Los Angeles County Emergency Operations Center in coordination with local radio and television broadcasters. If this had been an actual emergency, official information and instructions would have followed the alert tone. This concludes the test message from the Emergency Alert System. Los Angeles County Office of Emergency Management: November 20, 2025, at 10:50  AM - This is a practice demonstration message of the Emergency Alert System. This is only a test. No action is required. This test is being conducted by the Los Angeles County Emergency Operations Center in coordination with local radio and television broadcasters. If this had been an actual emergency, official information and instructions would have followed the alert tone. This concludes the test message from the Emergency Alert System.",
+  "sent_utc": "2025-11-20T18:48:51+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/20/v2-3.11.17-1240690-1763664531041.mp3"
+}
