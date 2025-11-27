@@ -1,0 +1,8 @@
+{
+  "id": "AK.011_345_2025-11-27T01:09:24-09:00",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Alaska; AT 03:09 AM ON NOV 27, 2025 EFFECTIVE UNTIL 03:24 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This a a Required Weekly Test of the Emergency Alert System and the Alaska Amber Alert System. Log only",
+  "sent_utc": "2025-11-27T10:09:24+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/27/AK.011_345_2025-11-27T01_09_24-09_00.mp3"
+}
