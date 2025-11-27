@@ -47,6 +47,12 @@
       "event_code": "RMT",
       "sent_utc": "2025-11-26T22:31:23+00:00",
       "href": "17641962830001392062055.json"
+    },
+    {
+      "id": "DPS-UCJIS-EAS-1764201694173",
+      "event_code": "CAE",
+      "sent_utc": "2025-11-27T00:01:34+00:00",
+      "href": "DPS-UCJIS-EAS-1764201694173.json"
     }
   ]
 }
