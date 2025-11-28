@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-3079-20251128102300",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Hennepin, MN; AT 09:23 AM ON NOV 28, 2025 EFFECTIVE UNTIL 09:38 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2025-11-28T16:23:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/11/28/CAPNET-0-3079-20251128102300.mp3"
+}
