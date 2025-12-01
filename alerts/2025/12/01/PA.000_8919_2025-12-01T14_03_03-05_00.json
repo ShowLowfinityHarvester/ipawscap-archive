@@ -1,0 +1,8 @@
+{
+  "id": "PA.000_8919_2025-12-01T14:03:03-05:00",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Berks; Chester; Montgomery, PA; AT 12:03 PM ON DEC 01, 2025 EFFECTIVE UNTIL 02:03 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is only a test. The Limerick Generating Station is presently conducting a coordinated three-county siren test. This is only a test. There is no emergency at the Limerick Generating Station. Repeating. There is no emergency at the Limerick Generating Station. The sirens that you are hearing are part of a coordinated three-county test of the Limerick Generating Station Siren Warning System. This is only a test. This has been the Pennsylvania Emergency Management Agency.",
+  "sent_utc": "2025-12-01T19:03:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/01/PA.000_8919_2025-12-01T14_03_03-05_00.mp3"
+}
