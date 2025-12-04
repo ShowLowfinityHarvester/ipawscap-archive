@@ -1,0 +1,8 @@
+{
+  "id": "4a62a8f2-bbd2-4603-8e98-f8cc9c5a8517",
+  "event_code": "RWT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED WEEKLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Michigan; AT 01:19 PM ON DEC 04, 2025 EFFECTIVE UNTIL 02:18 PM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a required weekly test of the Emergency Alert System, originating from the Michigan State Police State Emergency Operations Center in Lansing.  \nIf this had been an actual emergency, such as a tornado, toxic material release, nuclear plant incident, widespread phone or power outages, or other state or local emergency that affects your safety, official messages would have followed the alert tone.  This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2025-12-04T20:19:27+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/04/4a62a8f2-bbd2-4603-8e98-f8cc9c5a8517.mp3"
+}
