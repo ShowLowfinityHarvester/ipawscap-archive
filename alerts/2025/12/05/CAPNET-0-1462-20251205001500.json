@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-1462-20251205001500",
+  "event_code": "RMT",
+  "eas_text": "A CIVIL AUTHORITY HAS ISSUED A REQUIRED MONTHLY TEST FOR THE FOLLOWING COUNTIES/AREAS: Oregon; Clark, WA; AT 01:15 AM ON DEC 05, 2025 EFFECTIVE UNTIL 04:15 AM. MESSAGE FROM WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System.  The system is activated for \"Amber Alerts\" when children are abducted and investigators wish to enlist your help recovering these children.    The National Weather Service and your local public safety officials use the Emergency Alert System to warn you of events that pose threats to your life, health, and property.    If this had been an actual emergency, you would be directed to WWW.oralert.gov for more information.    Your local broadcasters volunteer their airtime to bring you these messages.    This test was originated by Oregon Emergency Management. No action is needed. This is only a test.",
+  "sent_utc": "2025-12-05T08:15:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/05/CAPNET-0-1462-20251205001500.mp3"
+}
