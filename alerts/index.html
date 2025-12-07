@@ -277,6 +277,7 @@
       border:1px solid #333;
       border-radius:14px;
       box-shadow:0 10px 40px rgba(0,0,0,.8);
+      overflow:hidden;
     }
     .modal-head{
       display:flex;
@@ -374,7 +375,8 @@
 
   <main class="content">
     <h1 class="title">WSLF Radio IPAWSCAP Archive</h1>
-    <p class="sub">Daily listing of alerts captured by the WSLF "SonidoDEC" CAPDEC. Tap a row to see more alert information and audio.</p>
+    <p class="sub">
+  This archive consists of EAS CAP alerts captured by the WSLF CAPDEC. This archive goes back to September 06 2025. The alert XML's are archived on a different part of this site and go all the way back to November 2012. To view those, <a href="https://www.wslfradio.org/apps/ipawsarchive">click here</a>. </p>
 
     <section class="controls" aria-label="Day Controls">
       <button id="prev" class="btn" aria-label="Previous day"><i class="fas fa-chevron-left"></i> Prev</button>
@@ -425,25 +427,43 @@
     const PARTS = location.pathname.split('/').filter(Boolean);
     const PREFIX = PARTS[0] === 'ipawscap-archive' ? '/ipawscap-archive' : '';
     const PHX_TZ = 'America/Phoenix';
+
     function phxTodayUTC(){
       const now = new Date();
       const fmt = new Intl.DateTimeFormat('en-CA',{timeZone:PHX_TZ,year:'numeric',month:'2-digit',day:'2-digit'});
       const [y,m,d] = fmt.format(now).split('-');
       return new Date(Date.UTC(+y,+m-1,+d));
     }
+
     function ymd(d){
       return {y:d.getUTCFullYear(),m:String(d.getUTCMonth()+1).padStart(2,'0'),day:String(d.getUTCDate()).padStart(2,'0')};
     }
+
     function addDays(d,n){
       const t=new Date(d);
       t.setUTCDate(t.getUTCDate()+n);
       return t;
     }
-    function pathDateOrToday(){
-      const m = location.pathname.match(/\/alerts\/(\d{4})\/(\d{2})\/(\d{2})\//);
-      return m ? new Date(Date.UTC(+m[1], +m[2]-1, +m[3])) : phxTodayUTC();
+
+    function dateFromSearchOrToday(){
+      const params = new URLSearchParams(location.search);
+      const v = params.get('d');
+      if(v && /^\d{4}-\d{2}-\d{2}$/.test(v)){
+        const d = new Date(v+'T00:00:00Z');
+        if(!isNaN(d)) return d;
+      }
+      return phxTodayUTC();
     }
-    let currentDayUTC = pathDateOrToday();
+
+    function updateUrlFor(dUTC){
+      const {y,m,day} = ymd(dUTC);
+      const basePath = location.pathname;
+      const hash = location.hash || '';
+      history.replaceState({},'',`${basePath}?d=${y}-${m}-${day}${hash}`);
+    }
+
+    let currentDayUTC = dateFromSearchOrToday();
+
     const elChip = document.getElementById('chip');
     const elPrev = document.getElementById('prev');
     const elNext = document.getElementById('next');
@@ -451,6 +471,7 @@
     const elToday = document.getElementById('today');
     const tbody = document.querySelector('#tbl tbody');
     const cards = document.getElementById('cards');
+
     const modal = document.getElementById('modal');
     const mTitle = document.getElementById('m_title');
     const mMeta = document.getElementById('m_meta');
@@ -458,7 +479,9 @@
     const mEas = document.getElementById('m_eas');
     const mExtra = document.getElementById('m_extra');
     const mClose = document.getElementById('m_close');
+
     let lastFocused = null;
+
     function openModal(){
       lastFocused = document.activeElement;
       modal.classList.add('show');
@@ -467,12 +490,14 @@
       history.pushState({modal:true}, '', location.pathname + location.search + location.hash);
       document.addEventListener('keydown', onKeyTrap, true);
     }
+
     function closeModal(){
       modal.classList.remove('show');
       document.body.style.overflow = '';
       document.removeEventListener('keydown', onKeyTrap, true);
       if(lastFocused) lastFocused.focus();
     }
+
     function onKeyTrap(e){
       if(e.key === 'Escape'){
         e.preventDefault();
@@ -493,22 +518,22 @@
         }
       }
     }
+
     modal.addEventListener('click',(e)=>{
       if(e.target === modal) closeModal();
     });
+
     window.addEventListener('popstate',()=>{
       if(modal.classList.contains('show')) closeModal();
     });
+
     function setChip(dUTC){
       const iso = dUTC.toISOString().slice(0,10);
       const pretty = new Date(iso+'T00:00:00Z').toLocaleDateString('en-US',{weekday:'short',year:'numeric',month:'short',day:'numeric',timeZone:'UTC'});
       elChip.textContent = `${pretty} (Arizona/Phoenix)`;
       elPicker.value = iso;
     }
-    function pushPathFor(dUTC){
-      const {y,m,day} = ymd(dUTC);
-      history.replaceState({}, '', `${PREFIX}/alerts/${y}/${m}/${day}/`);
-    }
+
     function skeletonRow(){
       const tr = document.createElement('tr');
       tr.innerHTML = `
@@ -517,6 +542,7 @@
         <td><div class="skeleton" style="height:16px;width:120px"></div></td>`;
       return tr;
     }
+
     function skeletonCard(){
       const div = document.createElement('div');
       div.className = 'card';
@@ -530,17 +556,22 @@
       `;
       return div;
     }
+
     async function loadDay(dUTC){
       const isToday = dUTC.getTime() === phxTodayUTC().getTime();
       elNext.disabled = isToday;
+
       tbody.innerHTML = '';
       cards.innerHTML = '';
+
       for(let i=0;i<4;i++){
         tbody.appendChild(skeletonRow());
         cards.appendChild(skeletonCard());
       }
+
       const {y,m,day} = ymd(dUTC);
       const base = `${PREFIX}/alerts/${y}/${m}/${day}/`;
+
       try{
         const res = await fetch(base + 'index.json', {cache:'no-cache'});
         if(!res.ok){
@@ -550,14 +581,17 @@
         }
         const data = await res.json();
         const list = (data.alerts||[]).slice().sort((a,b)=>b.sent_utc.localeCompare(a.sent_utc));
+
         if(list.length===0){
           tbody.innerHTML = `<tr><td colspan="3" class="muted">No alerts captured.</td></tr>`;
           cards.innerHTML = `<div class="muted" style="padding:12px">No alerts captured.</div>`;
           return;
         }
+
         const cache = Object.create(null);
         tbody.innerHTML = '';
         cards.innerHTML = '';
+
         for(const a of list){
           const tr = document.createElement('tr');
           tr.innerHTML = `
@@ -565,6 +599,7 @@
             <td class="eas-cell"><span class="muted">loading…</span></td>
             <td>${a.sent_utc||''}</td>`;
           tbody.appendChild(tr);
+
           const card = document.createElement('div');
           card.className = 'card';
           card.innerHTML = `
@@ -576,7 +611,9 @@
             <button class="btn open">Open</button>
           `;
           cards.appendChild(card);
+
           const detailUrl = base + (a.href || `${a.id}.json`);
+
           (async ()=>{
             try{
               if(!cache[detailUrl]){
@@ -587,8 +624,10 @@
               const j = cache[detailUrl];
               const preview = (j.eas_text||'').trim();
               const text = preview ? (preview.length>300 ? preview.slice(0,300)+'…' : preview) : '(no EAS text)';
+
               tr.children[1].textContent = text;
               card.querySelector('.card-text').textContent = text;
+
               const openDetails = ()=>{
                 mTitle.textContent = j.event_code || 'Alert';
                 mMeta.textContent = `ID: ${j.id||''} • Sent: ${j.sent_utc||''}`;
@@ -598,8 +637,10 @@
                 location.hash = a.id || '';
                 openModal();
               };
+
               tr.onclick = openDetails;
               card.querySelector('.open').onclick = openDetails;
+
               if(location.hash && location.hash.slice(1)===a.id){
                 openDetails();
               }
@@ -614,40 +655,45 @@
         cards.innerHTML = `<div class="muted" style="padding:12px">Failed to load. Check connection.</div>`;
       }
     }
+
     function go(n){
       currentDayUTC = addDays(currentDayUTC, n);
       setChip(currentDayUTC);
+      updateUrlFor(currentDayUTC);
       loadDay(currentDayUTC);
-      const {y,m,day} = ymd(currentDayUTC);
-      history.replaceState({}, '', `${PREFIX}/alerts/${y}/${m}/${day}/`);
     }
+
     elPrev.onclick = ()=>go(-1);
     elNext.onclick = ()=>go(+1);
+
     elToday.onclick = ()=>{
-      currentDayUTC = pathDateOrToday();
+      currentDayUTC = phxTodayUTC();
       setChip(currentDayUTC);
+      updateUrlFor(currentDayUTC);
       loadDay(currentDayUTC);
     };
+
     elPicker.onchange = ()=>{
       const d=new Date(elPicker.value+'T00:00:00Z');
       if(!isNaN(d)){
         currentDayUTC=d;
         setChip(d);
+        updateUrlFor(d);
         loadDay(d);
       }
     };
+
     mClose.onclick = ()=>{
       closeModal();
     };
+
     window.addEventListener('hashchange',()=>{
       if(location.hash==='' && modal.classList.contains('show')) closeModal();
     });
+
     setChip(currentDayUTC);
+    updateUrlFor(currentDayUTC);
     loadDay(currentDayUTC);
-    (function pushInitial(){
-      const {y,m,day}=ymd(currentDayUTC);
-      history.replaceState({},'',`${PREFIX}/alerts/${y}/${m}/${day}/`);
-    })();
   </script>
 </body>
 </html>
