@@ -1,0 +1,839 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta property="og:title" content="WSLF IPAWS CAP Archive" />
+  <meta property="og:description" content="Daily archive of IPAWS CAP alerts captured by the WSLF CAPDEC." />
+  <meta property="og:image" content="https://wslf-radio.neocities.org/WSLF_Transparent.png" />
+  <title>WSLF Radio IPAWSCAP Archive</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+  <style>
+    body{
+      margin:0;
+      font-family:'Roboto',system-ui,-apple-system,Segoe UI,Arial,sans-serif;
+      background-color:#1a1a1a;
+      color:#f0f0f0;
+      line-height:1.6;
+      overflow-x:hidden;
+      scroll-behavior:smooth;
+    }
+    .menu-bar{
+      position:fixed;
+      top:0;
+      left:0;
+      right:0;
+      background-color:#3a3a3a;
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:10px;
+      width:100%;
+      z-index:1000;
+      box-shadow:0 2px 10px rgba(0,0,0,0.6);
+      opacity:0;
+      transform:translateY(-20px);
+      animation:fadeInUp .8s ease-out forwards;
+    }
+    .menu-left{
+      display:flex;
+      align-items:center;
+      gap:16px;
+      min-width:0;
+    }
+    .menu-bar img{
+      width:50px;
+      height:50px;
+      border-radius:8px;
+    }
+    .menu-items{
+      display:flex;
+      align-items:center;
+      flex-wrap:nowrap;
+      overflow:hidden;
+    }
+    .menu-item{
+      margin-right:20px;
+      cursor:pointer;
+      color:#e0e0e0;
+      text-decoration:none;
+      font-weight:500;
+      padding:8px 12px;
+      border-radius:6px;
+      transition:background-color .3s ease,color .3s ease;
+      white-space:nowrap;
+      border:none;
+      background:transparent;
+      display:flex;
+      align-items:center;
+      gap:6px;
+      font-size:.95rem;
+    }
+    .menu-item:hover,
+    .menu-item:focus{
+      background-color:#fff;
+      color:#000;
+      outline:none;
+    }
+    main.content{
+      max-width:1000px;
+      margin:110px auto 24px auto;
+      padding:20px;
+      background:#2a2a2a;
+      border-radius:10px;
+      box-shadow:0 4px 15px rgba(0,0,0,0.3);
+      border:1px solid #444;
+    }
+    .title{
+      margin:0 0 6px 0;
+      text-align:center;
+      font-weight:700;
+      letter-spacing:.2px;
+      font-size:2rem;
+    }
+    .sub{
+      opacity:.9;
+      text-align:center;
+      margin:0 0 16px 0;
+      color:#d0d0d0;
+    }
+    .controls{
+      position:sticky;
+      top:80px;
+      z-index:900;
+      background:#1f1f1f;
+      padding:10px;
+      border-radius:10px;
+      display:flex;
+      gap:8px;
+      justify-content:center;
+      align-items:center;
+      flex-wrap:wrap;
+      border:1px solid #444;
+    }
+    .btn{
+      color:#e0e0e0;
+      background-color:#3a3a3a;
+      border:1px solid #f0f0f0;
+      padding:8px 16px;
+      border-radius:6px;
+      font-weight:500;
+      text-decoration:none;
+      margin:0 4px;
+      transition:background-color .3s ease,color .3s ease;
+      cursor:pointer;
+      font-size:.95rem;
+      min-height:42px;
+    }
+    .btn:hover,
+    .btn:focus{
+      background-color:#11ff00;
+      color:#fff;
+      outline:none;
+    }
+    .btn[disabled]{
+      opacity:.5;
+      cursor:not-allowed;
+      background-color:#3a3a3a;
+      color:#b0b0b0;
+    }
+    .date-chip{
+      background:#3a3a3a;
+      color:#f0f0f0;
+      border-radius:999px;
+      padding:8px 14px;
+      font-weight:700;
+      letter-spacing:.25px;
+      border:1px solid:#f0f0f0;
+      font-size:.95rem;
+    }
+    .picker{
+      background:#3a3a3a;
+      border:1px solid:#f0f0f0;
+      color:#e0e0e0;
+      border-radius:6px;
+      padding:8px 12px;
+      min-height:42px;
+      font-size:.95rem;
+    }
+    .picker:focus{
+      outline:none;
+      border-color:#11ff00;
+    }
+    .table-wrap{
+      border-radius:10px;
+      overflow:auto;
+      background:#1f1f1f;
+      margin-top:16px;
+      border:1px solid #444;
+    }
+    table{
+      border-collapse:collapse;
+      width:100%;
+      color:#f0f0f0;
+      font-size:.9rem;
+    }
+    thead th{
+      background:#333;
+      position:sticky;
+      top:0;
+      z-index:5;
+    }
+    th,td{
+      border-bottom:1px solid #444;
+      padding:.7rem;
+      text-align:left;
+      vertical-align:top;
+    }
+    tbody tr{
+      cursor:pointer;
+    }
+    tbody tr:hover{
+      background:#262626;
+    }
+    .badge{
+      display:inline-block;
+      padding:.25rem .55rem;
+      border-radius:.5rem;
+      font-size:.85rem;
+      font-weight:700;
+      background:#2a4766;
+      border:1px solid #1e3550;
+      color:#f0f0f0;
+    }
+    .muted{
+      color:#bdbdbd;
+    }
+    .mono{
+      font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+      white-space:pre-wrap;
+      word-break:break-word;
+      font-size:.85rem;
+      background:#111;
+      padding:10px;
+      border-radius:6px;
+      border:1px solid #333;
+      color:#f8f8f8;
+    }
+    .cards{
+      display:none;
+      gap:10px;
+      margin-top:16px;
+    }
+    .card{
+      border:1px solid #444;
+      border-radius:12px;
+      background:#1f1f1f;
+      padding:12px;
+      display:flex;
+      flex-direction:column;
+      gap:8px;
+      box-shadow:0 2px 6px rgba(0,0,0,0.4);
+    }
+    .card-top{
+      display:flex;
+      justify-content:space-between;
+      gap:10px;
+      align-items:center;
+    }
+    .card-time{
+      font-size:.9rem;
+      color:#bdbdbd;
+    }
+    .card-text{
+      color:#eaeaea;
+      font-size:.9rem;
+    }
+    .card .open{
+      align-self:stretch;
+    }
+    .skeleton{
+      background:linear-gradient(90deg,#232323 25%,#2b2b2b 37%,#232323 63%);
+      background-size:400% 100%;
+      animation:skeleton 1.2s ease-in-out infinite;
+      border-radius:6px;
+    }
+    @keyframes skeleton{
+      0%{background-position:100% 0}
+      100%{background-position:0 0}
+    }
+    .modal{
+      position:fixed;
+      inset:0;
+      background:rgba(0,0,0,.7);
+      display:none;
+      align-items:flex-start;
+      justify-content:center;
+      padding:18px;
+      z-index:2000;
+    }
+    .modal.show{
+      display:flex;
+    }
+    .modal-card{
+      width:min(980px,100%);
+      background:#111;
+      border:1px solid #333;
+      border-radius:14px;
+      box-shadow:0 10px 40px rgba(0,0,0,.8);
+      overflow:hidden;
+    }
+    .modal-head{
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      padding:12px 14px;
+      border-bottom:1px solid #333;
+      background:#222;
+    }
+    .modal-title{
+      font-weight:800;
+      font-size:1rem;
+    }
+    .modal-body{
+      padding:14px;
+      max-height:70vh;
+      overflow:auto;
+      scrollbar-gutter:stable;
+    }
+    .xbtn{
+      background:transparent;
+      border:0;
+      color:#e0e0e0;
+      font-size:22px;
+      cursor:pointer;
+      border-radius:8px;
+      padding:6px;
+    }
+    .xbtn:hover,
+    .xbtn:focus{
+      outline:none;
+      color:#11ff00;
+      background:#2a2a2a;
+    }
+    audio{
+      width:100%;
+      margin-top:8px;
+      border:1px solid #333;
+      border-radius:10px;
+      background:#000;
+    }
+    footer{
+      text-align:center;
+      padding:16px;
+      background:#2a2a2a;
+      color:#b0b0b0;
+      font-size:.9rem;
+      box-shadow:0 -2px 4px rgba(0,0,0,0.3);
+      margin-top:12px;
+    }
+    @keyframes fadeInUp{
+      to{
+        opacity:1;
+        transform:translateY(0);
+      }
+    }
+    .search-section{
+      margin-top:20px;
+      padding:12px;
+      border-radius:10px;
+      background:#1f1f1f;
+      border:1px solid #444;
+    }
+    .search-bar{
+      display:flex;
+      flex-wrap:wrap;
+      gap:8px;
+      justify-content:center;
+      align-items:center;
+    }
+    .search-input{
+      flex:1;
+      min-width:180px;
+    }
+    .search-status{
+      margin-top:8px;
+      font-size:.85rem;
+    }
+    @media (max-width:900px){
+      main.content{
+        margin:100px 10px 16px 10px;
+        padding:16px;
+      }
+      .controls{
+        top:72px;
+      }
+    }
+    @media (max-width:720px){
+      .table-wrap{
+        display:none;
+      }
+      .cards{
+        display:grid;
+        grid-template-columns:1fr;
+      }
+      .menu-bar img{
+        width:40px;
+        height:40px;
+      }
+      .btn,.picker{
+        padding:10px 12px;
+      }
+      .search-section .table-wrap{
+        display:block;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="menu-bar" role="navigation">
+    <div class="menu-left">
+      <img src="/WSLF.png" alt="WSLF Logo" />
+      <div class="menu-items">
+        <button class="menu-item" onclick="location.href='/'"><i class="fas fa-home"></i><span>Home</span></button>
+        <button class="menu-item" onclick="location.href='/about'"><i class="fas fa-info-circle"></i><span>About</span></button>
+        <button class="menu-item" onclick="location.href='./'"><i class="fas fa-bullhorn"></i><span>IPAWS Archive</span></button>
+      </div>
+    </div>
+  </div>
+
+  <main class="content">
+    <h1 class="title">WSLF Radio IPAWSCAP Archive</h1>
+    <p class="sub">
+      This archive consists of EAS CAP alerts captured by the WSLF CAPDEC. This archive goes back to September 06 2025. The alert XML's are archived on a different part of this site and go all the way back to November 2012. To view those, <a href="https://www.wslfradio.org/apps/ipawsarchive">click here</a>.
+    </p>
+
+    <section class="controls" aria-label="Day Controls">
+      <button id="prev" class="btn" aria-label="Previous day"><i class="fas fa-chevron-left"></i> Prev</button>
+      <span id="chip" class="date-chip">Loading…</span>
+      <button id="next" class="btn" aria-label="Next day">Next <i class="fas fa-chevron-right"></i></button>
+      <input id="picker" type="date" class="picker" aria-label="Pick a date" />
+      <button id="today" class="btn" aria-label="Jump to today">Today</button>
+    </section>
+
+    <div class="table-wrap" aria-live="polite">
+      <table id="tbl">
+        <thead>
+          <tr>
+            <th style="width:88px;">Event</th>
+            <th>EAS Text</th>
+            <th style="width:180px;">Sent (UTC)</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+
+    <div id="cards" class="cards" aria-live="polite"></div>
+
+    <section id="search-section" class="search-section" aria-label="Search Alerts Across Archive">
+      <div class="search-bar">
+        <input id="searchInput" type="search" class="picker search-input" placeholder="Search all alerts…" aria-label="Search all alerts" />
+        <button id="searchBtn" class="btn" aria-label="Run search">Search</button>
+      </div>
+      <div id="search-status" class="muted search-status"></div>
+      <div id="search-results" class="table-wrap" style="display:none;">
+        <table>
+          <thead>
+            <tr>
+              <th style="width:140px;">Date (Arizona)</th>
+              <th style="width:100px;">Event</th>
+              <th>Snippet</th>
+              <th style="width:180px;">Sent (UTC)</th>
+            </tr>
+          </thead>
+          <tbody id="search-body"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <div class="modal" id="modal" role="dialog" aria-modal="true" aria-labelledby="m_title" aria-describedby="m_eas">
+    <div class="modal-card">
+      <div class="modal-head">
+        <div id="m_title" class="modal-title">Alert</div>
+        <button class="xbtn" id="m_close" aria-label="Close details">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div id="m_meta" class="muted" style="margin-bottom:10px"></div>
+        <div id="m_audio" style="margin-bottom:12px"></div>
+        <h4 style="margin:10px 0 6px 0;">EAS Text</h4>
+        <pre id="m_eas" class="mono"></pre>
+        <h4 style="margin:12px 0 6px 0;">Extra Text</h4>
+        <pre id="m_extra" class="mono"></pre>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>© 2025 WSLF Radio. Some Rights Reserved.</p>
+  </footer>
+
+  <script>
+    const PARTS = location.pathname.split('/').filter(Boolean);
+    const PREFIX = PARTS[0] === 'ipawscap-archive' ? '/ipawscap-archive' : '';
+    const PHX_TZ = 'America/Phoenix';
+    const START_ARCHIVE_UTC = new Date(Date.UTC(2025,8,6));
+
+    function phxTodayUTC(){
+      const now = new Date();
+      const fmt = new Intl.DateTimeFormat('en-CA',{timeZone:PHX_TZ,year:'numeric',month:'2-digit',day:'2-digit'});
+      const parts = fmt.format(now).split('-');
+      const y = parts[0];
+      const m = parts[1];
+      const d = parts[2];
+      return new Date(Date.UTC(+y,+m-1,+d));
+    }
+
+    function ymd(d){
+      return {y:d.getUTCFullYear(),m:String(d.getUTCMonth()+1).padStart(2,'0'),day:String(d.getUTCDate()).padStart(2,'0')};
+    }
+
+    function addDays(d,n){
+      const t=new Date(d);
+      t.setUTCDate(t.getUTCDate()+n);
+      return t;
+    }
+
+    function dateFromSearchOrToday(){
+      const params = new URLSearchParams(location.search);
+      const v = params.get('d');
+      if(v && /^\d{4}-\d{2}-\d{2}$/.test(v)){
+        const d = new Date(v+'T00:00:00Z');
+        if(!isNaN(d)) return d;
+      }
+      return phxTodayUTC();
+    }
+
+    function updateUrlFor(dUTC){
+      const p = ymd(dUTC);
+      const y = p.y;
+      const m = p.m;
+      const day = p.day;
+      const basePath = location.pathname;
+      const hash = location.hash || '';
+      history.replaceState({},'',basePath+'?d='+y+'-'+m+'-'+day+hash);
+    }
+
+    let currentDayUTC = dateFromSearchOrToday();
+
+    const elChip = document.getElementById('chip');
+    const elPrev = document.getElementById('prev');
+    const elNext = document.getElementById('next');
+    const elPicker = document.getElementById('picker');
+    const elToday = document.getElementById('today');
+    const tbody = document.querySelector('#tbl tbody');
+    const cards = document.getElementById('cards');
+
+    const modal = document.getElementById('modal');
+    const mTitle = document.getElementById('m_title');
+    const mMeta = document.getElementById('m_meta');
+    const mAudio = document.getElementById('m_audio');
+    const mEas = document.getElementById('m_eas');
+    const mExtra = document.getElementById('m_extra');
+    const mClose = document.getElementById('m_close');
+
+    const elSearchInput = document.getElementById('searchInput');
+    const elSearchBtn = document.getElementById('searchBtn');
+    const searchStatus = document.getElementById('search-status');
+    const searchResultsWrap = document.getElementById('search-results');
+    const searchBody = document.getElementById('search-body');
+
+    let lastFocused = null;
+    let searching = false;
+
+    function openModal(){
+      lastFocused = document.activeElement;
+      modal.classList.add('show');
+      document.body.style.overflow = 'hidden';
+      mClose.focus();
+      history.pushState({modal:true},'',location.pathname+location.search+location.hash);
+      document.addEventListener('keydown', onKeyTrap, true);
+    }
+
+    function closeModal(){
+      modal.classList.remove('show');
+      document.body.style.overflow = '';
+      document.removeEventListener('keydown', onKeyTrap, true);
+      if(lastFocused) lastFocused.focus();
+    }
+
+    function onKeyTrap(e){
+      if(e.key === 'Escape'){
+        e.preventDefault();
+        closeModal();
+        return;
+      }
+      if(e.key === 'Tab'){
+        const f = modal.querySelectorAll('button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])');
+        const foc = Array.from(f).filter(function(x){return !x.hasAttribute('disabled');});
+        if(foc.length===0) return;
+        const i = foc.indexOf(document.activeElement);
+        if(e.shiftKey && (i<=0 || i===-1)){
+          e.preventDefault();
+          foc[foc.length-1].focus();
+        }else if(!e.shiftKey && (i===foc.length-1)){
+          e.preventDefault();
+          foc[0].focus();
+        }
+      }
+    }
+
+    modal.addEventListener('click',function(e){
+      if(e.target === modal) closeModal();
+    });
+
+    window.addEventListener('popstate',function(){
+      if(modal.classList.contains('show')) closeModal();
+    });
+
+    function setChip(dUTC){
+      const iso = dUTC.toISOString().slice(0,10);
+      const pretty = new Date(iso+'T00:00:00Z').toLocaleDateString('en-US',{weekday:'short',year:'numeric',month:'short',day:'numeric',timeZone:'UTC'});
+      elChip.textContent = pretty+' (Arizona/Phoenix)';
+      elPicker.value = iso;
+    }
+
+    function skeletonRow(){
+      const tr = document.createElement('tr');
+      tr.innerHTML = '<td><span class="skeleton" style="display:inline-block;width:52px;height:22px"></span></td><td><div class="skeleton" style="height:18px;width:90%"></div><div class="skeleton" style="height:14px;width:70%;margin-top:8px"></div></td><td><div class="skeleton" style="height:16px;width:120px"></div></td>';
+      return tr;
+    }
+
+    function skeletonCard(){
+      const div = document.createElement('div');
+      div.className = 'card';
+      div.innerHTML = '<div class="card-top"><span class="skeleton" style="width:60px;height:24px"></span><span class="skeleton" style="width:120px;height:16px"></span></div><div class="skeleton" style="height:16px;width:90%"></div><div class="skeleton" style="height:14px;width:70%"></div>';
+      return div;
+    }
+
+    async function loadDay(dUTC){
+      const isToday = dUTC.getTime() === phxTodayUTC().getTime();
+      elNext.disabled = isToday;
+
+      tbody.innerHTML = '';
+      cards.innerHTML = '';
+
+      for(let i=0;i<4;i++){
+        tbody.appendChild(skeletonRow());
+        cards.appendChild(skeletonCard());
+      }
+
+      const p = ymd(dUTC);
+      const y = p.y;
+      const m = p.m;
+      const day = p.day;
+      const base = PREFIX+'/alerts/'+y+'/'+m+'/'+day+'/';
+
+      try{
+        const res = await fetch(base+'index.json',{cache:'no-cache'});
+        if(!res.ok){
+          tbody.innerHTML = '<tr><td colspan="3" class="muted">No manifest for this day.</td></tr>';
+          cards.innerHTML = '<div class="muted" style="padding:12px">No manifest for this day.</div>';
+          return;
+        }
+        const data = await res.json();
+        const list = (data.alerts||[]).slice().sort(function(a,b){return b.sent_utc.localeCompare(a.sent_utc);});
+
+        if(list.length===0){
+          tbody.innerHTML = '<tr><td colspan="3" class="muted">No alerts captured.</td></tr>';
+          cards.innerHTML = '<div class="muted" style="padding:12px">No alerts captured.</div>';
+          return;
+        }
+
+        const cache = Object.create(null);
+        tbody.innerHTML = '';
+        cards.innerHTML = '';
+
+        for(const a of list){
+          const tr = document.createElement('tr');
+          tr.innerHTML = '<td><span class="badge">'+(a.event_code||'')+'</span></td><td class="eas-cell"><span class="muted">loading…</span></td><td>'+(a.sent_utc||'')+'</td>';
+          tbody.appendChild(tr);
+
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML = '<div class="card-top"><span class="badge">'+(a.event_code||'')+'</span><span class="card-time">'+(a.sent_utc||'')+'</span></div><div class="card-text muted">loading…</div><button class="btn open">Open</button>';
+          cards.appendChild(card);
+
+          const detailUrl = base+(a.href || (a.id+'.json'));
+
+          (async function(){
+            try{
+              if(!cache[detailUrl]){
+                const rr = await fetch(detailUrl,{cache:'no-cache'});
+                if(!rr.ok) throw new Error('detail not found');
+                cache[detailUrl] = await rr.json();
+              }
+              const j = cache[detailUrl];
+              const preview = (j.eas_text||'').trim();
+              const text = preview ? (preview.length>300 ? preview.slice(0,300)+'…' : preview) : '(no EAS text)';
+
+              tr.children[1].textContent = text;
+              card.querySelector('.card-text').textContent = text;
+
+              const openDetails = function(){
+                mTitle.textContent = j.event_code || 'Alert';
+                mMeta.textContent = 'ID: '+(j.id||'')+' • Sent: '+(j.sent_utc||'');
+                mEas.textContent = (j.eas_text||'').trim() || '(none)';
+                mExtra.textContent = (j.extra_text||'').trim() || '(none)';
+                mAudio.innerHTML = j.audio_url ? '<audio controls src="'+j.audio_url+'"></audio>' : '';
+                location.hash = a.id || '';
+                openModal();
+              };
+
+              tr.onclick = openDetails;
+              card.querySelector('.open').onclick = openDetails;
+
+              if(location.hash && location.hash.slice(1)===a.id){
+                openDetails();
+              }
+            }catch(e){
+              tr.children[1].innerHTML = '<span class="muted">unavailable</span>';
+              card.querySelector('.card-text').textContent = '(unavailable)';
+            }
+          })();
+        }
+      }catch(e){
+        tbody.innerHTML = '<tr><td colspan="3" class="muted">Failed to load. Check connection.</td></tr>';
+        cards.innerHTML = '<div class="muted" style="padding:12px">Failed to load. Check connection.</div>';
+      }
+    }
+
+    function go(n){
+      currentDayUTC = addDays(currentDayUTC,n);
+      setChip(currentDayUTC);
+      updateUrlFor(currentDayUTC);
+      loadDay(currentDayUTC);
+    }
+
+    elPrev.onclick = function(){go(-1);};
+    elNext.onclick = function(){go(1);};
+
+    elToday.onclick = function(){
+      currentDayUTC = phxTodayUTC();
+      setChip(currentDayUTC);
+      updateUrlFor(currentDayUTC);
+      loadDay(currentDayUTC);
+    };
+
+    elPicker.onchange = function(){
+      const d=new Date(elPicker.value+'T00:00:00Z');
+      if(!isNaN(d)){
+        currentDayUTC=d;
+        setChip(d);
+        updateUrlFor(d);
+        loadDay(d);
+      }
+    };
+
+    mClose.onclick = function(){
+      closeModal();
+    };
+
+    window.addEventListener('hashchange',function(){
+      if(location.hash==='' && modal.classList.contains('show')) closeModal();
+    });
+
+    async function searchAllAlerts(query){
+      const q = query.trim();
+      if(!q) return;
+      if(searching) return;
+      searching = true;
+      searchStatus.textContent = 'Searching archive…';
+      searchResultsWrap.style.display = 'none';
+      searchBody.innerHTML = '';
+      const start = START_ARCHIVE_UTC;
+      const end = phxTodayUTC();
+      let totalDays = 0;
+      let scannedAlerts = 0;
+      let matches = 0;
+      const lowerQ = q.toLowerCase();
+      for(let d = new Date(start.getTime()); d.getTime() <= end.getTime(); d = addDays(d,1)){
+        const dayUTC = new Date(Date.UTC(d.getUTCFullYear(),d.getUTCMonth(),d.getUTCDate()));
+        totalDays++;
+        const p = ymd(dayUTC);
+        const y = p.y;
+        const m = p.m;
+        const day = p.day;
+        const base = PREFIX+'/alerts/'+y+'/'+m+'/'+day+'/';
+        let res;
+        try{
+          res = await fetch(base+'index.json',{cache:'no-cache'});
+        }catch(e){
+          continue;
+        }
+        if(!res.ok) continue;
+        let data;
+        try{
+          data = await res.json();
+        }catch(e){
+          continue;
+        }
+        const alerts = data.alerts || [];
+        for(const a of alerts){
+          scannedAlerts++;
+          const detailUrl = base+(a.href || (a.id+'.json'));
+          let j;
+          try{
+            const rr = await fetch(detailUrl,{cache:'no-cache'});
+            if(!rr.ok) continue;
+            j = await rr.json();
+          }catch(e){
+            continue;
+          }
+          const text = ((j.eas_text||'')+' '+(j.extra_text||'')+' '+(j.event_code||'')+' '+(j.id||'')).toLowerCase();
+          if(text.indexOf(lowerQ)!==-1){
+            matches++;
+            const sent = j.sent_utc || a.sent_utc || '';
+            const iso = y+'-'+m+'-'+day;
+            const prettyDate = new Date(iso+'T00:00:00Z').toLocaleDateString('en-US',{year:'numeric',month:'short',day:'numeric',timeZone:'UTC'});
+            const snippetSource = (j.eas_text||'').trim() || (j.extra_text||'').trim() || '';
+            const snippet = snippetSource ? (snippetSource.length>160 ? snippetSource.slice(0,160)+'…' : snippetSource) : '(no text)';
+            const eventCode = j.event_code || a.event_code || '';
+            const id = j.id || a.id || '';
+            const resultRow = document.createElement('tr');
+            resultRow.innerHTML = '<td>'+prettyDate+'</td><td><span class="badge">'+eventCode+'</span></td><td>'+snippet+'</td><td>'+sent+'</td>';
+            resultRow.onclick = function(){
+              const targetDay = new Date(Date.UTC(dayUTC.getUTCFullYear(),dayUTC.getUTCMonth(),dayUTC.getUTCDate()));
+              currentDayUTC = targetDay;
+              setChip(currentDayUTC);
+              updateUrlFor(currentDayUTC);
+              loadDay(currentDayUTC).then(function(){
+                if(id){
+                  location.hash = id;
+                }
+              });
+            };
+            searchBody.appendChild(resultRow);
+          }
+        }
+        searchStatus.textContent = 'Searching archive… scanned '+totalDays+' day(s), '+scannedAlerts+' alert(s), found '+matches+' match(es).';
+      }
+      searching = false;
+      if(matches===0){
+        searchStatus.textContent = 'No results for "'+q+'". Searched '+totalDays+' day(s), '+scannedAlerts+' alert(s).';
+        searchResultsWrap.style.display = 'none';
+      }else{
+        searchStatus.textContent = 'Found '+matches+' alert(s) for "'+q+'". Searched '+totalDays+' day(s), '+scannedAlerts+' alert(s).';
+        searchResultsWrap.style.display = '';
+      }
+    }
+
+    elSearchBtn.onclick = function(){
+      searchAllAlerts(elSearchInput.value);
+    };
+
+    elSearchInput.addEventListener('keydown',function(e){
+      if(e.key === 'Enter'){
+        e.preventDefault();
+        searchAllAlerts(elSearchInput.value);
+      }
+    });
+
+    setChip(currentDayUTC);
+    updateUrlFor(currentDayUTC);
+    loadDay(currentDayUTC);
+  </script>
+</body>
+</html>
