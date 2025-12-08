@@ -1,0 +1,116 @@
+{
+  "colors": {
+    "unk": "797979",
+    "tst": "ffffff",
+    "smt": "32cd32",
+    "adv": "ffcc00",
+    "wat": "fff000",
+    "war": "ff0000",
+    "bio": "9932cc",
+    "blu": "1e90ff",
+    "smw": "12c0c1",
+    "ean": "000000"
+  },
+  "events": {
+    "ADR": { "name": "Administrative Message",            "icon": "https://icons.gwes-cdn.net/index.php?img=chat&hex=",        "cat": "smt" },
+    "AVA": { "name": "Avalanche Watch",                   "icon": "https://icons.gwes-cdn.net/index.php?img=avalanche&hex=",   "cat": "wat" },
+    "AVW": { "name": "Avalanche Warning",                 "icon": "https://icons.gwes-cdn.net/index.php?img=avalanche&hex=",   "cat": "war" },
+    "BHW": { "name": "Biological Hazard Warning",         "icon": "https://icons.gwes-cdn.net/index.php?img=biohazard&hex=",   "cat": "bio" },
+    "BLU": { "name": "Blue Alert",                        "icon": "https://icons.gwes-cdn.net/index.php?img=police&hex=",      "cat": "blu" },
+    "BWW": { "name": "Boil Water Warning",                "icon": "https://icons.gwes-cdn.net/index.php?img=boilwater&hex=",   "cat": "bio" },
+    "BZW": { "name": "Blizzard Warning",                  "icon": "https://icons.gwes-cdn.net/index.php?img=snow&hex=",        "cat": "war" },
+
+    "CAE": { "name": "Child Abduction Emergency",         "icon": "https://icons.gwes-cdn.net/index.php?img=child&hex=",       "cat": "adv" },
+    "CDW": { "name": "Civil Danger Warning",              "icon": "https://icons.gwes-cdn.net/index.php?img=warning&hex=",     "cat": "war" },
+    "CEM": { "name": "Civil Emergency Message",           "icon": "https://icons.gwes-cdn.net/index.php?img=warning&hex=",     "cat": "war" },
+    "CFA": { "name": "Coastal Flood Watch",               "icon": "https://icons.gwes-cdn.net/index.php?img=marine&hex=",      "cat": "wat" },
+    "CFW": { "name": "Coastal Flood Warning",             "icon": "https://icons.gwes-cdn.net/index.php?img=marine&hex=",      "cat": "war" },
+    "CHW": { "name": "Chemical Hazard Warning",           "icon": "https://icons.gwes-cdn.net/index.php?img=biohazard&hex=",   "cat": "bio" },
+    "CWW": { "name": "Contaminated Water Warning",        "icon": "https://icons.gwes-cdn.net/index.php?img=biohazard&hex=",   "cat": "bio" },
+
+    "DBA": { "name": "Dam Watch",                         "icon": "https://icons.gwes-cdn.net/index.php?img=dam&hex=",         "cat": "wat" },
+    "DBW": { "name": "Dam Break Warning",                 "icon": "https://icons.gwes-cdn.net/index.php?img=dam&hex=",         "cat": "war" },
+    "DEW": { "name": "Contagious Disease Warning",        "icon": "https://icons.gwes-cdn.net/index.php?img=biohazard&hex=",   "cat": "bio" },
+    "DMO": { "name": "Practice/Demo Warning",             "icon": "https://icons.gwes-cdn.net/index.php?img=test&hex=",        "cat": "tst" },
+    "DSW": { "name": "Dust Storm Warning",                "icon": "https://icons.gwes-cdn.net/index.php?img=wind&hex=",        "cat": "war" },
+
+    "EAN": { "name": "Emergency Action Notification",     "icon": "https://icons.gwes-cdn.net/index.php?img=nuke&hex=",        "cat": "ean" },
+    "EAT": { "name": "Emergency Action Termination",      "icon": "https://icons.gwes-cdn.net/index.php?img=nuke&hex=",        "cat": "ean" },
+    "EQW": { "name": "Earthquake Warning",                "icon": "https://icons.gwes-cdn.net/index.php?img=earthquake&hex=",  "cat": "war" },
+    "EVA": { "name": "Evacuation Watch",                  "icon": "https://icons.gwes-cdn.net/index.php?img=evacuate&hex=",    "cat": "wat" },
+    "EVI": { "name": "Immediate Evacuation",              "icon": "https://icons.gwes-cdn.net/index.php?img=evacuate&hex=",    "cat": "war" },
+    "EWW": { "name": "Extreme Wind Warning",              "icon": "https://icons.gwes-cdn.net/index.php?img=wind&hex=",        "cat": "war" },
+
+    "FCW": { "name": "Food Contamination Warning",        "icon": "https://icons.gwes-cdn.net/index.php?img=biohazard&hex=",   "cat": "bio" },
+    "FFA": { "name": "Flash Flood Watch",                 "icon": "https://icons.gwes-cdn.net/index.php?img=floods&hex=",      "cat": "wat" },
+    "FFS": { "name": "Flash Flood Statement",             "icon": "https://icons.gwes-cdn.net/index.php?img=floods&hex=",      "cat": "smt" },
+    "FFW": { "name": "Flash Flood Warning",               "icon": "https://icons.gwes-cdn.net/index.php?img=floods&hex=",      "cat": "war" },
+    "FLA": { "name": "Flood Watch",                       "icon": "https://icons.gwes-cdn.net/index.php?img=waves&hex=",       "cat": "wat" },
+    "FLS": { "name": "Flood Statement",                   "icon": "https://icons.gwes-cdn.net/index.php?img=waves&hex=",       "cat": "smt" },
+    "FLW": { "name": "Flood Warning",                     "icon": "https://icons.gwes-cdn.net/index.php?img=waves&hex=",       "cat": "war" },
+    "FRW": { "name": "Fire Warning",                      "icon": "https://icons.gwes-cdn.net/index.php?img=fire&hex=",        "cat": "war" },
+    "FSW": { "name": "Flash Freeze Warning",              "icon": "https://icons.gwes-cdn.net/index.php?img=freeze&hex=",      "cat": "war" },
+    "FZW": { "name": "Freeze Warning",                    "icon": "https://icons.gwes-cdn.net/index.php?img=freeze&hex=",      "cat": "war" },
+
+    "HMW": { "name": "Hazardous Materials Warning",       "icon": "https://icons.gwes-cdn.net/index.php?img=biohazard&hex=",   "cat": "bio" },
+    "HUA": { "name": "Hurricane Watch",                   "icon": "https://icons.gwes-cdn.net/index.php?img=hurricane&hex=",   "cat": "wat" },
+    "HUS": { "name": "Hurricane Statement",               "icon": "https://icons.gwes-cdn.net/index.php?img=hurricane&hex=",   "cat": "smt" },
+    "HUW": { "name": "Hurricane Warning",                 "icon": "https://icons.gwes-cdn.net/index.php?img=hurricane&hex=",   "cat": "war" },
+    "HWA": { "name": "High Wind Watch",                   "icon": "https://icons.gwes-cdn.net/index.php?img=wind&hex=",        "cat": "wat" },
+    "HWW": { "name": "High Wind Warning",                 "icon": "https://icons.gwes-cdn.net/index.php?img=wind&hex=",        "cat": "war" },
+
+    "IBW": { "name": "Iceberg Warning",                   "icon": "https://icons.gwes-cdn.net/index.php?img=freeze&hex=",      "cat": "war" },
+    "IFW": { "name": "Industrial Fire Warning",           "icon": "https://icons.gwes-cdn.net/index.php?img=fire&hex=",        "cat": "war" },
+
+    "LAE": { "name": "Local Area Emergency",              "icon": "https://icons.gwes-cdn.net/index.php?img=warning&hex=",     "cat": "adv" },
+    "LEW": { "name": "Law Enforcement Warning",           "icon": "https://icons.gwes-cdn.net/index.php?img=police&hex=",      "cat": "war" },
+    "LSW": { "name": "Land Slide Warning",                "icon": "https://icons.gwes-cdn.net/index.php?img=avalanche&hex=",   "cat": "war" },
+
+    "MEP": { "name": "Missing & Endangered Persons",              "icon": "https://icons.gwes-cdn.net/index.php?img=warning&hex=",     "cat": "adv" },
+
+    "NAT": { "name": "National Audible Test",             "icon": "https://icons.gwes-cdn.net/index.php?img=speaker&hex=",     "cat": "tst" },
+    "NIC": { "name": "National Information Center",       "icon": "https://icons.gwes-cdn.net/index.php?img=chat&hex=",        "cat": "smt" },
+    "NMN": { "name": "Network Message Notification",      "icon": "https://icons.gwes-cdn.net/index.php?img=chat&hex=",        "cat": "smt" },
+    "NPT": { "name": "National Periodic Test",            "icon": "https://icons.gwes-cdn.net/index.php?img=test&hex=",        "cat": "tst" },
+    "NST": { "name": "National Silent Test",              "icon": "https://icons.gwes-cdn.net/index.php?img=mute&hex=",        "cat": "tst" },
+    "NUW": { "name": "Nuclear Plant Warning",             "icon": "https://icons.gwes-cdn.net/index.php?img=powerplant&hex=",  "cat": "war" },
+
+    "POS": { "name": "Power Outage Statement",            "icon": "https://icons.gwes-cdn.net/index.php?img=poweroutage&hex=","cat": "smt" },
+    "RHW": { "name": "Radiological Hazard Warning",       "icon": "https://icons.gwes-cdn.net/index.php?img=biohazard&hex=",   "cat": "bio" },
+    "RMT": { "name": "Required Monthly Test",             "icon": "https://icons.gwes-cdn.net/index.php?img=monthly&hex=",     "cat": "smt" },
+    "RWT": { "name": "Required Weekly Test",              "icon": "https://icons.gwes-cdn.net/index.php?img=weekly&hex=",      "cat": "tst" },
+
+    "SCS": { "name": "School Closing Statement",          "icon": "https://icons.gwes-cdn.net/index.php?img=school&hex=",      "cat": "smt" },
+    "SMW": { "name": "Special Marine Warning",            "icon": "https://icons.gwes-cdn.net/index.php?img=marine&hex=",      "cat": "smw" },
+    "SPS": { "name": "Special Weather Statement",         "icon": "https://icons.gwes-cdn.net/index.php?img=rain&hex=",        "cat": "smt" },
+    "SPW": { "name": "Shelter In Place Warning",          "icon": "https://icons.gwes-cdn.net/index.php?img=house&hex=",       "cat": "war" },
+    "SQW": { "name": "Snow Squall Warning",               "icon": "https://icons.gwes-cdn.net/index.php?img=snow&hex=",        "cat": "war" },
+    "SSA": { "name": "Storm Surge Watch",                 "icon": "https://icons.gwes-cdn.net/index.php?img=marine&hex=",      "cat": "wat" },
+    "SSW": { "name": "Storm Surge Warning",               "icon": "https://icons.gwes-cdn.net/index.php?img=marine&hex=",      "cat": "war" },
+    "SVA": { "name": "Severe Thunderstorm Watch",         "icon": "https://icons.gwes-cdn.net/index.php?img=storm&hex=",       "cat": "wat" },
+    "SVR": { "name": "Severe Thunderstorm Warning",       "icon": "https://icons.gwes-cdn.net/index.php?img=storm&hex=",       "cat": "war" },
+    "SVS": { "name": "Severe Weather Statement",          "icon": "https://icons.gwes-cdn.net/index.php?img=rain&hex=",        "cat": "smt" },
+
+    "TOA": { "name": "Tornado Watch",                     "icon": "https://icons.gwes-cdn.net/index.php?img=tornado&hex=",     "cat": "wat" },
+    "TOR": { "name": "Tornado Warning",                   "icon": "https://icons.gwes-cdn.net/index.php?img=tornado&hex=",     "cat": "war" },
+    "TOE": { "name": "911 Telephone Outage Emergency",    "icon": "https://icons.gwes-cdn.net/index.php?img=telcooutage&hex=","cat": "adv" },
+    "TRA": { "name": "Tropical Storm Watch",              "icon": "https://icons.gwes-cdn.net/index.php?img=hurricane&hex=",   "cat": "wat" },
+    "TRW": { "name": "Tropical Storm Warning",            "icon": "https://icons.gwes-cdn.net/index.php?img=hurricane&hex=",   "cat": "war" },
+    "TSA": { "name": "Tsunami Watch",                     "icon": "https://icons.gwes-cdn.net/index.php?img=tsunami&hex=",     "cat": "wat" },
+    "TSW": { "name": "Tsunami Warning",                   "icon": "https://icons.gwes-cdn.net/index.php?img=tsunami&hex=",     "cat": "war" },
+
+    "TXB": { "name": "Transmitter Backup On",             "icon": "https://icons.gwes-cdn.net/index.php?img=antenna&hex=",     "cat": "smt" },
+    "TXF": { "name": "Transmitter Carrier Off",           "icon": "https://icons.gwes-cdn.net/index.php?img=antenna&hex=",     "cat": "adv" },
+    "TXO": { "name": "Transmitter Carrier On",            "icon": "https://icons.gwes-cdn.net/index.php?img=antenna&hex=",     "cat": "smt" },
+    "TXP": { "name": "Transmitter Primary On",            "icon": "https://icons.gwes-cdn.net/index.php?img=antenna&hex=",     "cat": "smt" },
+
+    "VOA": { "name": "Volcano Watch",                     "icon": "https://icons.gwes-cdn.net/index.php?img=volcano&hex=",     "cat": "wat" },
+    "VOW": { "name": "Volcano Warning",                   "icon": "https://icons.gwes-cdn.net/index.php?img=volcano&hex=",     "cat": "war" },
+
+    "WFA": { "name": "Wild Fire Watch",                   "icon": "https://icons.gwes-cdn.net/index.php?img=fire&hex=",        "cat": "wat" },
+    "WFW": { "name": "Wild Fire Warning",                 "icon": "https://icons.gwes-cdn.net/index.php?img=fire&hex=",        "cat": "war" },
+
+    "WSA": { "name": "Winter Storm Watch",                "icon": "https://icons.gwes-cdn.net/index.php?img=snow&hex=",        "cat": "wat" },
+    "WSW": { "name": "Winter Storm Warning",              "icon": "https://icons.gwes-cdn.net/index.php?img=snow&hex=",        "cat": "war" }
+  }
+}
