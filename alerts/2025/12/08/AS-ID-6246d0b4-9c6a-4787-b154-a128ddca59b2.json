@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-6246d0b4-9c6a-4787-b154-a128ddca59b2",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Bannock; Caribou, ID; at 03:02 AM ON DEC 8, 2025 Effective until 09:02 AM. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the Endangered Missing Person Alert system.  The Bannock County Sheriff is looking for a missing person who was last seen at Lone Pine Road and Gay Mine Road and is believed to be in danger. He is an 84 year old male and was last seen wearing a blue suit jacket tan slacks and cowboy boots. If you have any information on the where abouts of this missing person please contact the Bannock County Sheriff at 2 0 8 2 3 6 7 1 1 1 immediately.",
+  "sent_utc": "2025-12-08T10:02:44+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/08/AS-ID-6246d0b4-9c6a-4787-b154-a128ddca59b2.mp3"
+}
