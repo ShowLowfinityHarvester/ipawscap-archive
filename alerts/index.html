@@ -495,6 +495,9 @@
       modal.classList.remove('show');
       document.body.style.overflow = '';
       document.removeEventListener('keydown', onKeyTrap, true);
+      if(location.hash){
+        history.replaceState(history.state, '', location.pathname + location.search);
+      }
       if(lastFocused) lastFocused.focus();
     }
 
