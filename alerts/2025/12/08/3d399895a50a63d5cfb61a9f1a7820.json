@@ -1,0 +1,8 @@
+{
+  "id": "3d399895a50a63d5cfb61a9f1a7820",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Berrien, MI; at 02:30 PM ON DEC 8, 2025 Effective until 02:45 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a TEST of the Berrien County, Michigan public alert and warning system. If an actual emergency were occurring, additional instructions would be provided and the public would be directed to their local broadcast media stations for more information. No action is required. This concludes this TEST. No Action Required.",
+  "sent_utc": "2025-12-08T21:30:10+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/08/3d399895a50a63d5cfb61a9f1a7820.mp3"
+}
