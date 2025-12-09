@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-3f6115c5-a890-4f78-85ea-fb79fb68a93d",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Malheur, OR; Ada; Adams; Canyon; Elmore; Gem; Payette; Valley; Washington; Blaine; Camas; Cassia; Gooding; Jerome; Lincoln; Minidoka; Twin Falls; Bannock; Bear Lake; Bingham; Bonneville; Butte; Caribou; Custer; Franklin; Jefferson; Lemhi; Madison; Power; Teton, ID; at 01:40 AM ON DEC 9, 2025 Effective until 02:40 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the State of Idaho Emergency Alert System. In the event of an emergency, this system would bring you important information. This test was conducted from the Idaho State Communications Center in Meridian, Idaho and is now concluded.",
+  "sent_utc": "2025-12-09T08:40:05+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/09/AS-ID-3f6115c5-a890-4f78-85ea-fb79fb68a93d.mp3"
+}
