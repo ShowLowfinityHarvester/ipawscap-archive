@@ -1,0 +1,8 @@
+{
+  "id": "selftest_20251210_040124",
+  "event_code": "DMO",
+  "eas_text": "An EAS participant has issued A PRACTICE/DEMO WARNING for the following counties or areas: Apache; Navajo; Coconino, AZ; San Juan, UT; Bernalillo; Cibola; McKinley; Sandoval; San Juan; Socorro; Rio Arriba, NM; at 09:01 PM ON DEC 9, 2025 Effective until 09:16 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the WSLF Radio CAP internet archive system. This is only a test. We are making sure everything is working properly to ensure reliability of this service.",
+  "sent_utc": "2025-12-10T04:01:24.159147+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/09/selftest_20251210_040124.mp3"
+}
