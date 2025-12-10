@@ -1,3 +1,10 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "id": "AS-KS-83b6c741-0d63-4f1f-ae35-869c8b78a715",
+      "event_code": "RMT",
+      "sent_utc": "2025-12-10T07:50:06+00:00",
+      "href": "AS-KS-83b6c741-0d63-4f1f-ae35-869c8b78a715.json"
+    }
+  ]
 }
