@@ -1,0 +1,8 @@
+{
+  "id": "2292345915692954",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Kittitas, WA; at 08:50 AM ON DEC 10, 2025 Effective until 11:50 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test, only a test of the Emergency Alert System in Kittitas County. \n\nIssued by Kittitas County Emergency Management.\n\nIf this had been an actual emergency, you would have been instructed what to do.  \n\nNo Action is required.\n\nThe following tones will conclude this test.",
+  "sent_utc": "2025-12-10T15:50:15+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/10/2292345915692954.mp3"
+}
