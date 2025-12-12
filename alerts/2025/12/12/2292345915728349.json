@@ -1,0 +1,8 @@
+{
+  "id": "2292345915728349",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Yakima, WA; at 08:20 AM ON DEC 12, 2025 Effective until 09:20 AM. Message from WSLF/CAP.",
+  "extra_text": "This is the Washington State Emergency Management Division conducting a test of the Emergency Alert System on behalf of Yakima County Department of Emergency Management. In the event of an emergency, this system would bring you important information. The following tones will conclude this test from the Washington State Emergency Operations Center.",
+  "sent_utc": "2025-12-12T15:20:15+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/12/2292345915728349.mp3"
+}
