@@ -1,0 +1,8 @@
+{
+  "id": "AS-NV-dd228aa0-bc33-494f-8f1e-7ec2b7393cf7",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Humboldt; Lander; Pershing, NV; at 07:15 AM ON DEC 12, 2025 Effective until 07:30 AM. Message from WSLF/CAP.",
+  "extra_text": "Federal state and local officials use EAS to keep you informed in the event of an emergency or disaster through your local radio and TV stations and cable providers. This test helps ensure that broadcasters and cable TV operators are ready to provide information in a crisis.This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2025-12-12T14:15:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/12/AS-NV-dd228aa0-bc33-494f-8f1e-7ec2b7393cf7.mp3"
+}
