@@ -1,3 +1,10 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "id": "AS-ID-c1741c4e-cc14-44c9-a8bf-a6200cbd74c8",
+      "event_code": "LAE",
+      "sent_utc": "2025-12-12T12:42:27+00:00",
+      "href": "AS-ID-c1741c4e-cc14-44c9-a8bf-a6200cbd74c8.json"
+    }
+  ]
 }
