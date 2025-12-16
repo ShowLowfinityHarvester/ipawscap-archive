@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-cb589d55-bae8-4ce6-bc6c-4bacac2837c6",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Bannock; Bingham, ID; at 03:34 AM ON DEC 16, 2025 Effective until 05:34 AM. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the Endangered Missing Person Alert system.  The Pocatello Police Department is looking for a missing person who was last seen at Gateway Transitional Care Center Pocatello at 6 20 P M and is believed to be in danger. He is a 61 year old male 5 feet 4 inches tall weighing 170 pounds with brown eyes and gray hair. He was last seen wearing a gray hoodie and blue jeans. Authorities say that the missing person has dementia and requires medication. If you have any information on the where abouts of this missing person please contact the Pocatello Police Department at 2 0 8 2 3 4 6 1 0 0 immediately.",
+  "sent_utc": "2025-12-16T10:34:41+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/16/AS-ID-cb589d55-bae8-4ce6-bc6c-4bacac2837c6.mp3"
+}
