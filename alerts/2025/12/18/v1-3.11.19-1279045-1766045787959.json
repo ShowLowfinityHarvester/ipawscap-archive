@@ -1,0 +1,8 @@
+{
+  "id": "v1-3.11.19-1279045-1766045787959",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Shasta, CA; at 01:16 AM ON DEC 18, 2025 Effective until 02:16 AM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS A TEST OF THE EMERGENCY ALERT SYSTEM FOR SHASTA COUNTY. IN THE EVENT OF AN ACTUAL EMERGENCY, TUNE TO THIS STATION FOR IMPORTANT INFORMATION",
+  "sent_utc": "2025-12-18T08:16:28+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/18/v1-3.11.19-1279045-1766045787959.mp3"
+}
