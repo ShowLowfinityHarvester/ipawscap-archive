@@ -23,6 +23,12 @@
       "event_code": "LEW",
       "sent_utc": "2025-12-21T20:39:31+00:00",
       "href": "AS-AR-b3a3af76-6976-49e6-bfbe-b98ecb1cd185.json"
+    },
+    {
+      "id": "RWT_GDT_1766365200000",
+      "event_code": "RWT",
+      "sent_utc": "2025-12-22T01:00:00+00:00",
+      "href": "RWT_GDT_1766365200000.json"
     }
   ]
 }
