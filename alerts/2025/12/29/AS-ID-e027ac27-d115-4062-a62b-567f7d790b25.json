@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-e027ac27-d115-4062-a62b-567f7d790b25",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Bannock; Bear Lake; Bingham; Bonneville; Butte; Caribou; Clark; Custer; Franklin; Fremont; Jefferson; Lemhi; Madison; Oneida; Power; Teton, ID; at 08:59 AM ON DEC 29, 2025 Effective until 09:59 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the State of Idaho Emergency Alert System. In the event of an emergency, this system would bring you important information. This test was conducted from the Bannock County Sheriff's Office communications center in Pocatello, Idaho, and is now concluded.",
+  "sent_utc": "2025-12-29T15:59:56+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/29/AS-ID-e027ac27-d115-4062-a62b-567f7d790b25.mp3"
+}
