@@ -1,0 +1,8 @@
+{
+  "id": "shelbycountyil595.001.alertpost",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Shelby, IL; at 07:31 AM ON DEC 30, 2025 Effective until 09:31 AM. Message from WSLF/CAP.",
+  "extra_text": "Shelby County Road Closure",
+  "sent_utc": "2025-12-30T14:31:45+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/30/shelbycountyil595.001.alertpost.mp3"
+}
