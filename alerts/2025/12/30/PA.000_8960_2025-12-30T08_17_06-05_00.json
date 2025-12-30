@@ -1,0 +1,8 @@
+{
+  "id": "PA.000_8960_2025-12-30T08:17:06-05:00",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Pennsylvania; at 06:17 AM ON DEC 30, 2025 Effective until 08:17 AM. Message from WSLF/CAP.",
+  "extra_text": "Test This is a State Wide Required Weekly Test of the Emergency Alert System originating from the Pennsylvania Emergency Management Agency, Harrisburg. This is only a test",
+  "sent_utc": "2025-12-30T13:17:06+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/12/30/PA.000_8960_2025-12-30T08_17_06-05_00.mp3"
+}
