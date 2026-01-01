@@ -5,6 +5,12 @@
       "event_code": "ADR",
       "sent_utc": "2026-01-01T13:18:00+00:00",
       "href": "17672734800001392482088.json"
+    },
+    {
+      "id": "AS-ID-f6724e85-b7a7-4bb2-bfd7-578834e425c2",
+      "event_code": "RWT",
+      "sent_utc": "2026-01-01T16:04:14+00:00",
+      "href": "AS-ID-f6724e85-b7a7-4bb2-bfd7-578834e425c2.json"
     }
   ]
 }
