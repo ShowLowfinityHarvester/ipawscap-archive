@@ -1,0 +1,8 @@
+{
+  "id": "17675251110001392492102",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Snohomish, WA; at 04:11 AM ON JAN 4, 2026 Effective until 04:41 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test, only a test, of the Emergency Alert System, from Snohomish County 911. Had this been an actual alert, this system would bring you important information. No action is needed. This is only a test.",
+  "sent_utc": "2026-01-04T11:11:51+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/01/04/17675251110001392492102.mp3"
+}
