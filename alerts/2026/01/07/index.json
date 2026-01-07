@@ -83,6 +83,12 @@
       "event_code": "HMW",
       "sent_utc": "2026-01-07T18:37:50+00:00",
       "href": "ASHERGROUP-1652050-post-1767811070.json"
+    },
+    {
+      "id": "CAPNET-0-2416-20260107105000",
+      "event_code": "RMT",
+      "sent_utc": "2026-01-07T18:50:00+00:00",
+      "href": "CAPNET-0-2416-20260107105000.json"
     }
   ]
 }
