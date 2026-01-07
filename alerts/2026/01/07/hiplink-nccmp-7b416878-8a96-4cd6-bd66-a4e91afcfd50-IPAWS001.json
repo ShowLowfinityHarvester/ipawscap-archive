@@ -1,0 +1,8 @@
+{
+  "id": "hiplink-nccmp-7b416878-8a96-4cd6-bd66-a4e91afcfd50-IPAWS001",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: North Carolina; at 11:02 AM ON JAN 7, 2026 Effective until 11:17 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the North Carolina Emergency Alert System. This is only a test. Broadcasters in cooperation with local, state and federal authorities have developed this system to provide the public with important information should the need arise. This concludes the monthly test of the North Carolina Emergency Alert System.",
+  "sent_utc": "2026-01-07T18:02:12+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/01/07/hiplink-nccmp-7b416878-8a96-4cd6-bd66-a4e91afcfd50-IPAWS001.mp3"
+}
