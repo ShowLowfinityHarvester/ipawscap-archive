@@ -1,0 +1,8 @@
+{
+  "id": "2310625296402227",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Chelan; Douglas; Grant, WA; at 12:00 PM ON JAN 8, 2026 Effective until 01:00 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System for Chelan, Douglas and Grant Counties.  In an actual emergency, this system will provide important information.  The following tones will conclude this test of the Emergency Alert System.",
+  "sent_utc": "2026-01-08T19:00:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/01/08/2310625296402227.mp3"
+}
