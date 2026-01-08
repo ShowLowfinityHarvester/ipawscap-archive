@@ -1,0 +1,8 @@
+{
+  "id": "v2-3.11.23-1297534-1767897177747",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Inyo, CA; at 11:32 AM ON JAN 8, 2026 Effective until 11:32 AM JAN 9, 2026. Message from WSLF/CAP.",
+  "extra_text": "Evacuation Warning in place for the Granite View area in place due to a rapidly growing wildfire in the area. Residents who need additional time  to evacuate or have large animals should should leave the area now",
+  "sent_utc": "2026-01-08T18:32:58+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/01/08/v2-3.11.23-1297534-1767897177747.mp3"
+}
