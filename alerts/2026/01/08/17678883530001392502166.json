@@ -1,0 +1,8 @@
+{
+  "id": "17678883530001392502166",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Arizona; at 09:05 AM ON JAN 8, 2026 Effective until 09:20 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System, originated by the Arizona Department of Public Safety. If this had been an actual emergency, important information or instructions would have followed the tones you just heard. This concludes this test.",
+  "sent_utc": "2026-01-08T16:05:53+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/01/08/17678883530001392502166.mp3"
+}
