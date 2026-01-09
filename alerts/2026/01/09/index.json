@@ -41,6 +41,12 @@
       "event_code": "RWT",
       "sent_utc": "2026-01-09T20:00:37+00:00",
       "href": "AS-NV-91b83753-d39c-488f-a407-315337a3ffa7.json"
+    },
+    {
+      "id": "selftest_20260109_230905",
+      "event_code": "DMO",
+      "sent_utc": "2026-01-09T23:09:05.559246+00:00",
+      "href": "selftest_20260109_230905.json"
     }
   ]
 }
