@@ -1,0 +1,8 @@
+{
+  "id": "MI.034_668_2026-01-12T10:40:02-05:00",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Cass, MI; at 08:40 AM ON JAN 12, 2026 Effective until 08:55 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a required weekly test of the Emergency Alert System for Cass County Michigan. This is only a test. No action required",
+  "sent_utc": "2026-01-12T15:40:02+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/01/12/MI.034_668_2026-01-12T10_40_02-05_00.mp3"
+}
