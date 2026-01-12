@@ -101,6 +101,12 @@
       "event_code": "RMT",
       "sent_utc": "2026-01-12T20:03:22+00:00",
       "href": "AS-WA-f27e0b08-d5e9-4a15-87d3-166023707fb4.json"
+    },
+    {
+      "id": "RWT_HIDT_1768251600000",
+      "event_code": "RWT",
+      "sent_utc": "2026-01-12T21:00:00+00:00",
+      "href": "RWT_HIDT_1768251600000.json"
     }
   ]
 }
