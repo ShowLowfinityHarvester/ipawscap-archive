@@ -1,0 +1,8 @@
+{
+  "id": "hiplink-nccmp-641f7ed5-f09f-4517-8b1e-b6a6f051768b-IPAWS002",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Brunswick; New Hanover; Wayne, NC; at 02:01 PM ON JAN 15, 2026 Effective until 03:01 PM. Message from WSLF/CAP.",
+  "extra_text": "AMBER ALERT",
+  "sent_utc": "2026-01-15T21:01:43+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/01/15/hiplink-nccmp-641f7ed5-f09f-4517-8b1e-b6a6f051768b-IPAWS002.mp3"
+}
