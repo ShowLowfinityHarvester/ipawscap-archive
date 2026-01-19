@@ -1,0 +1,8 @@
+{
+  "id": "2321345534845472",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Vermont; at 08:10 AM ON JAN 19, 2026 Effective until 10:10 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a TEST of the State of Vermont Emergency Alert System. No action is required. This is only a TEST. If this was an actual emergency, instructions would follow this message.",
+  "sent_utc": "2026-01-19T15:10:15+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/01/19/2321345534845472.mp3"
+}
