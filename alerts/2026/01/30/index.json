@@ -1,3 +1,10 @@
 {
-  "alerts": []
+  "alerts": [
+    {
+      "id": "697cd16c3fedd90c142c1b77",
+      "event_code": "RMT",
+      "sent_utc": "2026-01-30T15:45:20+00:00",
+      "href": "697cd16c3fedd90c142c1b77.json"
+    }
+  ]
 }
