@@ -1,0 +1,8 @@
+{
+  "id": "17702736110001393077095",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Arizona; at 11:40 PM ON FEB 4, 2026 Effective until 02:40 AM FEB 5, 2026. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System, originated by the Arizona Department of Public Safety. If this had been an actual emergency, important information or instructions would have followed the tones you just heard. This concludes this test. This is a Test",
+  "sent_utc": "2026-02-05T06:40:11+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/02/04/17702736110001393077095.mp3"
+}
