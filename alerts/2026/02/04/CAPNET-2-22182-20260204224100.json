@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-2-22182-20260204224100",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Minnesota; at 09:41 PM ON FEB 4, 2026 Effective until 10:41 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a coordinated test of the Emergency Alert System in cooperation with the local broadcasters. This is only a test. This test is from the Minnesota Bureau of Criminal Apprehension. No action is needed. This is only a test.",
+  "sent_utc": "2026-02-05T04:41:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/02/04/CAPNET-2-22182-20260204224100.mp3"
+}
