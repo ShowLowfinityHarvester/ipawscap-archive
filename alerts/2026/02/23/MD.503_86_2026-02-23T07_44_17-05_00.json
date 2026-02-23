@@ -1,0 +1,8 @@
+{
+  "id": "MD.503_86_2026-02-23T07:44:17-05:00",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Somerset, MD; at 05:44 AM ON FEB 23, 2026 Effective until 06:44 AM. Message from WSLF/CAP.",
+  "extra_text": "Due to the extended power outages, local fire departments are serving as warming centers. If transportation is needed contact 410 651 0707. Time for restoration and repair is unknown.",
+  "sent_utc": "2026-02-23T12:44:17+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/02/23/MD.503_86_2026-02-23T07_44_17-05_00.mp3"
+}
