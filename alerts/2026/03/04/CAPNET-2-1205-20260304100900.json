@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-2-1205-20260304100900",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Garrard, KY; at 08:09 AM ON MAR 4, 2026 Effective until 08:24 AM. Message from WSLF/CAP.",
+  "extra_text": "TEST EXERCISE MESSAGE ONLY. This is a test. There is no emergency.Garrard County Emergency Management Agency issued a test of its public alerting systems. Again, there is no emergency. This is only a part of a test. TEST EXERCISE MESSAGE This is only a test. There is no emergency. Please check your alerting devices to ensure you are able to receive future messages.",
+  "sent_utc": "2026-03-04T15:09:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/04/CAPNET-2-1205-20260304100900.mp3"
+}
