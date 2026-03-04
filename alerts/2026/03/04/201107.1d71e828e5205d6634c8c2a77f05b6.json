@@ -1,0 +1,8 @@
+{
+  "id": "201107.1d71e828e5205d6634c8c2a77f05b6",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Marshall, AL; at 09:03 AM ON MAR 4, 2026 Effective until 09:18 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Marshall County Emergency Management Agency alerting system. **THIS IS ONLY A TEST** Should this have been a real emergency then instructions would follow.",
+  "sent_utc": "2026-03-04T16:03:43+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/04/201107.1d71e828e5205d6634c8c2a77f05b6.mp3"
+}
