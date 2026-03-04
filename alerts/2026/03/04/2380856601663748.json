@@ -1,0 +1,8 @@
+{
+  "id": "2380856601663748",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Milwaukee, WI; at 10:10 AM ON MAR 4, 2026 Effective until 11:10 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test message from the Emergency Alert System originating from the Milwaukee County Office of Emergency Management. If this had been an actual emergency, you would have been given official information, news, or instructions. This test is now concluded.",
+  "sent_utc": "2026-03-04T17:10:35+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/04/2380856601663748.mp3"
+}
