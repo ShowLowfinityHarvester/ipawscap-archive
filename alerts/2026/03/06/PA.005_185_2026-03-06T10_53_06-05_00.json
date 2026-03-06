@@ -1,0 +1,8 @@
+{
+  "id": "PA.005_185_2026-03-06T10:53:06-05:00",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Dauphin, PA; at 08:53 AM ON MAR 6, 2026 Effective until 10:53 AM. Message from WSLF/CAP.",
+  "extra_text": "Test test test. this is a test of the Emergency Alert System. This is only a test. No action is required.",
+  "sent_utc": "2026-03-06T15:53:06+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/06/PA.005_185_2026-03-06T10_53_06-05_00.mp3"
+}
