@@ -1,0 +1,8 @@
+{
+  "id": "TEST-03101118",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Missouri; at 09:18 AM ON MAR 10, 2026 Effective until 10:18 AM. Message from WSLF/CAP.",
+  "extra_text": "THE FOLLOWING IS A REQUIRED WEEKLY TEST OF THE EMERGENCY ALERT SYSTEM, ORIGINATING FROM THE MISSOURI STATE HIGHWAY PATROL IN JEFFERSON CITY AND COORDINATED WITH THE LOCAL BROADCASTERS IN YOUR COMMUNITY. THIS IS ONLY A TEST.",
+  "sent_utc": "2026-03-10T16:18:47+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/10/TEST-03101118.mp3"
+}
