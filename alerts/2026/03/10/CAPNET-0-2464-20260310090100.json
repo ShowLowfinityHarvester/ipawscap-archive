@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-2464-20260310090100",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Santa Barbara, CA; at 09:01 AM ON MAR 10, 2026 Effective until 09:16 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a required monthly test of the Emergency Alert System. This is only a test. If this was a real alert you should tune in to one of these television or radio stations to receive instructions from authorities about what is happening and what you need to do. This concludes this test of the emergency alert system. No action is needed. This is only a test.",
+  "sent_utc": "2026-03-10T16:01:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/10/CAPNET-0-2464-20260310090100.mp3"
+}
