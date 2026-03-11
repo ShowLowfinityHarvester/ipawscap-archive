@@ -1,0 +1,8 @@
+{
+  "id": "NC.000_1361_2026-03-11T02:58:11-04:00",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: North Carolina; at 11:58 PM ON MAR 10, 2026 Effective until 01:58 AM MAR 11, 2026. Message from WSLF/CAP.",
+  "extra_text": "This is a required weekly test from the North Carolina State Emergency Operations Center",
+  "sent_utc": "2026-03-11T06:58:11+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/10/NC.000_1361_2026-03-11T02_58_11-04_00.mp3"
+}
