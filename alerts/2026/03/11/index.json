@@ -71,6 +71,12 @@
       "event_code": "FRW",
       "sent_utc": "2026-03-11T17:41:07+00:00",
       "href": "WENS_IPAWS_CONNECT2202621113417.json"
+    },
+    {
+      "id": "2402812474434827",
+      "event_code": "CAE",
+      "sent_utc": "2026-03-11T17:53:50+00:00",
+      "href": "2402812474434827.json"
     }
   ]
 }
