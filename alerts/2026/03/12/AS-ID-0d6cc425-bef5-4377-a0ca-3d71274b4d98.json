@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-0d6cc425-bef5-4377-a0ca-3d71274b4d98",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Bannock; Bear Lake; Bingham; Bonneville; Butte; Caribou; Clark; Custer; Franklin; Fremont; Jefferson; Lemhi; Madison; Oneida; Power; Teton, ID; at 01:18 PM ON MAR 12, 2026 Effective until 02:18 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the State of Idaho Emergency Alert System. In the event of an emergency, this system would bring you important information. This test was conducted from the Bannock County Sheriff's Office communications center in Pocatello, Idaho, and is now concluded.",
+  "sent_utc": "2026-03-12T20:18:09+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/12/AS-ID-0d6cc425-bef5-4377-a0ca-3d71274b4d98.mp3"
+}
