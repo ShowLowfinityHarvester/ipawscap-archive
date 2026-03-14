@@ -1,0 +1,8 @@
+{
+  "id": "2415044541327925",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Honolulu, HI; at 09:55 PM ON MAR 13, 2026 Effective until 10:55 PM. Message from WSLF/CAP.",
+  "extra_text": "From Oahu Emergency Management: An Evacuation Warning has been issued for due to conditions at WAHIAWA DAM. No evacuations are ordered at this time, but conditions exist that could lead to the failure of the dam, which could cause catastrophic flooding. Be prepared to leave downstream areas on short notice. WAHIAWA DAM EVACUATION ZONE includes all of Haleiwa between Puuiki St and Kamehameha Hwy. Areas of Waialua between Kukea Circle to Otake Camp. Emergency officials are monitoring conditions at the dam. This alert will be updated if an evacuation becomes necessary.\n\nCheck https://alert.hnlalert.gov for updates or monitor local radio and TV stations. This message will be updated in 4 hours or sooner if the situation changes.",
+  "sent_utc": "2026-03-14T04:55:31+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/13/2415044541327925.mp3"
+}
