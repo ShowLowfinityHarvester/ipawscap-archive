@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-1-1949-20260318094500",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Ohio; at 06:45 AM ON MAR 18, 2026 Effective until 07:45 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a statewide test of the Ohio emergency alert system in conjunction with Severe Weather Awareness Week in Ohio and originating from the state emergency operations center in Columbus. This is only a test. The Ohio emergency alert system has been designed to provide the public with timely warnings and emergency information. Had this been an actual emergency, you would have received instructions and information related to that emergency over this and other stations in your area. This concludes this test of the Ohio emergency alert system. No action is needed. This is only a test.",
+  "sent_utc": "2026-03-18T13:45:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/18/CAPNET-1-1949-20260318094500.mp3"
+}
