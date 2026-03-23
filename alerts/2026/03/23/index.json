@@ -71,6 +71,12 @@
       "event_code": "RWT",
       "sent_utc": "2026-03-23T16:00:17+00:00",
       "href": "AS-KS-b28f130a-22d3-4e33-9fff-df89e4ab2d9c.json"
+    },
+    {
+      "id": "RWT_CDT_1774281600000",
+      "event_code": "RWT",
+      "sent_utc": "2026-03-23T16:00:00+00:00",
+      "href": "RWT_CDT_1774281600000.json"
     }
   ]
 }
