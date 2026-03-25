@@ -1,0 +1,8 @@
+{
+  "id": "MD.000_84_2026-03-25T10:00:00-04:00",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Maryland; at 07:00 AM ON MAR 25, 2026 Effective until 08:00 AM. Message from WSLF/CAP.",
+  "extra_text": "This is the Maryland Department of Emergency Management with the coordinated test of the Emergency Alert System. Broadcasters are testing equipment used to warn you during an emergency. This concludes the test of the Emergency Alert System",
+  "sent_utc": "2026-03-25T14:00:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/25/MD.000_84_2026-03-25T10_00_00-04_00.mp3"
+}
