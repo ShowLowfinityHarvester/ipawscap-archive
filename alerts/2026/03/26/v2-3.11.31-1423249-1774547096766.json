@@ -1,0 +1,8 @@
+{
+  "id": "v2-3.11.31-1423249-1774547096766",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Los Angeles, CA; at 10:44 AM ON MAR 26, 2026 Effective until 11:44 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a Test of the Emergency Alert System. This is only a test. No action is required. County of Los Angeles.",
+  "sent_utc": "2026-03-26T17:44:57+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/03/26/v2-3.11.31-1423249-1774547096766.mp3"
+}
