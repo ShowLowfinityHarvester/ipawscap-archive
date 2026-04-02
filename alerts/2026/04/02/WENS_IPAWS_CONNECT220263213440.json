@@ -1,0 +1,8 @@
+{
+  "id": "WENS_IPAWS_CONNECT220263213440",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Parmer, TX; at 10:04 AM ON APR 2, 2026 Effective until 10:34 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a TEST of Parmer County's Mass Notification System. THIS IS ONLY A TEST.",
+  "sent_utc": "2026-04-02T17:04:40+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/WENS_IPAWS_CONNECT220263213440.mp3"
+}
