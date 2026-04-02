@@ -71,6 +71,12 @@
       "event_code": "LAE",
       "sent_utc": "2026-04-02T15:02:02+00:00",
       "href": "ASHERGROUP-1688109-post-1775142123.json"
+    },
+    {
+      "id": "AS-TX-ab71e12b-61d2-4450-b224-0bdc19ae4ede",
+      "event_code": "RWT",
+      "sent_utc": "2026-04-02T15:04:13+00:00",
+      "href": "AS-TX-ab71e12b-61d2-4450-b224-0bdc19ae4ede.json"
     }
   ]
 }
