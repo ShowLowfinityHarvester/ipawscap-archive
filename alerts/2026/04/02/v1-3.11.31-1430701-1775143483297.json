@@ -1,0 +1,8 @@
+{
+  "id": "v1-3.11.31-1430701-1775143483297",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Reeves, TX; at 08:24 AM ON APR 2, 2026 Effective until 09:24 AM. Message from WSLF/CAP.",
+  "extra_text": "TEST TEST TEST TEST TEST TEST\nThis is only a test of the emergency alert system",
+  "sent_utc": "2026-04-02T15:24:43+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/v1-3.11.31-1430701-1775143483297.mp3"
+}
