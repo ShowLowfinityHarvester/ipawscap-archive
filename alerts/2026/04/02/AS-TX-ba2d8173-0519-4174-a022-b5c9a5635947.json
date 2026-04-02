@@ -1,0 +1,8 @@
+{
+  "id": "AS-TX-ba2d8173-0519-4174-a022-b5c9a5635947",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Tom Green, TX; at 08:13 AM ON APR 2, 2026 Effective until 09:13 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test message of our emergency alerting system. This is only a test. No need to reply and no action needed.",
+  "sent_utc": "2026-04-02T15:13:38+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/AS-TX-ba2d8173-0519-4174-a022-b5c9a5635947.mp3"
+}
