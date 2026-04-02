@@ -1,0 +1,8 @@
+{
+  "id": "2457547537665789",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Travis; Williamson; Hays, TX; at 09:00 AM ON APR 2, 2026 Effective until 10:00 AM. Message from WSLF/CAP.",
+  "extra_text": "City of Austin: This is a TEST of the Austin Wireless Emergency Alert system. This scheduled test checks our ability to send emergency messages directly to mobile devices in a targeted area. No action is required. THIS IS ONLY TEST. Go to  www.AustinTexas.gov/alerts for more information.",
+  "sent_utc": "2026-04-02T16:00:15+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/2457547537665789.mp3"
+}
