@@ -1,0 +1,8 @@
+{
+  "id": "AS-TX-25e6e2c8-cd69-4427-b9d0-f47ed7893acf",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Hill, TX; at 08:08 AM ON APR 2, 2026 Effective until 08:38 AM. Message from WSLF/CAP.",
+  "extra_text": "Hill County OEM: TEST of the emergency alert system. No emergency. No action needed.  This is a state wide drill",
+  "sent_utc": "2026-04-02T15:08:56+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/AS-TX-25e6e2c8-cd69-4427-b9d0-f47ed7893acf.mp3"
+}
