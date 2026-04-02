@@ -143,6 +143,12 @@
       "event_code": "CEM",
       "sent_utc": "2026-04-02T15:20:46+00:00",
       "href": "AS-TX-a4ba1b82-d5da-462e-90fc-c0f7fad2b514.json"
+    },
+    {
+      "id": "WENS_IPAWS_CONNECT2202632112455",
+      "event_code": "CEM",
+      "sent_utc": "2026-04-02T15:24:55+00:00",
+      "href": "WENS_IPAWS_CONNECT2202632112455.json"
     }
   ]
 }
