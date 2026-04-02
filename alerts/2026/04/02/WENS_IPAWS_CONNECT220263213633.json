@@ -1,0 +1,8 @@
+{
+  "id": "WENS_IPAWS_CONNECT220263213633",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Roberts, TX; at 10:06 AM ON APR 2, 2026 Effective until 10:36 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a TEST of Roberts County's Mass Notification System. THIS IS ONLY A TEST.",
+  "sent_utc": "2026-04-02T17:06:33+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/WENS_IPAWS_CONNECT220263213633.mp3"
+}
