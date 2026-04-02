@@ -1,0 +1,8 @@
+{
+  "id": "AS-TX-591b44fd-8daa-484e-95d6-59a48320399f",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Tom Green, TX; at 08:28 AM ON APR 2, 2026 Effective until 09:28 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test message of our emergency alerting system. This is only a test. No need to reply and no action needed.",
+  "sent_utc": "2026-04-02T15:28:30+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/AS-TX-591b44fd-8daa-484e-95d6-59a48320399f.mp3"
+}
