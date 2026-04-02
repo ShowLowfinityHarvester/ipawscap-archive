@@ -209,6 +209,12 @@
       "event_code": "DMO",
       "sent_utc": "2026-04-02T15:35:59+00:00",
       "href": "17751441590001394007136.json"
+    },
+    {
+      "id": "WENS_IPAWS_CONNECT220263211424",
+      "event_code": "CDW",
+      "sent_utc": "2026-04-02T15:42:04+00:00",
+      "href": "WENS_IPAWS_CONNECT220263211424.json"
     }
   ]
 }
