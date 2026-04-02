@@ -449,6 +449,12 @@
       "event_code": "CEM",
       "sent_utc": "2026-04-02T17:25:38+00:00",
       "href": "WENS_IPAWS_CONNECT2202632132538.json"
+    },
+    {
+      "id": "CAPNET-0-2020-20260402110300",
+      "event_code": "RWT",
+      "sent_utc": "2026-04-02T18:03:00+00:00",
+      "href": "CAPNET-0-2020-20260402110300.json"
     }
   ]
 }
