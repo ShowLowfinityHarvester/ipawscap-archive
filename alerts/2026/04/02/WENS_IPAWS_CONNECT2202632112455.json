@@ -1,0 +1,8 @@
+{
+  "id": "WENS_IPAWS_CONNECT2202632112455",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Briscoe, TX; at 08:24 AM ON APR 2, 2026 Effective until 08:54 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a TEST of Briscoe County's Mass Notification System IPAWS. THIS IS ONLY A TEST. This is a TEST of Briscoe County's Mass Notification System, IPAWS. THIS IS ONLY A TEST.",
+  "sent_utc": "2026-04-02T15:24:55+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/WENS_IPAWS_CONNECT2202632112455.mp3"
+}
