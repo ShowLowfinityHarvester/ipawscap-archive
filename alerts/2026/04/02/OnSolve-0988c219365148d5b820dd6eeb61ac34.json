@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-0988c219365148d5b820dd6eeb61ac34",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Wichita, TX; at 09:43 AM ON APR 2, 2026 Effective until 10:43 AM. Message from WSLF/CAP.",
+  "extra_text": "This is only a Test. This is a test of the Emergency Alert System for Wichita County. This is only a test.",
+  "sent_utc": "2026-04-02T16:43:59+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/OnSolve-0988c219365148d5b820dd6eeb61ac34.mp3"
+}
