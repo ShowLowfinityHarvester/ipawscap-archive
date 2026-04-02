@@ -1,0 +1,8 @@
+{
+  "id": "AS-TX-58b020b3-dd6e-4b78-aef7-5365177c252d",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Ector, TX; at 10:09 AM ON APR 2, 2026 Effective until 10:24 AM. Message from WSLF/CAP.",
+  "extra_text": "City of Odessa and Ector County Emergency Management: This is a test of the emergency alerting system. No action required. This is only a test.",
+  "sent_utc": "2026-04-02T17:09:27+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/AS-TX-58b020b3-dd6e-4b78-aef7-5365177c252d.mp3"
+}
