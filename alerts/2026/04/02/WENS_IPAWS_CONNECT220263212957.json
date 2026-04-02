@@ -1,0 +1,8 @@
+{
+  "id": "WENS_IPAWS_CONNECT220263212957",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Hall, TX; at 09:09 AM ON APR 2, 2026 Effective until 09:39 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a TEST of Hall County's Mass Notification System. THIS IS ONLY A TEST.",
+  "sent_utc": "2026-04-02T16:09:57+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/WENS_IPAWS_CONNECT220263212957.mp3"
+}
