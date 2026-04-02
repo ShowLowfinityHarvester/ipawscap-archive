@@ -1,0 +1,8 @@
+{
+  "id": "v1-3.11.31-1430662-1775142894386",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: San Jacinto, TX; at 08:14 AM ON APR 2, 2026 Effective until 08:14 AM APR 3, 2026. Message from WSLF/CAP.",
+  "extra_text": "This is a TEST of the Genasys Mass Notification System for San Jacinto Cnty. This test is being required by Texas Division of Emergency Management as part of a coordinated statewide drill of all local alerting systems in Texas. This is only a Test and there is no action required by anyone. This TEST has concluded. San Jacinto Cnty Office of Emergency Mngt",
+  "sent_utc": "2026-04-02T15:14:54+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/v1-3.11.31-1430662-1775142894386.mp3"
+}
