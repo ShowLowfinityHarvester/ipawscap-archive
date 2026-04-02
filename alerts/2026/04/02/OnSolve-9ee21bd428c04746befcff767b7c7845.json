@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-9ee21bd428c04746befcff767b7c7845",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Brazos, TX; at 09:33 AM ON APR 2, 2026 Effective until 09:48 AM. Message from WSLF/CAP.",
+  "extra_text": "This message is a test of the Brazos County Emergency Alerting System sent in coordination with the Texas Division of Emergency Management. This test message is being sent to mobile devices and media outlets to ensure system readiness.  This is only a test.",
+  "sent_utc": "2026-04-02T16:33:21+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/OnSolve-9ee21bd428c04746befcff767b7c7845.mp3"
+}
