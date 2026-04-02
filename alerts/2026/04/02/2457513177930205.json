@@ -1,0 +1,8 @@
+{
+  "id": "2457513177930205",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Jim Wells, TX; at 09:30 AM ON APR 2, 2026 Effective until 10:30 AM. Message from WSLF/CAP.",
+  "extra_text": "Orange Grove Office of Emergency Management: This is a TEST of the Public Warning System. THIS IS ONLY A TEST.\n\nIf this were a real emergency, additional information would be provided such as the hazard type, location, protective action, expiration time (if known), and where to obtain additional information. \n\nPlease complete this survey: https://survey.be-alert.info",
+  "sent_utc": "2026-04-02T16:30:16+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/2457513177930205.mp3"
+}
