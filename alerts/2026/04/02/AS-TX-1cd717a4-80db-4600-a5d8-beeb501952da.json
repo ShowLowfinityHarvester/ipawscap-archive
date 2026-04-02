@@ -1,0 +1,8 @@
+{
+  "id": "AS-TX-1cd717a4-80db-4600-a5d8-beeb501952da",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Ellis, TX; at 08:00 AM ON APR 2, 2026 Effective until 08:15 AM. Message from WSLF/CAP.",
+  "extra_text": "Midlothian Police Department Office of Emergency Management TEST. Emergency alert system test as part of the Texas statewide alerting drill occurring between 10:00 AM and 12:30 PM today. You may receive this alert on your mobile phone during the exercise. No emergency is occurring. No action needed. This test helps ensure emergency alerts work properly during real emergencies.",
+  "sent_utc": "2026-04-02T15:00:35+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/AS-TX-1cd717a4-80db-4600-a5d8-beeb501952da.mp3"
+}
