@@ -1,0 +1,8 @@
+{
+  "id": "WENS_IPAWS_CONNECT220263211424",
+  "event_code": "CDW",
+  "eas_text": "A civil authority has issued A CIVIL DANGER WARNING for the following counties or areas: Gray, TX; at 08:42 AM ON APR 2, 2026 Effective until 09:12 AM. Message from WSLF/CAP.",
+  "extra_text": "Emergency broadcast test this is only a test. You may receive multiple alerts Emergency broadcast test, this is only a test. You may receive multiple alerts",
+  "sent_utc": "2026-04-02T15:42:04+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/WENS_IPAWS_CONNECT220263211424.mp3"
+}
