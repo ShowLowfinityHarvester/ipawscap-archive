@@ -1,0 +1,8 @@
+{
+  "id": "AS-TX-39223654-f9f9-4623-9300-faba2d632fad",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Hill, TX; at 08:00 AM ON APR 2, 2026 Effective until 09:30 AM. Message from WSLF/CAP.",
+  "extra_text": "Hill County OEM: TEST of the emergency alert system. No emergency. No action needed.  This is a state wide drill",
+  "sent_utc": "2026-04-02T15:00:58+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/02/AS-TX-39223654-f9f9-4623-9300-faba2d632fad.mp3"
+}
