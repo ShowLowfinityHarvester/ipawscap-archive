@@ -35,6 +35,12 @@
       "event_code": "ADR",
       "sent_utc": "2026-04-04T02:33:00+00:00",
       "href": "17752699800001394137077.json"
+    },
+    {
+      "id": "hiplink-nccmp-0dec5f04-87a6-4454-b262-c225c6368e87-IPAWS006",
+      "event_code": "CAE",
+      "sent_utc": "2026-04-04T05:39:14+00:00",
+      "href": "hiplink-nccmp-0dec5f04-87a6-4454-b262-c225c6368e87-IPAWS006.json"
     }
   ]
 }
