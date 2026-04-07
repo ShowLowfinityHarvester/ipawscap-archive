@@ -1,0 +1,8 @@
+{
+  "id": "123123256",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Cass, MN; at 08:31 AM ON APR 7, 2026 Effective until 09:01 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test from the Cass County Sheriffs Office.  This is only a test",
+  "sent_utc": "2026-04-07T15:31:22+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/07/123123256.mp3"
+}
