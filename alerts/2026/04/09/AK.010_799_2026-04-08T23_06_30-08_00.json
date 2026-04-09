@@ -1,0 +1,8 @@
+{
+  "id": "AK.010_799_2026-04-08T23:06:30-08:00",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Alaska; at 12:06 AM ON APR 9, 2026 Effective until 01:06 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System... and the Alaska Amber Alert System.  In the event of an emergency, or child abduction, this system would provide important information... This test is now concluded.",
+  "sent_utc": "2026-04-09T07:06:30+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/04/09/AK.010_799_2026-04-08T23_06_30-08_00.mp3"
+}
