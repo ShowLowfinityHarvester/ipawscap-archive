@@ -35,6 +35,12 @@
       "event_code": "ADR",
       "sent_utc": "2026-04-13T14:40:49+00:00",
       "href": "AS-KS-39978ee7-f6c9-486d-89d0-50675825015f.json"
+    },
+    {
+      "id": "RWT_ADT_1776092400000",
+      "event_code": "RWT",
+      "sent_utc": "2026-04-13T15:00:00+00:00",
+      "href": "RWT_ADT_1776092400000.json"
     }
   ]
 }
