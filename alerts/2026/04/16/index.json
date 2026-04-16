@@ -35,6 +35,12 @@
       "event_code": "RWT",
       "sent_utc": "2026-04-16T15:15:00+00:00",
       "href": "AS-ID-7f947b91-3835-43b6-a3ea-daa91a4767a0.json"
+    },
+    {
+      "id": "AS-SD-443472e4-abd3-4df6-b697-a823f046d032",
+      "event_code": "LAE",
+      "sent_utc": "2026-04-16T15:15:17+00:00",
+      "href": "AS-SD-443472e4-abd3-4df6-b697-a823f046d032.json"
     }
   ]
 }
