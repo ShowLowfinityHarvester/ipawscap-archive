@@ -113,6 +113,12 @@
       "event_code": "RMT",
       "sent_utc": "2026-04-17T01:34:14+00:00",
       "href": "69e18b843fedd91b7c090a5d.json"
+    },
+    {
+      "id": "hiplink-nccmp-4e72093a-0270-4c7c-a6e7-5f97efa814d2-IPAWS010",
+      "event_code": "CAE",
+      "sent_utc": "2026-04-17T02:35:02+00:00",
+      "href": "hiplink-nccmp-4e72093a-0270-4c7c-a6e7-5f97efa814d2-IPAWS010.json"
     }
   ]
 }
