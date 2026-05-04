@@ -1,0 +1,8 @@
+{
+  "id": "AS-KS-84e030af-99c5-4416-8805-fde1bd16fe0d",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Kansas; at 09:00 AM ON MAY 4, 2026 Effective until 10:00 AM. Message from WSLF/CAP.",
+  "extra_text": "This is the required weekly test for the Kansas Division of Emergency Management The only action required by recipients in the state of Kansas is to log this test.",
+  "sent_utc": "2026-05-04T16:00:26+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/04/AS-KS-84e030af-99c5-4416-8805-fde1bd16fe0d.mp3"
+}
