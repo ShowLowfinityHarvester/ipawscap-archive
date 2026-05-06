@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-00fa1e42-25e5-4ae5-8e0e-ba2c3ca88f7e",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Bingham; Bannock, ID; at 12:33 PM ON MAY 6, 2026 Effective until 02:33 PM. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the Endangered Missing Person Alert system.  The Blackfoot Police Department is looking for Thomas Dennis Loeffler who was last leaving his home at 520 Lilac St Blackfoot Idaho.Thomas has dementia and is believed to be in danger. He is a 76 year old male with brown hair and brown eyes and was last seen carrying a blue backpack. If you have any information on the where abouts of this missing person please contact Blackfoot Police Department at 208-785-1234.",
+  "sent_utc": "2026-05-06T19:33:30+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/06/AS-ID-00fa1e42-25e5-4ae5-8e0e-ba2c3ca88f7e.mp3"
+}
