@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-1638-20260506040600",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Jackson, OR; at 04:06 AM ON MAY 6, 2026 Effective until 04:21 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2026-05-06T11:06:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/06/CAPNET-0-1638-20260506040600.mp3"
+}
