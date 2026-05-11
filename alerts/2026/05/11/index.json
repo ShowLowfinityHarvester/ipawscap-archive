@@ -53,6 +53,12 @@
       "event_code": "ADR",
       "sent_utc": "2026-05-11T15:56:48+00:00",
       "href": "AS-KS-49d378dc-7b10-4b22-b0ae-f01d2a6e8345.json"
+    },
+    {
+      "id": "RWT_CDT_1778515200000",
+      "event_code": "RWT",
+      "sent_utc": "2026-05-11T16:00:00+00:00",
+      "href": "RWT_CDT_1778515200000.json"
     }
   ]
 }
