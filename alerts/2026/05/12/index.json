@@ -107,6 +107,12 @@
       "event_code": "DMO",
       "sent_utc": "2026-05-12T18:35:10+00:00",
       "href": "v2-3.12.1-1482609-1778610909779.json"
+    },
+    {
+      "id": "AS-KS-4bcc24b1-4fa5-4f80-9eb8-9b112ac8c790",
+      "event_code": "RMT",
+      "sent_utc": "2026-05-12T18:50:44+00:00",
+      "href": "AS-KS-4bcc24b1-4fa5-4f80-9eb8-9b112ac8c790.json"
     }
   ]
 }
