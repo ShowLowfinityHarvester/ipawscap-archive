@@ -1,0 +1,8 @@
+{
+  "id": "MD.003_580_2026-05-13T00:16:19-04:00",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Maryland; at 09:16 PM ON MAY 12, 2026 Effective until 10:16 PM. Message from WSLF/CAP.",
+  "extra_text": "Test. This is a statewide Required Weekly Test of the Emergency Alert System originating from the Maryland Department of Emergency Management. This is only a test.",
+  "sent_utc": "2026-05-13T04:16:19+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/12/MD.003_580_2026-05-13T00_16_19-04_00.mp3"
+}
