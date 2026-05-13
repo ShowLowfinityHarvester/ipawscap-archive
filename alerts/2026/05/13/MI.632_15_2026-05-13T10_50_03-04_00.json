@@ -1,0 +1,8 @@
+{
+  "id": "MI.632_15_2026-05-13T10:50:03-04:00",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Berrien, MI; at 07:50 AM ON MAY 13, 2026 Effective until 08:50 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a required monthly test of the Southwestern Michigan Emergency Alert System, originating from the Berrien County Emergency Operations Center. If this had been an actual emergency that affects your safety, official instructions would be included in this message. This concludes this test. No Actions Required. Test Only.",
+  "sent_utc": "2026-05-13T14:50:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/13/MI.632_15_2026-05-13T10_50_03-04_00.mp3"
+}
