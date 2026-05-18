@@ -1,0 +1,8 @@
+{
+  "id": "AS-KS-ec73a987-d1a2-4363-9b03-65f00895b678",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Clark, KS; at 04:13 PM ON MAY 18, 2026 Effective until 07:13 PM. Message from WSLF/CAP.",
+  "extra_text": "Clark County residents west of Ashland starting CR 19 west to Hwy 283, and between CR P south to CR Z evacuate to Minneola.  This does not include Ashland City Limits.",
+  "sent_utc": "2026-05-18T23:13:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/18/AS-KS-ec73a987-d1a2-4363-9b03-65f00895b678.mp3"
+}
