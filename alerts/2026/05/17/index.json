@@ -89,6 +89,12 @@
       "event_code": "FRW",
       "sent_utc": "2026-05-18T00:51:03+00:00",
       "href": "AS-KS-89063067-d454-4578-a98b-08e7bcf24c13.json"
+    },
+    {
+      "id": "RWT_GDT_1779066000000",
+      "event_code": "RWT",
+      "sent_utc": "2026-05-18T01:00:00+00:00",
+      "href": "RWT_GDT_1779066000000.json"
     }
   ]
 }
