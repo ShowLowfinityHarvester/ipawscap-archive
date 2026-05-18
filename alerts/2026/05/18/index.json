@@ -137,6 +137,12 @@
       "event_code": "EVI",
       "sent_utc": "2026-05-18T22:43:27+00:00",
       "href": "AS-KS-18c11f33-c7f6-4510-8055-a05732061ee1.json"
+    },
+    {
+      "id": "OnSolve-a052ff95405e489e80b132f7c9843ed0",
+      "event_code": "LAE",
+      "sent_utc": "2026-05-18T22:56:24+00:00",
+      "href": "OnSolve-a052ff95405e489e80b132f7c9843ed0.json"
     }
   ]
 }
