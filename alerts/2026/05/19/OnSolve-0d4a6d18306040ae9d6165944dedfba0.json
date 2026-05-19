@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-0d4a6d18306040ae9d6165944dedfba0",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Nebraska; at 08:00 AM ON MAY 19, 2026 Effective until 10:00 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a monthly test of the Emergency Alert System for broadcast stations and cable systems of Nebraska in cooperation with the FCC and other government authorities. Equipment is being tested that can quickly provide warnings during emergencies. If this had been an actual emergency, official information, news, or instructions would have followed the alert tone. This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2026-05-19T15:00:50+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/19/OnSolve-0d4a6d18306040ae9d6165944dedfba0.mp3"
+}
