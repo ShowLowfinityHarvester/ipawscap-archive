@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-3e7ed710095147a0ada639db8030ca1a",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Olmsted, MN; at 06:27 AM ON MAY 20, 2026 Effective until 07:27 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test. Rochester Emergency Management is conducting a weekly test of the Emergency Alert System. If this was a real emergency, additional details and instructions would follow. This is only a test.",
+  "sent_utc": "2026-05-20T13:27:52+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/20/OnSolve-3e7ed710095147a0ada639db8030ca1a.mp3"
+}
