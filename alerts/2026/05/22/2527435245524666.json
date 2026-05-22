@@ -1,0 +1,8 @@
+{
+  "id": "2527435245524666",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Eagle, CO; at 08:29 AM ON MAY 22, 2026 Effective until 09:29 AM. Message from WSLF/CAP.",
+  "extra_text": "TEST TEST TEST - This is a test of the Eagle County alert system. No action required.",
+  "sent_utc": "2026-05-22T15:29:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/22/2527435245524666.mp3"
+}
