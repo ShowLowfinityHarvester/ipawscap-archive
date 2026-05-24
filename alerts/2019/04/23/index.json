@@ -23,6 +23,12 @@
       "event_code": "RWT",
       "sent_utc": "2019-04-23T14:23:50+00:00",
       "href": "AS-KS-902c6d57-0dea-4721-b4ec-bc6570882889.json"
+    },
+    {
+      "id": "AS-WA-20b99249-53f9-416d-8eb1-f5cba48b1120",
+      "event_code": "CAE",
+      "sent_utc": "2019-04-23T15:00:57+00:00",
+      "href": "AS-WA-20b99249-53f9-416d-8eb1-f5cba48b1120.json"
     }
   ]
 }
