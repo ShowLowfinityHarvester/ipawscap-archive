@@ -41,6 +41,12 @@
       "event_code": "RWT",
       "sent_utc": "2026-05-24T03:47:00+00:00",
       "href": "CAPNET-0-2638-20260523234700.json"
+    },
+    {
+      "id": "DPS-UCJIS-UAA_EAS-1779601048923",
+      "event_code": "CAE",
+      "sent_utc": "2026-05-24T05:37:28+00:00",
+      "href": "DPS-UCJIS-UAA_EAS-1779601048923.json"
     }
   ]
 }
