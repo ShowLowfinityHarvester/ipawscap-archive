@@ -1,0 +1,8 @@
+{
+  "id": "MI.016_13_2019-05-13T09:13:08-04:00",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Wayne, MI; at 6:13 AM on MAY 13, 2019 Effective until 6:28 AM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS A TEST THIS IS A REQUIRED WEEKLY TEST OF THE EMERGENCY ALERT SYSTEM FOR WAYNE COUNTY.\nTHIS IS ONLY A TEST",
+  "sent_utc": "2019-05-13T13:13:08+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/05/13/MI.016_13_2019-05-13T09_13_08-04_00.mp3"
+}
