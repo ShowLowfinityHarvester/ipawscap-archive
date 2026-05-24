@@ -1,0 +1,8 @@
+{
+  "id": "PA.026_190_2019-02-04T05:04:46-05:00",
+  "event_code": "TOE",
+  "eas_text": "A civil authority has issued A 911 TELEPHONE OUTAGE EMERGENCY for the following counties or areas: Clarion, PA; at 3:04 AM on FEB 4, 2019 Effective until 3:49 AM. Message from WSLF/CAP.",
+  "extra_text": "CLARION COUNTY 9-1-1 CENTER IS CURRENTLY DOWN. IF YOU HAVE AN EMERGENCY PLEASE DIAL  814-226-1172.",
+  "sent_utc": "2019-02-04T10:04:46+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/02/04/PA.026_190_2019-02-04T05_04_46-05_00.mp3"
+}
