@@ -29,6 +29,12 @@
       "event_code": "RWT",
       "sent_utc": "2019-05-01T14:56:57+00:00",
       "href": "OnSolve-c9713e7e7625483caa46a991b1665da4.json"
+    },
+    {
+      "id": "AS-HI-d131fd80-a019-47ab-8a3e-ca6cf2df587c",
+      "event_code": "DMO",
+      "sent_utc": "2019-05-01T14:59:08+00:00",
+      "href": "AS-HI-d131fd80-a019-47ab-8a3e-ca6cf2df587c.json"
     }
   ]
 }
