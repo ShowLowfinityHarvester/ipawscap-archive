@@ -1,0 +1,8 @@
+{
+  "id": "PA.000_3044_2019-02-04T06:18:17-05:00",
+  "event_code": "TOE",
+  "eas_text": "A civil authority has issued A 911 TELEPHONE OUTAGE EMERGENCY for the following counties or areas: McKean, PA; at 4:18 AM on FEB 4, 2019 Effective until 6:18 AM. Message from WSLF/CAP.",
+  "extra_text": "MCKEAN COUNTY IS NOTIFYING RESIDENTS THAT MCKEAN COUNTY 911 CENTER IS DOWN. IF YOU HAVE AN EMERGENCY PLEASE CALL 814-887-4911.",
+  "sent_utc": "2019-02-04T11:18:17+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/02/04/PA.000_3044_2019-02-04T06_18_17-05_00.mp3"
+}
