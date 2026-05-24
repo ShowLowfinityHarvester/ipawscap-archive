@@ -1,0 +1,8 @@
+{
+  "id": "AS-IL-f343ff89-2a8c-4596-9a0b-12649411dd78",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: La Salle, IL; at 6:02 AM on OCT 9, 2019 Effective until 7:02 AM. Message from WSLF/CAP.",
+  "extra_text": "This is the required weekly test of the LaSalle County Emergency Alert System. This is only a test.",
+  "sent_utc": "2019-10-09T13:02:18+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/10/09/AS-IL-f343ff89-2a8c-4596-9a0b-12649411dd78.mp3"
+}
