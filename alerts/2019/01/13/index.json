@@ -5,6 +5,12 @@
       "event_code": "RWT",
       "sent_utc": "2019-01-13T12:10:28+00:00",
       "href": "OnSolve-778fe180b2c14432a646a26a4ed55f49.json"
+    },
+    {
+      "id": "UT-DPS-UCJIS-UAA-1371-1547397188494",
+      "event_code": "ADR",
+      "sent_utc": "2019-01-13T16:33:08+00:00",
+      "href": "UT-DPS-UCJIS-UAA-1371-1547397188494.json"
     }
   ]
 }
