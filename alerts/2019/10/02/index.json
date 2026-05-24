@@ -35,6 +35,12 @@
       "event_code": "RWT",
       "sent_utc": "2019-10-02T15:27:00+00:00",
       "href": "CAPNET-0-520-20191002102700.json"
+    },
+    {
+      "id": "ASHERGROUP-738407-post-1570030204",
+      "event_code": "RMT",
+      "sent_utc": "2019-10-02T15:30:04+00:00",
+      "href": "ASHERGROUP-738407-post-1570030204.json"
     }
   ]
 }
