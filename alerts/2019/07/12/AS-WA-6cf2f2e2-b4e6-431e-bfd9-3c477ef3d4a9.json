@@ -1,0 +1,8 @@
+{
+  "id": "AS-WA-6cf2f2e2-b4e6-431e-bfd9-3c477ef3d4a9",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Washington; Benton; Franklin, WA; at 10:50 AM on JUL 12, 2019 Effective until 11:50 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test. This is only a test of the Emergency Alert System in Washington State issued by the Washington State Emergency Operations Center. In the event of an emergency, this system would bring you important information. The following tones will conclude this test from the Washington State Emergency Operations Center.",
+  "sent_utc": "2019-07-12T17:50:02+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/07/12/AS-WA-6cf2f2e2-b4e6-431e-bfd9-3c477ef3d4a9.mp3"
+}
