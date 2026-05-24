@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-76ff43c6ad4f4de3aab019d5c1f9d5ce",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Custer, CO; at 9:00 AM on APR 22, 2019 Effective until 10:00 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Custer County Emergency Alert System. This is only a test. No action is required.",
+  "sent_utc": "2019-04-22T16:00:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/22/OnSolve-76ff43c6ad4f4de3aab019d5c1f9d5ce.mp3"
+}
