@@ -1,0 +1,8 @@
+{
+  "id": "AS-HI-39356bcb-d789-4198-a496-14f8e52eaba2",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Hawaii; at 2:14 PM on APR 1, 2019 Effective until 3:14 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a coordinated test of the Emergency Alert System for broadcast stations in Hawaii. As a reminder, the regular monthly test of the Live Audio Broadcast Segment and Outdoor Warning Siren System will be conducted at 1145 AM from Emergency Management Authorities. Hawaii's warning sirens are used to alert the public to any emergency that may pose a threat to life or property. The sound of the sirens is to alert residents to turn on a radio or television for information and instruction for an impending emergency. Instruction may also be provided by a cellular Wireless Emergency Alert. Sent from the Hawaii Emergency Management Agency. This concludes the test of the Emergency Alert System. We now return you to the regular station programming.",
+  "sent_utc": "2019-04-01T21:14:28+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/01/AS-HI-39356bcb-d789-4198-a496-14f8e52eaba2.mp3"
+}
