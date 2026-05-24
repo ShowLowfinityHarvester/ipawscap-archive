@@ -17,6 +17,12 @@
       "event_code": "DMO",
       "sent_utc": "2019-07-04T16:54:25+00:00",
       "href": "AS-HI-e1ae97a0-b9d4-4269-9361-d3eb97c75311.json"
+    },
+    {
+      "id": "AS-CA-734b5a46-b15e-4f2c-9f7a-fc2623eb22d0",
+      "event_code": "RMT",
+      "sent_utc": "2019-07-04T17:43:58+00:00",
+      "href": "AS-CA-734b5a46-b15e-4f2c-9f7a-fc2623eb22d0.json"
     }
   ]
 }
