@@ -1,0 +1,8 @@
+{
+  "id": "AS-WA-9a989d2f-35ee-444f-8b70-e00c8c7c33e9",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Washington; Benton; Franklin, WA; at 11:01 AM on APR 9, 2019 Effective until 12:01 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test. This is only a test of the Emergency Alert System in Washington State issued by the Washington State Emergency Operations Center. In the event of an emergency, this system would bring you important information. The following tones will conclude this test from the Washington State Emergency Operations Center.",
+  "sent_utc": "2019-04-09T18:01:38+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/09/AS-WA-9a989d2f-35ee-444f-8b70-e00c8c7c33e9.mp3"
+}
