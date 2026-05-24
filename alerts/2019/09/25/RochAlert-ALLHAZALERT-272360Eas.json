@@ -1,0 +1,8 @@
+{
+  "id": "RochAlert-ALLHAZALERT-272360Eas",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Olmsted, MN; at 8:00 AM on SEP 25, 2019 Effective until 9:00 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System for the City of Rochester and Olmsted County.  If this was a real emergency, instructions would follow with steps to take for personal safety.  This is only a test. This test was conducted using the Rochester Alert emergency notification system. No instructions are provided at this time.  This is only a test.",
+  "sent_utc": "2019-09-25T15:00:07+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/09/25/RochAlert-ALLHAZALERT-272360Eas.mp3"
+}
