@@ -1,0 +1,8 @@
+{
+  "id": "5c992cb2b74d2004946660b3",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Montgomery, TX; at 12:32 PM on MAR 25, 2019 Effective until 12:47 PM. Message from WSLF/CAP.",
+  "extra_text": "MCTXALERTS: TEST -This is a test of the Montgomery County Wireless Emergency Alerts. No action is required. www.mctxoem.org MCTXALERTS: TEST -This is a test of the Montgomery County Wireless Emergency Alerts. No action is required. www.mctxoem.org",
+  "sent_utc": "2019-03-25T19:32:51+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/03/25/5c992cb2b74d2004946660b3.mp3"
+}
