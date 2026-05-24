@@ -1,0 +1,8 @@
+{
+  "id": "AS-WA-d08cc39c-e47c-4939-be28-a5f968e452e6",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Pierce; Jefferson; Island; King; Kitsap; Snohomish, WA; at 8:59 AM on MAY 3, 2019 Effective until 9:59 AM. Message from WSLF/CAP.",
+  "extra_text": "This is Pierce County Emergency Management conducting a test of the Emergency Alert System. In the event of an emergency, this system would bring you important information. The following tones will conclude this test.",
+  "sent_utc": "2019-05-03T15:59:28+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/05/03/AS-WA-d08cc39c-e47c-4939-be28-a5f968e452e6.mp3"
+}
