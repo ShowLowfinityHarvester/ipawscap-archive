@@ -59,6 +59,12 @@
       "event_code": "CAE",
       "sent_utc": "2019-08-22T15:08:34+00:00",
       "href": "AS-ID-e9026655-ef5e-4b83-97a2-00259d5b094d.json"
+    },
+    {
+      "id": "AS-WA-c33f151b-f8a4-4814-abf7-9acb41b70b2b",
+      "event_code": "RWT",
+      "sent_utc": "2019-08-22T16:32:43+00:00",
+      "href": "AS-WA-c33f151b-f8a4-4814-abf7-9acb41b70b2b.json"
     }
   ]
 }
