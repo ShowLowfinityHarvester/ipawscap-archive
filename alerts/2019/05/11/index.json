@@ -1,0 +1,10 @@
+{
+  "alerts": [
+    {
+      "id": "AS-KS-60048b8d-6206-4610-b83b-3f6e477b18bb",
+      "event_code": "RWT",
+      "sent_utc": "2019-05-11T12:43:57+00:00",
+      "href": "AS-KS-60048b8d-6206-4610-b83b-3f6e477b18bb.json"
+    }
+  ]
+}
