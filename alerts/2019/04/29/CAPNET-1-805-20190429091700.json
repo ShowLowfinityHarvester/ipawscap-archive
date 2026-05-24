@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-1-805-20190429091700",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Sedgwick, KS; at 7:17 AM on APR 29, 2019 Effective until 7:32 AM. Message from SEDGEOC.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2019-04-29T14:17:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/29/CAPNET-1-805-20190429091700.mp3"
+}
