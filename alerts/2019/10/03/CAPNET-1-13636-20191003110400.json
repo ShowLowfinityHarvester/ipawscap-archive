@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-1-13636-20191003110400",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Oregon; Clark, WA; at 11:04 AM on OCT 3, 2019 Effective until 2:04 PM. Message from OEM,1,OR.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2019-10-03T18:04:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/10/03/CAPNET-1-13636-20191003110400.mp3"
+}
