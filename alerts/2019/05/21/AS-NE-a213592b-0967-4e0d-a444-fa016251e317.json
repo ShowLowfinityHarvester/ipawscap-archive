@@ -1,0 +1,8 @@
+{
+  "id": "AS-NE-a213592b-0967-4e0d-a444-fa016251e317",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Nebraska; at 7:56 AM on MAY 21, 2019 Effective until 8:56 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a monthly test of the Emergency Alert System for\nbroadcast stations and cable systems of Nebraska in \ncooperation with the FCC, NEMA and other government authorities. \n\nEquipment is being tested that can quickly provide warnings\nduring emergencies. If this had been an actual emergency, official information,\nnews, or instructions would have followed the alert tone.\n\nThis concludes this test of the Emergency Alert System.",
+  "sent_utc": "2019-05-21T14:56:44+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/05/21/AS-NE-a213592b-0967-4e0d-a444-fa016251e317.mp3"
+}
