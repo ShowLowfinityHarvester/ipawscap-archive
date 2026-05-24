@@ -1,0 +1,8 @@
+{
+  "id": "AS-NE-275e0629-f7e8-4106-b484-9bcf192b795c",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Nebraska; at 8:18 AM on APR 30, 2019 Effective until 9:18 AM. Message from WSLF/CAP.",
+  "extra_text": "TEST TEST TEST The Nebraska Emergency Management Agency has issued a Required Weekly Test of the Emergency Alert System.  This is only a test.",
+  "sent_utc": "2019-04-30T15:18:13+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/30/AS-NE-275e0629-f7e8-4106-b484-9bcf192b795c.mp3"
+}
