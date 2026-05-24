@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-be6f21dedca94fc0a3086016c5b51c12",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Ward, ND; at 6:04 AM on SEP 13, 2019 Effective until 6:19 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alerting system.   This is only a test.",
+  "sent_utc": "2019-09-13T13:04:09+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/09/13/OnSolve-be6f21dedca94fc0a3086016c5b51c12.mp3"
+}
