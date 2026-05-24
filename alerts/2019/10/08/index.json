@@ -1,0 +1,10 @@
+{
+  "alerts": [
+    {
+      "id": "AS-AZ-34e6342d-f3b2-4b05-856a-7f87369e9e8c",
+      "event_code": "RMT",
+      "sent_utc": "2019-10-08T09:39:52+00:00",
+      "href": "AS-AZ-34e6342d-f3b2-4b05-856a-7f87369e9e8c.json"
+    }
+  ]
+}
