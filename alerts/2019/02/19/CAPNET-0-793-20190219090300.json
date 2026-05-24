@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-793-20190219090300",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Santa Barbara, CA; at 10:03 AM on FEB 19, 2019 Effective until 10:18 AM. Message from SBCOEM.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2019-02-19T17:03:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/02/19/CAPNET-0-793-20190219090300.mp3"
+}
