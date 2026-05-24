@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-1-13526-20190529103300",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Oregon; Clark, WA; at 10:33 AM on MAY 29, 2019 Effective until 1:33 PM. Message from OEM,1,OR.",
+  "extra_text": "Test from OEM with new cert.  Please email pat.pope@state.or.us upon receipt. No action is needed. This is only a test.",
+  "sent_utc": "2019-05-29T17:33:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/05/29/CAPNET-1-13526-20190529103300.mp3"
+}
