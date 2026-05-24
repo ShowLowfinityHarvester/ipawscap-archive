@@ -1,0 +1,8 @@
+{
+  "id": "AS-NE-cf5941ec-2322-41d3-bd38-d69cbd998a3c",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Nebraska; at 9:59 AM on MAY 23, 2019 Effective until 10:59 AM. Message from WSLF/CAP.",
+  "extra_text": "The Nebraska State Patrol has issued a required weekly test of the Emergency Alert System. This is only a test.",
+  "sent_utc": "2019-05-23T16:59:50+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/05/23/AS-NE-cf5941ec-2322-41d3-bd38-d69cbd998a3c.mp3"
+}
