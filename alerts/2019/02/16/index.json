@@ -1,0 +1,10 @@
+{
+  "alerts": [
+    {
+      "id": "AS-WI-65e8eecc-6b97-44a5-b81a-bb307feb0929",
+      "event_code": "RWT",
+      "sent_utc": "2019-02-16T16:44:32+00:00",
+      "href": "AS-WI-65e8eecc-6b97-44a5-b81a-bb307feb0929.json"
+    }
+  ]
+}
