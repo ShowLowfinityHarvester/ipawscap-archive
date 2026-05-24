@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-2-16372-20190715101100",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Minnesota; at 8:11 AM on JUL 15, 2019 Effective until 8:26 AM. Message from MN BCA.",
+  "extra_text": "This is a weekly test of the Emergency Alert System by the Minnesota Bureau of Criminal Apprehension. This is only a test. No action is needed. This is only a test.",
+  "sent_utc": "2019-07-15T15:11:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/07/15/CAPNET-2-16372-20190715101100.mp3"
+}
