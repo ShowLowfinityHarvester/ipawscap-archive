@@ -113,6 +113,12 @@
       "event_code": "CAE",
       "sent_utc": "2019-08-01T20:44:34+00:00",
       "href": "15646922740001324982482.json"
+    },
+    {
+      "id": "AS-HI-325f2a32-335c-44e5-8cd9-b08b687b81df",
+      "event_code": "RMT",
+      "sent_utc": "2019-08-01T21:14:23+00:00",
+      "href": "AS-HI-325f2a32-335c-44e5-8cd9-b08b687b81df.json"
     }
   ]
 }
