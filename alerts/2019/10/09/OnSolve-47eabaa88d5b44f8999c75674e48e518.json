@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-47eabaa88d5b44f8999c75674e48e518",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Mason, MI; at 6:12 AM on OCT 9, 2019 Effective until 6:27 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System originating from the Mason County Emergency Operations Center. If this had been an actual emergency, such as a toxic materials release, evacuation, shelter in place warning, 9-1-1 telephone outage, or other local emergency that affects your safety, official messages would have followed the alert tone. This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2019-10-09T13:12:18+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/10/09/OnSolve-47eabaa88d5b44f8999c75674e48e518.mp3"
+}
