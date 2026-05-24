@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-522-20191009072800",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Minnesota; at 5:28 AM on OCT 9, 2019 Effective until 6:28 AM. Message from MN HSEM.",
+  "extra_text": "This is a weekly coordinated test of the broadcast stations in your area. If this had been an actual emergency, official messages would have followed the alert tone. This concludes a test of the Emergency Alert System. This is only a test.",
+  "sent_utc": "2019-10-09T12:28:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/10/09/CAPNET-0-522-20191009072800.mp3"
+}
