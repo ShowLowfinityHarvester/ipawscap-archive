@@ -1,0 +1,8 @@
+{
+  "id": "AS-AZ-e514904e-6b4f-4b41-a1b4-ec597e5e3494",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Gila, AZ; at 12:40 AM on JUL 31, 2019 Effective until 3:40 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a coordinated monthly test of the emergency alert system, issued by the Arizona Department of Public Safety. We are testing systems and equipment that can quickly warn you during an emergency. If this had been an actual emergency, important information would have followed the alert signal you have just heard. This concludes this test.",
+  "sent_utc": "2019-07-31T07:40:48+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/07/31/AS-AZ-e514904e-6b4f-4b41-a1b4-ec597e5e3494.mp3"
+}
