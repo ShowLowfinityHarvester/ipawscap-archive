@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-93b8115c1ba04e7e9b0b797d4b9f0cf9",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Rhode Island; Bristol; Kent; Newport; Providence; Washington, RI; at 7:18 AM on MAY 9, 2019 Effective until 9:18 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test. This station is participating in a coordinated monthly test of the Rhode Island operational area Emergency Alert system. The Rhode Island broadcasters in cooperation with federal, state, and local authorities have developed this system to provide immediate warning, information or instructions. If this had been an actual emergency, the attention signal you just heard would have been followed by official news, information or instructions. This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2019-05-09T14:18:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/05/09/OnSolve-93b8115c1ba04e7e9b0b797d4b9f0cf9.mp3"
+}
