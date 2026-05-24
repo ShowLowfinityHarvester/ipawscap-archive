@@ -1,0 +1,8 @@
+{
+  "id": "AS-WA-63996c24-332a-401c-acc4-080d63ce46e6",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Mason; Thurston, WA; at 8:05 AM on SEP 5, 2019 Effective until 11:05 AM. Message from WSLF/CAP.",
+  "extra_text": "This is the Mason County Department of Emergency Management conducting a test of the emergency alert system. In the event of an emergency, this system would bring you important information. The following tones will conclude this test.",
+  "sent_utc": "2019-09-05T15:05:33+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/09/05/AS-WA-63996c24-332a-401c-acc4-080d63ce46e6.mp3"
+}
