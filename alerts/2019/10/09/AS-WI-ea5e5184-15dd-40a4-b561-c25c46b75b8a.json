@@ -1,0 +1,8 @@
+{
+  "id": "AS-WI-ea5e5184-15dd-40a4-b561-c25c46b75b8a",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Waukesha, WI; at 1:00 PM on OCT 9, 2019 Effective until 1:15 PM. Message from WSLF/CAP.",
+  "extra_text": "Waukesha County Weekly Test This is a test message from the Emergency Alert System originating from Waukesha County.  If this had been an actual emergency, you would have been given official information,news,or instructions. This test is now concluded.",
+  "sent_utc": "2019-10-09T20:00:43+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/10/09/AS-WI-ea5e5184-15dd-40a4-b561-c25c46b75b8a.mp3"
+}
