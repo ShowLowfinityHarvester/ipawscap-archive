@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-13442-20190221084900",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Oregon; at 9:49 AM on FEB 21, 2019 Effective until 12:49 PM. Message from OEM,1,OR.",
+  "extra_text": "This is a test to see if the State of Oregon certificate from FEMA was updated correctly..  Pat Pope  pat.pope state.or.us  503-378-4276 No action is needed. This is only a test.",
+  "sent_utc": "2019-02-21T16:49:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/02/21/CAPNET-0-13442-20190221084900.mp3"
+}
