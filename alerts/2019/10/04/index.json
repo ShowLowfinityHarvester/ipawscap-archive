@@ -53,6 +53,12 @@
       "event_code": "RWT",
       "sent_utc": "2019-10-04T21:00:41+00:00",
       "href": "IPAWSOPEN_2007601004_040041.json"
+    },
+    {
+      "id": "AS-AZ-18255f1c-9b33-432a-b322-6f7e1638ab6e",
+      "event_code": "ADR",
+      "sent_utc": "2019-10-05T02:36:42+00:00",
+      "href": "AS-AZ-18255f1c-9b33-432a-b322-6f7e1638ab6e.json"
     }
   ]
 }
