@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-474-20190501135400",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Minnesota; at 11:54 AM on MAY 1, 2019 Effective until 12:54 PM. Message from MN HSEM.",
+  "extra_text": "This is a coordinated test of the broadcast stations in your area. If this had been an actual emergency, official messages would have followed the alert tone. This concludes a test of the Emergency Alert System. This is only a test.",
+  "sent_utc": "2019-05-01T18:54:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/05/01/CAPNET-0-474-20190501135400.mp3"
+}
