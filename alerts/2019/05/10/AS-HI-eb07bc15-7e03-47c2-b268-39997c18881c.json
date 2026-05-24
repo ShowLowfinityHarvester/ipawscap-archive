@@ -1,0 +1,8 @@
+{
+  "id": "AS-HI-eb07bc15-7e03-47c2-b268-39997c18881c",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Honolulu, HI; at 12:45 PM on MAY 10, 2019 Effective until 1:00 PM. Message from WSLF/CAP.",
+  "extra_text": "This is only a system test. Sent from the Oahu Alternate Warning Point at Kapolei No action required.  End of Message.",
+  "sent_utc": "2019-05-10T19:45:08+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/05/10/AS-HI-eb07bc15-7e03-47c2-b268-39997c18881c.mp3"
+}
