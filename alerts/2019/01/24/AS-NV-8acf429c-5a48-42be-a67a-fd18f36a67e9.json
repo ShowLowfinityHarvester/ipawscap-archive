@@ -1,0 +1,8 @@
+{
+  "id": "AS-NV-8acf429c-5a48-42be-a67a-fd18f36a67e9",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Clark, NV; at 9:59 AM on JAN 24, 2019 Effective until 10:29 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the southern Nevada/Inyo County California Emergency Alert System.  This message is originating from the Clark County Office of Emergency Management in Las Vegas, Nevada.  This system is used for warnings and essential safety information during emergencies.  At such times, tune to a participating radio or television station for directions, safety instructions and other official information.  This concludes this test of the southern Nevada/Inyo County California Emergency Alert System.  EOC-1.",
+  "sent_utc": "2019-01-24T16:59:08+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/01/24/AS-NV-8acf429c-5a48-42be-a67a-fd18f36a67e9.mp3"
+}
