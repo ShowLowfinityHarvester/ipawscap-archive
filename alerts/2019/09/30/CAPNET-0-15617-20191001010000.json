@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-15617-20191001010000",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Bexar; Brewster; Hidalgo; Harris; El Paso; Tarrant; Travis; Val Verde; Webb, TX; at 11:00 PM on SEP 30, 2019 Effective until 11:15 PM. Message from DPSAUS.",
+  "extra_text": "THIS IS A TEST OF THE EMERGENCY ALERT SYSTEM. IF THIS HAD BEEN AN ACTUAL EMERGENCY, YOU WOULD HAVE BEEN GIVEN ADDITIONAL INSTRUCTIONS. THIS IS A TEST. No action necessary.",
+  "sent_utc": "2019-10-01T06:00:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/09/30/CAPNET-0-15617-20191001010000.mp3"
+}
