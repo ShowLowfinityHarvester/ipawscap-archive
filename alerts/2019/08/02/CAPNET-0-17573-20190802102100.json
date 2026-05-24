@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-17573-20190802102100",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Hennepin, MN; at 8:21 AM on AUG 2, 2019 Effective until 8:36 AM. Message from HCEM.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2019-08-02T15:21:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/02/CAPNET-0-17573-20190802102100.mp3"
+}
