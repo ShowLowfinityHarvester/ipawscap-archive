@@ -1,0 +1,8 @@
+{
+  "id": "5669af0b-d652-4cd5-b3ed-8706cc62ed4b",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: San Joaquin, CA; at 4:21 PM on APR 8, 2019 Effective until 4:51 PM APR 9, 2019. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System from the San Joaquin Office of Emergency Services. This test is run in conjunction with Federal, State, and Local authorities to keep you informed in the event of an emergency. This is only a test. No action is required at this time.",
+  "sent_utc": "2019-04-08T23:21:59+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/08/5669af0b-d652-4cd5-b3ed-8706cc62ed4b.mp3"
+}
