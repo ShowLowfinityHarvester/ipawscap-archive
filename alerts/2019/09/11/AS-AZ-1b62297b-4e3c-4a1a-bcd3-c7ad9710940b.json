@@ -1,0 +1,8 @@
+{
+  "id": "AS-AZ-1b62297b-4e3c-4a1a-bcd3-c7ad9710940b",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Apache; Cochise; Gila; Graham; Greenlee; Maricopa; Navajo; Pima; Pinal; Santa Cruz; Yavapai, AZ; at 11:40 AM on SEP 11, 2019 Effective until 2:40 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System, originated by the Arizona Department of Public Safety. If this had been an actual emergency, important information or instructions would have followed the tones you just heard. This concludes this test.",
+  "sent_utc": "2019-09-11T18:40:10+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/09/11/AS-AZ-1b62297b-4e3c-4a1a-bcd3-c7ad9710940b.mp3"
+}
