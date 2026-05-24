@@ -1,0 +1,10 @@
+{
+  "alerts": [
+    {
+      "id": "AS-AZ-de2ec695-08ab-42ed-b9a2-00ef012d2ff1",
+      "event_code": "RWT",
+      "sent_utc": "2019-10-16T11:59:22+00:00",
+      "href": "AS-AZ-de2ec695-08ab-42ed-b9a2-00ef012d2ff1.json"
+    }
+  ]
+}
