@@ -1,0 +1,8 @@
+{
+  "id": "AS-WA-108a4f8e-35f4-476d-832c-57f65e89407d",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Washington; at 11:00 AM on SEP 17, 2019 Effective until 12:00 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test.  This is only a test of the Emergency Alert System in Washington State issued by the Washington State Emergency Operations Center. In the event of an emergency, this system would bring you important information. The following tones will conclude this test from the Washington State Emergency Operations Center.",
+  "sent_utc": "2019-09-17T18:00:59+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/09/17/AS-WA-108a4f8e-35f4-476d-832c-57f65e89407d.mp3"
+}
