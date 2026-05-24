@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-db0ce3ed1a674aafa098963c4b73377c",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Mason, MI; at 4:50 AM on APR 9, 2019 Effective until 5:50 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the West-Central Michigan Emergency Alert System, originating from the Mason County Emergency Operations Center.  If this had been an actual emergency, such as a tornado, a toxic material release, wide spread power outage, telephone outage or other state or local emergency that affects your safety, official messages would have followed the alert tone.  This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2019-04-09T11:50:10+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/09/OnSolve-db0ce3ed1a674aafa098963c4b73377c.mp3"
+}
