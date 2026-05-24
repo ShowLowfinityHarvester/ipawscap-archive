@@ -65,6 +65,12 @@
       "event_code": "RWT",
       "sent_utc": "2019-08-27T17:02:29+00:00",
       "href": "DPS-UCJIS-RWT-1566925349328.json"
+    },
+    {
+      "id": "DPS-UCJIS-RWT-1566925363930",
+      "event_code": "RWT",
+      "sent_utc": "2019-08-27T17:02:43+00:00",
+      "href": "DPS-UCJIS-RWT-1566925363930.json"
     }
   ]
 }
