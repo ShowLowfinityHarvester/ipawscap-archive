@@ -1,0 +1,8 @@
+{
+  "id": "cde6a578-844c-d29d-32db-3452203e5144",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Indiana; at 3:32 AM on FEB 10, 2019 Effective until 3:47 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Indiana EAS System. This test is conducted in coordination with the Indiana Broadcasters as a public service to the citizens of Indiana.",
+  "sent_utc": "2019-02-10T10:32:32+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/02/10/cde6a578-844c-d29d-32db-3452203e5144.mp3"
+}
