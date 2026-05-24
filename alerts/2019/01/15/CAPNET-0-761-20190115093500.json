@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-761-20190115093500",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Santa Barbara, CA; at 10:35 AM on JAN 15, 2019 Effective until 11:20 AM. Message from SBCOEM.",
+  "extra_text": "The Santa Barbara County Sheriff's Office has issued an EVACUATION ORDER beginning at 10:00 AM today (Tuesday, January 15, 2019) due to the approach of a rainstorm capable of producing debris flows in Santa Barbara County below the Sherpa, Whittier and Thomas Fire burn areas (west of Goleta, Montecito, and Carpinteria). If you are in a storm risk area below a burn area, leave now. For more information or to view the interactive evacuation map, go to ReadySBC.org. Stay tuned for further instructions.",
+  "sent_utc": "2019-01-15T17:35:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/01/15/CAPNET-0-761-20190115093500.mp3"
+}
