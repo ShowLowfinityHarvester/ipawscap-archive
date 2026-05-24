@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-67b42034e31344e8874e72a535ffb5a7",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Butte, CA; at 9:46 AM on MAR 13, 2019 Effective until 10:46 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a weekly test of the Butte County Sheriff's Emergency Alerting System. This is only a test.",
+  "sent_utc": "2019-03-13T16:46:37+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/03/13/OnSolve-67b42034e31344e8874e72a535ffb5a7.mp3"
+}
