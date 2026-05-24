@@ -1,0 +1,8 @@
+{
+  "id": "UT-DPS-UCJIS-UAA-1371-1547397188494",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Utah; at 9:33 AM on JAN 13, 2019 Effective until 9:33 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Utah Amber Alert System. If there had be an actual child abduction a description of the victim would be given here.",
+  "sent_utc": "2019-01-13T16:33:08+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/01/13/UT-DPS-UCJIS-UAA-1371-1547397188494.mp3"
+}
