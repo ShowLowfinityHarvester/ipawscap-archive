@@ -101,6 +101,12 @@
       "event_code": "RWT",
       "sent_utc": "2019-06-05T21:50:32+00:00",
       "href": "08e420ef-9797-4407-a87b-a2f04aab46e1.json"
+    },
+    {
+      "id": "AS-WI-99df3d5f-86fb-4b48-8b63-bd4c08b4bdba",
+      "event_code": "RMT",
+      "sent_utc": "2019-06-06T04:49:32+00:00",
+      "href": "AS-WI-99df3d5f-86fb-4b48-8b63-bd4c08b4bdba.json"
     }
   ]
 }
