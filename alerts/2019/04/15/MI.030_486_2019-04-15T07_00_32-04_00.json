@@ -1,0 +1,8 @@
+{
+  "id": "MI.030_486_2019-04-15T07:00:32-04:00",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Allegan, MI; at 4:00 AM on APR 15, 2019 Effective until 4:15 AM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS A REQUIRED WEEKLY TEST OF THE EMERGENCY ALERT SYSTEM FOR ALLEGAN COUNTY.  THIS IS ONLY A TEST.",
+  "sent_utc": "2019-04-15T11:00:32+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/15/MI.030_486_2019-04-15T07_00_32-04_00.mp3"
+}
