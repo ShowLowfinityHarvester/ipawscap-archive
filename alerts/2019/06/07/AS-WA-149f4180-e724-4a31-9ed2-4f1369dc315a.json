@@ -1,0 +1,8 @@
+{
+  "id": "AS-WA-149f4180-e724-4a31-9ed2-4f1369dc315a",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Kittitas, WA; at 8:21 AM on JUN 7, 2019 Effective until 9:21 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System. This test was initiated by KITTCOM in Ellensburg Washington at Eight Twenty AM Friday June seventh  Two Thousand Nineteen, in cooperation with your local broadcasters and the Federal Communications Commission. Your normal programming will return shortly. This is only a test.",
+  "sent_utc": "2019-06-07T15:21:52+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/06/07/AS-WA-149f4180-e724-4a31-9ed2-4f1369dc315a.mp3"
+}
