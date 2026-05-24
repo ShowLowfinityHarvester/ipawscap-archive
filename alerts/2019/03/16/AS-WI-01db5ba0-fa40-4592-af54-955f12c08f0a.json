@@ -1,0 +1,8 @@
+{
+  "id": "AS-WI-01db5ba0-fa40-4592-af54-955f12c08f0a",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Kenosha, WI; at 8:32 AM on MAR 16, 2019 Effective until 8:47 AM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS A TEST FROM THE KENOSHA SHERIFFS DIVISION OF EMERGENCY MANAGEMENT. THIS IS ONLY A TEST.",
+  "sent_utc": "2019-03-16T15:32:56+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/03/16/AS-WI-01db5ba0-fa40-4592-af54-955f12c08f0a.mp3"
+}
