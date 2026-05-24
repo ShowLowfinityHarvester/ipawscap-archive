@@ -23,6 +23,12 @@
       "event_code": "ADR",
       "sent_utc": "2019-01-04T18:33:15+00:00",
       "href": "309104501346800.json"
+    },
+    {
+      "id": "RochAlert-ALLHAZALERT-270594Eas",
+      "event_code": "RWT",
+      "sent_utc": "2019-01-04T18:36:16+00:00",
+      "href": "RochAlert-ALLHAZALERT-270594Eas.json"
     }
   ]
 }
