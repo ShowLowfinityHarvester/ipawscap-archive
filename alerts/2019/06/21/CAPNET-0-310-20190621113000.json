@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-310-20190621113000",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Fayette, KY; at 8:30 AM on JUN 21, 2019 Effective until 8:45 AM. Message from LEX_EM.",
+  "extra_text": "Testing Barix unit from downtown location using alternate method. Testing Testing. Stay tuned for further instructions.",
+  "sent_utc": "2019-06-21T15:30:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/06/21/CAPNET-0-310-20190621113000.mp3"
+}
