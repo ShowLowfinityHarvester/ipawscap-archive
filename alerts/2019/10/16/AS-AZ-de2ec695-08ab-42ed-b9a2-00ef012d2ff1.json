@@ -1,0 +1,8 @@
+{
+  "id": "AS-AZ-de2ec695-08ab-42ed-b9a2-00ef012d2ff1",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Arizona; at 4:59 AM on OCT 16, 2019 Effective until 5:14 AM. Message from WSLF/CAP.",
+  "extra_text": "The Arizona Department of Public Safety is conducting a required weekly test of the Emergency Activation System. This is only a Test.",
+  "sent_utc": "2019-10-16T11:59:22+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/10/16/AS-AZ-de2ec695-08ab-42ed-b9a2-00ef012d2ff1.mp3"
+}
