@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-567-20190401155800",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Shawnee, KS; at 1:58 PM on APR 1, 2019 Effective until 2:13 PM. Message from SNCO EOC.",
+  "extra_text": "This is a test.  This is only a test of the Shawnee County IPAWS System. EM6 No response is required.",
+  "sent_utc": "2019-04-01T20:58:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/01/CAPNET-0-567-20190401155800.mp3"
+}
