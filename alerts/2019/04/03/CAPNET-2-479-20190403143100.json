@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-2-479-20190403143100",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Arizona; at 2:31 PM on APR 3, 2019 Effective until 3:31 PM. Message from AZDEMA.",
+  "extra_text": "Test.  This is a practice D.M.O. test event to demonstrate connectivity from Arizona DEMA Headquarters in Phoenix to the State's broadcasters and cable systems. This is a test only, and no action is necessary by the public.  This concludes the test.",
+  "sent_utc": "2019-04-03T21:31:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/04/03/CAPNET-2-479-20190403143100.mp3"
+}
