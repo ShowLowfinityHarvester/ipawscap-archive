@@ -1,0 +1,8 @@
+{
+  "id": "AS-WA-8c393276-a8c8-4544-899c-976d6e9539c2",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Island; Jefferson; Kitsap; Snohomish; Pierce; King, WA; at 1:29 PM on MAR 4, 2019 Effective until 2:29 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the emergency alert system for Kitsap, Island, Jefferson, Snohomish, Pierce and King counties of Washington State.  This is only a test. If this had been a real emergency you would be given instructions on what actions to take. The following tones will conclude this test.",
+  "sent_utc": "2019-03-04T20:29:27+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/03/04/AS-WA-8c393276-a8c8-4544-899c-976d6e9539c2.mp3"
+}
