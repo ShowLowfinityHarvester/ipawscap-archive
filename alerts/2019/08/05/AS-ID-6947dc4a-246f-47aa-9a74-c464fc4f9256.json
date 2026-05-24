@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-6947dc4a-246f-47aa-9a74-c464fc4f9256",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Idaho; Lincoln, MT; Malheur, OR; at 8:25 AM on AUG 5, 2019 Effective until 9:25 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the State of Idaho Emergency Alert System. In the event of an emergency, this system would bring you important information. This test was conducted from the Idaho State Communications Center in Meridian, Idaho and is now concluded.",
+  "sent_utc": "2019-08-05T15:25:53+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/05/AS-ID-6947dc4a-246f-47aa-9a74-c464fc4f9256.mp3"
+}
