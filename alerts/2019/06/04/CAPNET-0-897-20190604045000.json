@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-0-897-20190604045000",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Santa Barbara, CA; at 4:50 AM on JUN 4, 2019 Effective until 5:50 AM. Message from SBCOEM.",
+  "extra_text": "This is a required monthly test of the Emergency Alert System. This is only a test. If this was a real alert, you should tune to one of these television or radio stations to receive instructions from authorities about what is happening and what you need to do. This concludes this test of the emergency alert system. No action is needed. This is only a test.",
+  "sent_utc": "2019-06-04T11:50:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/06/04/CAPNET-0-897-20190604045000.mp3"
+}
