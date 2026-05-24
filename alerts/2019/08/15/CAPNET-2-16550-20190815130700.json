@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-2-16550-20190815130700",
+  "event_code": "BLU",
+  "eas_text": "A civil authority has issued A BLUE ALERT for the following counties or areas: Minnesota; at 11:07 AM on AUG 15, 2019 Effective until 11:22 AM. Message from MN BCA.",
+  "extra_text": "Stay tuned for further instructions.",
+  "sent_utc": "2019-08-15T18:07:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/15/CAPNET-2-16550-20190815130700.mp3"
+}
