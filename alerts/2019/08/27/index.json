@@ -119,6 +119,12 @@
       "event_code": "CAE",
       "sent_utc": "2019-08-27T21:06:51+00:00",
       "href": "AS-WA-30f0bb9f-99b6-496b-8673-8e8f3f0fcde2.json"
+    },
+    {
+      "id": "CAPNET-0-299-20190827173100",
+      "event_code": "RWT",
+      "sent_utc": "2019-08-28T00:31:00+00:00",
+      "href": "CAPNET-0-299-20190827173100.json"
     }
   ]
 }
