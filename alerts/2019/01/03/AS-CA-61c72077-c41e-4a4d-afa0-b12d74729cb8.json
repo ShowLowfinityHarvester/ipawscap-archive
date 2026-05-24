@@ -1,0 +1,8 @@
+{
+  "id": "AS-CA-61c72077-c41e-4a4d-afa0-b12d74729cb8",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: San Luis Obispo, CA; at 11:44 AM on JAN 3, 2019 Effective until 11:59 AM. Message from WSLF/CAP.",
+  "extra_text": "This is the required monthly test of the San Luis Obispo County Emergency Alert System. This test is coming to you from the San Luis Obispo County Emergency Operations Center.  This concludes the required monthly test.",
+  "sent_utc": "2019-01-03T18:44:48+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/01/03/AS-CA-61c72077-c41e-4a4d-afa0-b12d74729cb8.mp3"
+}
