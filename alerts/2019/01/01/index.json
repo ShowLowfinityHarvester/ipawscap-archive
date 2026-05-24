@@ -29,6 +29,12 @@
       "event_code": "RMT",
       "sent_utc": "2019-01-01T18:50:00+00:00",
       "href": "CAPNET-0-748-20190101105000.json"
+    },
+    {
+      "id": "AS-WA-075b0f2e-878e-4839-8fbf-c29776ca7478",
+      "event_code": "RWT",
+      "sent_utc": "2019-01-01T18:59:44+00:00",
+      "href": "AS-WA-075b0f2e-878e-4839-8fbf-c29776ca7478.json"
     }
   ]
 }
