@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-1-22434-20190617134900",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Anoka, MN; at 11:49 AM on JUN 17, 2019 Effective until 12:04 PM. Message from MN ANOKA.",
+  "extra_text": "This is a test of the Emergency Alert System. This is only a test No action is needed. This is only a test.",
+  "sent_utc": "2019-06-17T18:49:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/06/17/CAPNET-1-22434-20190617134900.mp3"
+}
