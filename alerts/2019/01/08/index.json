@@ -53,6 +53,12 @@
       "event_code": "RWT",
       "sent_utc": "2019-01-08T18:59:37+00:00",
       "href": "AS-WA-f75e5c0a-99ec-4cfb-8090-647849612780.json"
+    },
+    {
+      "id": "AS-KS-bde69380-4bb4-4057-a6d5-7396a1deff3d",
+      "event_code": "RMT",
+      "sent_utc": "2019-01-08T19:51:06+00:00",
+      "href": "AS-KS-bde69380-4bb4-4057-a6d5-7396a1deff3d.json"
     }
   ]
 }
