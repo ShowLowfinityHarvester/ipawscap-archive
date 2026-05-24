@@ -47,6 +47,12 @@
       "event_code": "RMT",
       "sent_utc": "2019-10-04T17:34:05+00:00",
       "href": "393629457730834.json"
+    },
+    {
+      "id": "IPAWSOPEN_2007601004_040041",
+      "event_code": "RWT",
+      "sent_utc": "2019-10-04T21:00:41+00:00",
+      "href": "IPAWSOPEN_2007601004_040041.json"
     }
   ]
 }
