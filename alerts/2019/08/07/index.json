@@ -71,6 +71,12 @@
       "event_code": "RWT",
       "sent_utc": "2019-08-07T18:45:42+00:00",
       "href": "OnSolve-2fc80b7026d048deb88557abdd78bd46.json"
+    },
+    {
+      "id": "HCEM-303df4b9-eeb2-4a31-aebb-07ee8a64648a-IPAWS072",
+      "event_code": "RWT",
+      "sent_utc": "2019-08-07T19:01:17+00:00",
+      "href": "HCEM-303df4b9-eeb2-4a31-aebb-07ee8a64648a-IPAWS072.json"
     }
   ]
 }
