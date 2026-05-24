@@ -149,6 +149,12 @@
       "event_code": "ADR",
       "sent_utc": "2019-10-11T04:26:34+00:00",
       "href": "AS-AZ-bdd001e1-ac33-42e3-8023-de61eefa4f66.json"
+    },
+    {
+      "id": "5da00ce9a263621360ee1d4e",
+      "event_code": "RMT",
+      "sent_utc": "2019-10-11T05:23:06+00:00",
+      "href": "5da00ce9a263621360ee1d4e.json"
     }
   ]
 }
