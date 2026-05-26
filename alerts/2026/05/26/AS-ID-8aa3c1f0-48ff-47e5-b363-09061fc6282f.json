@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-8aa3c1f0-48ff-47e5-b363-09061fc6282f",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Ada; Canyon, ID; at 11:53 AM on MAY 26, 2026 Effective until 1:53 PM. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the Endangered Missing Person Alert system.  The Canyon County Sheriff's Office is looking for a missing person who was last seen in the area of Ridge Park Street in Caldwell and is believed to be in danger. He is a 15 year old male with brown hair and was last seen wearing a long red shirt and dark blue jeans. If you have any information on the where abouts of this missing person please contact the Canyon County Sheriff's Office at 208-454-7531.",
+  "sent_utc": "2026-05-26T18:53:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/26/AS-ID-8aa3c1f0-48ff-47e5-b363-09061fc6282f.mp3"
+}
