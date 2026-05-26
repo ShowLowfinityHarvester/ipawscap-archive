@@ -1,0 +1,8 @@
+{
+  "id": "3.12.4.1-1468246-1779816304164",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Los Angeles, CA; at 10:25 AM on MAY 26, 2026 Effective until 11:25 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a Required Monthly test of the Emergency Alert System. This is only a test. No action is required. LA County Office of Emergency Management. Esta es una Prueba Mensual Requerida del Sistema de Alerta de Emergencia. Esto es solo una prueba. No se requiere ninguna accion. Esto concluye esta prueba del Sistema de Alerta de Emergencia. Oficina de Manejo de Emergencias del Condado de Los Angeles.",
+  "sent_utc": "2026-05-26T17:25:04+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/26/3.12.4.1-1468246-1779816304164.mp3"
+}
