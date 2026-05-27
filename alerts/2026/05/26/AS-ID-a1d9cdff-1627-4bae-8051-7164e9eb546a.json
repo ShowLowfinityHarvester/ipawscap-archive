@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-a1d9cdff-1627-4bae-8051-7164e9eb546a",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Elmore, ID; at 8:02 PM on MAY 26, 2026 Effective until 1:02 AM MAY 27, 2026. Message from WSLF/CAP.",
+  "extra_text": "Large brush fire south of Mountain Home. Be vigilant, prepare to evacuate if necessary.",
+  "sent_utc": "2026-05-27T03:02:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/05/26/AS-ID-a1d9cdff-1627-4bae-8051-7164e9eb546a.mp3"
+}
