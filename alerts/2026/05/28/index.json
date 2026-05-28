@@ -5,6 +5,12 @@
       "event_code": "EVI",
       "sent_utc": "2026-05-28T08:13:32+00:00",
       "href": "OnSolve-fc5db1acfa4b4df1a6b13ad75d3aaf6b.json"
+    },
+    {
+      "id": "CAPNET-0-1660-20260528035900",
+      "event_code": "RWT",
+      "sent_utc": "2026-05-28T10:59:00+00:00",
+      "href": "CAPNET-0-1660-20260528035900.json"
     }
   ]
 }
