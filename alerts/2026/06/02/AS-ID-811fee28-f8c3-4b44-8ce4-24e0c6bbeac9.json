@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-811fee28-f8c3-4b44-8ce4-24e0c6bbeac9",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Bannock, ID; at 12:20 AM on JUN 2, 2026 Effective until 2:20 AM. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the Endangered Missing Person Alert system.  The Pocatello Police is looking for a missing person Troy Perry who was last seen in the area of Dolbeer Street in Pocatello and is believed to be in danger. He is a 64 year old white male with brown hair and was last seen wearing khaki shorts beige shoes and a dark grey sweatshirt. This person suffers from dementia and diabetes and is in need of medication. If you have any information on the where abouts of this missing person please contact 9  1  1 immediately.",
+  "sent_utc": "2026-06-02T07:20:47+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/06/02/AS-ID-811fee28-f8c3-4b44-8ce4-24e0c6bbeac9.mp3"
+}
