@@ -65,6 +65,12 @@
       "event_code": "CEM",
       "sent_utc": "2026-06-05T03:06:00+00:00",
       "href": "2560695472226798.json"
+    },
+    {
+      "id": "NCCenter-9b5fd35e-8a80-4274-9b26-24d0c0759537-IPAWS013",
+      "event_code": "CAE",
+      "sent_utc": "2026-06-05T06:39:57+00:00",
+      "href": "NCCenter-9b5fd35e-8a80-4274-9b26-24d0c0759537-IPAWS013.json"
     }
   ]
 }
