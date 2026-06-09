@@ -11,6 +11,12 @@
       "event_code": "RMT",
       "sent_utc": "2026-06-09T07:40:07+00:00",
       "href": "AS-ID-e6572768-9144-4ecb-87f9-24ca963321f9.json"
+    },
+    {
+      "id": "NCCenter-2a3665f8-47b4-4b61-927e-5b9d3405cf48-IPAWS014",
+      "event_code": "CAE",
+      "sent_utc": "2026-06-09T10:52:32+00:00",
+      "href": "NCCenter-2a3665f8-47b4-4b61-927e-5b9d3405cf48-IPAWS014.json"
     }
   ]
 }
