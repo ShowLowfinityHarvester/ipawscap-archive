@@ -1,0 +1,8 @@
+{
+  "id": "AS-KS-5e1df250-fd3d-4eb2-bf10-e08ac1371cf6",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Kansas; at 11:50 PM on JUN 8, 2026 Effective until 12:50 AM JUN 9, 2026. Message from WSLF/CAP.",
+  "extra_text": "This is a coordinated monthly test of all broadcast stations in Kansas and the Kansas City metropolitan area, sent from the Kansas Division of Emergency Management in Topeka.",
+  "sent_utc": "2026-06-09T06:50:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/06/08/AS-KS-5e1df250-fd3d-4eb2-bf10-e08ac1371cf6.mp3"
+}
