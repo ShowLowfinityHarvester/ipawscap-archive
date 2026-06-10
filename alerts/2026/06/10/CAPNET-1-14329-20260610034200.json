@@ -1,0 +1,8 @@
+{
+  "id": "CAPNET-1-14329-20260610034200",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Ohio; at 12:42 AM on JUN 10, 2026 Effective until 1:42 AM. Message from OHIOSTEM.",
+  "extra_text": "This is a statewide test of the Ohio emergency alert system, originating from the state emergency operations center in Columbus. This is only a test. The Ohio emergency alert system has been designed to provide the public with timely warnings and emergency information. Had this been an actual emergency, you would have received instructions and information related to that emergency over this and other stations in your area. This concludes this test of the Ohio emergency alert system. No action is needed. This is only a test.",
+  "sent_utc": "2026-06-10T07:42:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/06/10/CAPNET-1-14329-20260610034200.mp3"
+}
