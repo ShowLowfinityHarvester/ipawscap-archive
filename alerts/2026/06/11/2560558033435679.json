@@ -1,0 +1,8 @@
+{
+  "id": "2560558033435679",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Pitkin; Eagle; Garfield, CO; at 8:03 AM on JUN 11, 2026 Effective until 9:03 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test only. If this were a real emergency instructions would follow and all updates found at pitkinemergency.com. Sign up for Pitkin Alerts at pitkinalert.org and all translated messages on the Reachwell app.",
+  "sent_utc": "2026-06-11T15:03:30+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/06/11/2560558033435679.mp3"
+}
