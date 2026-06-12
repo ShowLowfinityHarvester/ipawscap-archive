@@ -59,6 +59,12 @@
       "event_code": "LEW",
       "sent_utc": "2026-06-12T19:38:10+00:00",
       "href": "2558290290549347.json"
+    },
+    {
+      "id": "DPS-UCJIS-UAA_EAS-1781307513739",
+      "event_code": "CAE",
+      "sent_utc": "2026-06-12T23:38:33+00:00",
+      "href": "DPS-UCJIS-UAA_EAS-1781307513739.json"
     }
   ]
 }
