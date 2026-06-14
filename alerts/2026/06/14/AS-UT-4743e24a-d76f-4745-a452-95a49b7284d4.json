@@ -1,0 +1,8 @@
+{
+  "id": "AS-UT-4743e24a-d76f-4745-a452-95a49b7284d4",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Emery, UT; at 9:33 AM on JUN 14, 2026 Effective until 7:33 PM. Message from WSLF/CAP.",
+  "extra_text": "Possible heavy rainfall and excessive runoff may result in flooding of rivers, creeks, streams and other low-lying locations. Slot canyons are highly susceptible to flash flooding. Avoid canyons, washes and low-lying terrain",
+  "sent_utc": "2026-06-14T16:33:22+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/06/14/AS-UT-4743e24a-d76f-4745-a452-95a49b7284d4.mp3"
+}
