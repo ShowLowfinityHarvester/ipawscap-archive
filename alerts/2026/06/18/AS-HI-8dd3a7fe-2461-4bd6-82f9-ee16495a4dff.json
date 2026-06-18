@@ -1,0 +1,8 @@
+{
+  "id": "AS-HI-8dd3a7fe-2461-4bd6-82f9-ee16495a4dff",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Hawaii; at 2:15 AM on JUN 18, 2026 Effective until 3:15 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a required test of the Emergency Alert System for broadcast stations in Hawaii. No action required.",
+  "sent_utc": "2026-06-18T09:15:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/06/18/AS-HI-8dd3a7fe-2461-4bd6-82f9-ee16495a4dff.mp3"
+}
