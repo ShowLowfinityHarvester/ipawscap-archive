@@ -89,6 +89,12 @@
       "event_code": "RWT",
       "sent_utc": "2026-06-22T19:27:00+00:00",
       "href": "CAPNET-1-2766-20260622142700.json"
+    },
+    {
+      "id": "RWT_HIDT_1782162000000",
+      "event_code": "RWT",
+      "sent_utc": "2026-06-22T21:00:00+00:00",
+      "href": "RWT_HIDT_1782162000000.json"
     }
   ]
 }
