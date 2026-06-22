@@ -65,6 +65,12 @@
       "event_code": "EVI",
       "sent_utc": "2026-06-22T16:28:48+00:00",
       "href": "AS-UT-70f110a9-2703-4228-b5b4-4e868ae7b256.json"
+    },
+    {
+      "id": "RWT_MDT_1782147600000",
+      "event_code": "RWT",
+      "sent_utc": "2026-06-22T17:00:00+00:00",
+      "href": "RWT_MDT_1782147600000.json"
     }
   ]
 }
