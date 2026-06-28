@@ -1,0 +1,8 @@
+{
+  "id": "v1-3.12.15-1506668-1782623231675",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Ouray, CO; at 10:07 PM on JUN 27, 2026 Effective until 4:07 AM JUN 28, 2026. Message from WSLF/CAP.",
+  "extra_text": "This is a public safety message from Ouray County Emergency Management. There is a PRE-EVACUATION notice for the due to a wildfire in the area. Collect important documents and medications and be ready to leave at a moments notice. This is a public safety message from Ouray County Emergency Management. There is a PRE-EVACUATION notice for CR17 from Whispering Pines to Black Lake due to a wildfire in the area. Collect important documents, medications, and other items you may need and be ready to leave at a moments notice.",
+  "sent_utc": "2026-06-28T05:07:09+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/06/27/v1-3.12.15-1506668-1782623231675.mp3"
+}
