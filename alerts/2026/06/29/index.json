@@ -95,6 +95,12 @@
       "event_code": "ADR",
       "sent_utc": "2026-06-29T16:28:33+00:00",
       "href": "AS-KS-1d2014a8-c747-495b-aa12-93a4bc19a926.json"
+    },
+    {
+      "id": "AS-SD-0f999808-b333-48ac-bdfa-8126b033420a",
+      "event_code": "CEM",
+      "sent_utc": "2026-06-29T16:29:45+00:00",
+      "href": "AS-SD-0f999808-b333-48ac-bdfa-8126b033420a.json"
     }
   ]
 }
