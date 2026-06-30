@@ -1,0 +1,8 @@
+{
+  "id": "v2-3.12.15-1507677-1782847467443",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Shasta, CA; at 12:24 PM on JUN 30, 2026 Effective until 4:24 PM. Message from WSLF/CAP.",
+  "extra_text": "Mandatory evacuation order issued by the Shasta County Sheriffs office in the area of Portero at Encanto due to vegetation fire",
+  "sent_utc": "2026-06-30T19:24:28+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/06/30/v2-3.12.15-1507677-1782847467443.mp3"
+}
