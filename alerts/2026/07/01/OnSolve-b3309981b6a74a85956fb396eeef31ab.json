@@ -1,0 +1,8 @@
+{
+  "id": "OnSolve-b3309981b6a74a85956fb396eeef31ab",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: Sedgwick, CO; at 9:26 AM on JUL 1, 2026 Effective until 9:41 AM. Message from WSLF/CAP.",
+  "extra_text": "TEST Sedgwick County will be testing the tornado sirens in approx. 10 minutes. This is only a TEST.",
+  "sent_utc": "2026-07-01T16:26:50+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/07/01/OnSolve-b3309981b6a74a85956fb396eeef31ab.mp3"
+}
