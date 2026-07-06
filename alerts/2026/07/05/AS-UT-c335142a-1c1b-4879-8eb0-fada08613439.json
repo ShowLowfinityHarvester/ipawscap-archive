@@ -1,0 +1,8 @@
+{
+  "id": "AS-UT-c335142a-1c1b-4879-8eb0-fada08613439",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: San Juan, UT; at 10:12 PM on JUL 5, 2026 Effective until 10:12 PM JUL 6, 2026. Message from WSLF/CAP.",
+  "extra_text": "SET STATUS ALERT has been issued in San Juan County for the following areas:CY 1CY 2Peters Hill WestAirport 1EnergySJC 1SET Status means conditions have changed, and residents in these areas should be prepared to leave if conditions worsen. This is NOT an evacuation order, but it is time to take action to prepare.Fire conditions can change rapidly due to weather, terrain, and fire behavior. Being prepared now allows you to leave quickly and safely should an evacuation become necessary.",
+  "sent_utc": "2026-07-06T05:12:18+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/07/05/AS-UT-c335142a-1c1b-4879-8eb0-fada08613439.mp3"
+}
