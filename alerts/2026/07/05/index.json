@@ -59,6 +59,12 @@
       "event_code": "CAE",
       "sent_utc": "2026-07-06T00:04:13+00:00",
       "href": "6a4af0193fedd91f3c6c5eef.json"
+    },
+    {
+      "id": "RWT_GDT_1783299600000",
+      "event_code": "RWT",
+      "sent_utc": "2026-07-06T01:00:00+00:00",
+      "href": "RWT_GDT_1783299600000.json"
     }
   ]
 }
