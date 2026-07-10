@@ -1,0 +1,8 @@
+{
+  "id": "v2-3.12.17-1512992-1783691866320",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: New Hampshire; at 6:57 AM on JUL 10, 2026 Effective until 7:57 AM. Message from WSLF/CAP.",
+  "extra_text": "New Hampshire Homeland Security and Emergency Management has activated the New Hampshire Emergency Alert System, in order to conduct a practice demo. This concludes this test of the New Hampshire Emergency Alert System. No action required.",
+  "sent_utc": "2026-07-10T13:57:46+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/07/10/v2-3.12.17-1512992-1783691866320.mp3"
+}
