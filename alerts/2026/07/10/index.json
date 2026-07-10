@@ -17,6 +17,12 @@
       "event_code": "LAE",
       "sent_utc": "2026-07-10T14:10:57+00:00",
       "href": "201315.cd01ae763da56d8aef1d32bf2aa074.json"
+    },
+    {
+      "id": "CAPNET-0-3602-20260710101100",
+      "event_code": "RWT",
+      "sent_utc": "2026-07-10T15:11:00+00:00",
+      "href": "CAPNET-0-3602-20260710101100.json"
     }
   ]
 }
