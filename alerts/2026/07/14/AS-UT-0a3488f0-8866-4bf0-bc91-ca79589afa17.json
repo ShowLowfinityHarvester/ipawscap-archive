@@ -1,0 +1,8 @@
+{
+  "id": "AS-UT-0a3488f0-8866-4bf0-bc91-ca79589afa17",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: San Juan, UT; at 3:15 PM on JUL 14, 2026 Effective until 3:15 PM JUL 15, 2026. Message from WSLF/CAP.",
+  "extra_text": "SET STATUS ALERT has been issued in San Juan County for the following areas:CY1, CY2, Peters Hill West, Airport, Energy, SJC 1 SJC 2, SJC 4, SJC Dude Ranch, MC1, MC3, MC4 MC7, MC8, MC10, MC11, MC12, MC17, MC 18, MC19, MC20, MC22 .  Residents in these areas should be prepared to leave if conditions worsen. This is NOT an evacuation order. Residents in these areas should be prepared to leave if conditions worsen. This is NOT an evacuation order.",
+  "sent_utc": "2026-07-14T22:15:27+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/07/14/AS-UT-0a3488f0-8866-4bf0-bc91-ca79589afa17.mp3"
+}
