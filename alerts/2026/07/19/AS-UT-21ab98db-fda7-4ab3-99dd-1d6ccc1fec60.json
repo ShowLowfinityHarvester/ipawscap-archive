@@ -1,0 +1,8 @@
+{
+  "id": "AS-UT-21ab98db-fda7-4ab3-99dd-1d6ccc1fec60",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Grand, UT; at 7:49 PM on JUL 19, 2026 Effective until 11:49 PM. Message from WSLF/CAP.",
+  "extra_text": "Flash flood warning Get to high ground now. Do not enter flood waters. Turn around. Don't drown.",
+  "sent_utc": "2026-07-20T02:49:09+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/07/19/AS-UT-21ab98db-fda7-4ab3-99dd-1d6ccc1fec60.mp3"
+}
