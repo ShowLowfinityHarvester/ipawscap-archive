@@ -23,6 +23,12 @@
       "event_code": "ADR",
       "sent_utc": "2026-07-24T16:57:16+00:00",
       "href": "17849122360001396767034.json"
+    },
+    {
+      "id": "200635.53eed4de0f3bd814e8aed52b0a2e09",
+      "event_code": "LEW",
+      "sent_utc": "2026-07-24T17:00:58+00:00",
+      "href": "200635.53eed4de0f3bd814e8aed52b0a2e09.json"
     }
   ]
 }
