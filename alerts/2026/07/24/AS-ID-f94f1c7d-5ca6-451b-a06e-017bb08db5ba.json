@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-f94f1c7d-5ca6-451b-a06e-017bb08db5ba",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Elmore, ID; at 4:40 PM on JUL 24, 2026 Effective until 8:40 PM. Message from WSLF/CAP.",
+  "extra_text": "BRUSH FIRE ALERT PREPARE FOR EVACUATION",
+  "sent_utc": "2026-07-24T23:40:22+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/07/24/AS-ID-f94f1c7d-5ca6-451b-a06e-017bb08db5ba.mp3"
+}
