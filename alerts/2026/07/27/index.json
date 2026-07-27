@@ -65,6 +65,12 @@
       "event_code": "LAE",
       "sent_utc": "2026-07-27T15:04:45+00:00",
       "href": "2635221744749365.json"
+    },
+    {
+      "id": "AS-KS-e7f200cc-4f7b-4498-86f1-0bd842fcc467",
+      "event_code": "ADR",
+      "sent_utc": "2026-07-27T15:43:31+00:00",
+      "href": "AS-KS-e7f200cc-4f7b-4498-86f1-0bd842fcc467.json"
     }
   ]
 }
