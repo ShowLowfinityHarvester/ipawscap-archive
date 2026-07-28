@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-ca71726b-d0fa-4976-b6e4-9019af723c39",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Bannock; Blaine; Bonneville; Bingham; Butte; Caribou; Jefferson; Power, ID; at 12:38 PM on JUL 28, 2026 Effective until 2:38 PM. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the Endangered Missing Person Alert system.  The Bingham County Sheriff's Office is looking for a missing person named Thomas Saxton who was last seen at the area of East River Road in Blackfoot Idaho around 10 pm July 27th and is believed to be in danger. He is a 68 year old male with short grey beard and is 6 foot 1 inch tall and 215 pounds.  If you have any information on the whereabouts of Thomas please contact Bingham County Sheriff's Office at 208-785-1234.",
+  "sent_utc": "2026-07-28T19:38:57+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/07/28/AS-ID-ca71726b-d0fa-4976-b6e4-9019af723c39.mp3"
+}
