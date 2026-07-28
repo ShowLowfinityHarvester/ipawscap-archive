@@ -95,6 +95,12 @@
       "event_code": "CEM",
       "sent_utc": "2026-07-28T22:55:59+00:00",
       "href": "AS-ID-7d0eb4e2-95fb-42d5-b71a-8351f396c77f.json"
+    },
+    {
+      "id": "AS-UT-1795b002-6166-471c-a932-dd7f810fbdd8",
+      "event_code": "EVI",
+      "sent_utc": "2026-07-28T23:08:00+00:00",
+      "href": "AS-UT-1795b002-6166-471c-a932-dd7f810fbdd8.json"
     }
   ]
 }
