@@ -1,0 +1,8 @@
+{
+  "id": "17854264200001396898349",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Emmet; Cheboygan; Charlevoix, MI; at 8:47 AM on JUL 30, 2026 Effective until 9:47 AM. Message from WSLF/CAP.",
+  "extra_text": "TEST MESSAGE\n\nThis is a TEST of the Cheboygan County Emergency Alert System.\n\nNo action is required.\n\nThis concludes the test.",
+  "sent_utc": "2026-07-30T15:47:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/07/30/17854264200001396898349.mp3"
+}
