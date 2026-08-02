@@ -107,6 +107,12 @@
       "event_code": "EVI",
       "sent_utc": "2026-08-02T03:31:02+00:00",
       "href": "OnSolve-U-c93b6582edcf40c78cc528dffde8c54b.json"
+    },
+    {
+      "id": "CAPNET-0-2679-20260801233300",
+      "event_code": "RWT",
+      "sent_utc": "2026-08-02T03:33:00+00:00",
+      "href": "CAPNET-0-2679-20260801233300.json"
     }
   ]
 }
