@@ -65,6 +65,12 @@
       "event_code": "RWT",
       "sent_utc": "2026-08-03T16:00:27+00:00",
       "href": "AS-KS-da02403d-5743-43ae-9131-3912690fe0fc.json"
+    },
+    {
+      "id": "AS-KS-31a22506-c56d-4465-b11a-18fdab658e67",
+      "event_code": "ADR",
+      "sent_utc": "2026-08-03T16:01:55+00:00",
+      "href": "AS-KS-31a22506-c56d-4465-b11a-18fdab658e67.json"
     }
   ]
 }
