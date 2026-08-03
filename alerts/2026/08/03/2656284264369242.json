@@ -1,0 +1,8 @@
+{
+  "id": "2656284264369242",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Midway Islands, US Pacific Islands; at 4:52 PM on AUG 3, 2026 Effective until 5:52 PM. Message from WSLF/CAP.",
+  "extra_text": "This is an IPAWS EAS TEST message. This is only a TEST. No action required. End of TEST. This is an IPAWS EAS TEST message. This is only a TEST. No action required. End of TEST.",
+  "sent_utc": "2026-08-03T23:52:30+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/03/2656284264369242.mp3"
+}
