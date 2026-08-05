@@ -1,0 +1,8 @@
+{
+  "id": "AS-ID-abc03c0b-e847-4a21-b04f-a4d1acf2eda6",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Bingham, ID; at 7:59 AM on AUG 5, 2026 Effective until 9:59 AM. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the Endangered Missing Person Alert system.  The Fort Hall Tribal Police Department is looking for Fabian Saiz a missing person who was last seen on foot in the area of Reservation Road and Swanson Road in Fort Hall Idaho and is believed to be in danger. He is a 18 year old male with black hair and brown eyes and was last seen wearing grey sweatshirt grey sweatpants and no shoes. Fabian is an autistic individual. If you have any information on the where abouts of this missing person please contact Fort Hall Tribal Police Department at 2 0 8 2 3 8 4 0 0 0 immediately.",
+  "sent_utc": "2026-08-05T14:59:14+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/05/AS-ID-abc03c0b-e847-4a21-b04f-a4d1acf2eda6.mp3"
+}
