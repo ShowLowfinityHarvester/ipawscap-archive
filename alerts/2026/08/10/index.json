@@ -29,6 +29,12 @@
       "event_code": "RWT",
       "sent_utc": "2026-08-10T15:00:00+00:00",
       "href": "RWT_ADT_1786374000000.json"
+    },
+    {
+      "id": "RWT_EDT_1786374060000",
+      "event_code": "RWT",
+      "sent_utc": "2026-08-10T15:01:00+00:00",
+      "href": "RWT_EDT_1786374060000.json"
     }
   ]
 }
