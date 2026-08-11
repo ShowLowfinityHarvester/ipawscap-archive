@@ -381,7 +381,7 @@
 
     <section class="controls" aria-label="Day Controls">
       <button id="prev" class="btn" aria-label="Previous day"><i class="fas fa-chevron-left"></i> Prev</button>
-      <span id="chip" class="date-chip">Loadingâ€¦</span>
+      <span id="chip" class="date-chip">Loading...</span>
       <button id="next" class="btn" aria-label="Next day">Next <i class="fas fa-chevron-right"></i></button>
       <input id="picker" type="date" class="picker" aria-label="Pick a date" />
       <select id="voice" class="picker" aria-label="Default voice">
@@ -427,7 +427,7 @@
   </div>
 
   <footer>
-    <p>Â© 2025 WSLF Radio. Some Rights Reserved.</p>
+    <p>&copy; 2025 WSLF Radio. Some Rights Reserved.</p>
   </footer>
 
 <script>
@@ -670,7 +670,7 @@ async function loadDay(dUTC){
       const tr = document.createElement('tr');
       tr.innerHTML = `
         <td><span class="badge">${a.event_code||''}</span></td>
-        <td class="eas-cell"><span class="muted">loadingâ€¦</span></td>
+        <td class="eas-cell"><span class="muted">loading...</span></td>
         <td>${a.sent_utc||''}</td>`;
       tbody.appendChild(tr);
 
@@ -681,7 +681,7 @@ async function loadDay(dUTC){
           <span class="badge">${a.event_code||''}</span>
           <span class="card-time">${a.sent_utc||''}</span>
         </div>
-        <div class="card-text muted">loadingâ€¦</div>
+        <div class="card-text muted">loading...</div>
         <button class="btn open">Open</button>
       `;
       cards.appendChild(card);
@@ -702,7 +702,7 @@ async function loadDay(dUTC){
           }
           const j = cache[detailUrl];
           const preview = (j.eas_text||'').trim();
-          const text = preview ? (preview.length>300 ? preview.slice(0,300)+'â€¦' : preview) : '(no EAS text)';
+          const text = preview ? (preview.length>300 ? preview.slice(0,300)+'...' : preview) : '(no EAS text)';
 
           tr.children[1].textContent = text;
           card.querySelector('.card-text').textContent = text;
@@ -710,7 +710,7 @@ async function loadDay(dUTC){
           const openDetails = ()=>{
             currentAlert = j;
             mTitle.textContent = j.event_code || 'Alert';
-            mMeta.textContent = `ID: ${j.id||''} â€¢ Sent: ${j.sent_utc||''}` + (j.default_voice ? ` â€¢ Default voice: ${j.default_voice}` : '');
+            mMeta.textContent = `ID: ${j.id||''} \u2022 Sent: ${j.sent_utc||''}`;
             mEas.textContent = (j.eas_text||'').trim() || '(none)';
             mExtra.textContent = (j.extra_text||'').trim() || '(none)';
             renderModalAudio(j);
@@ -782,6 +782,7 @@ loadDay(currentDayUTC);
 </script>
 </body>
 </html>
+
 
 
 
