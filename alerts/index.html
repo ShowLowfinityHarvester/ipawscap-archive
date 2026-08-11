@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -380,9 +381,15 @@
 
     <section class="controls" aria-label="Day Controls">
       <button id="prev" class="btn" aria-label="Previous day"><i class="fas fa-chevron-left"></i> Prev</button>
-      <span id="chip" class="date-chip">Loading…</span>
+      <span id="chip" class="date-chip">Loadingâ€¦</span>
       <button id="next" class="btn" aria-label="Next day">Next <i class="fas fa-chevron-right"></i></button>
       <input id="picker" type="date" class="picker" aria-label="Pick a date" />
+      <select id="voice" class="picker" aria-label="Default voice">
+        <option value="cepstral_david">David</option>
+        <option value="cepstral_william">William</option>
+        <option value="cepstral_allison">Allison</option>
+        <option value="kal">KAL</option>
+      </select>
       <button id="today" class="btn" aria-label="Jump to today">Today</button>
     </section>
 
@@ -420,7 +427,7 @@
   </div>
 
   <footer>
-    <p>© 2025 WSLF Radio. Some Rights Reserved.</p>
+    <p>Â© 2025 WSLF Radio. Some Rights Reserved.</p>
   </footer>
 
 <script>
@@ -512,6 +519,7 @@ const elChip = document.getElementById('chip');
 const elPrev = document.getElementById('prev');
 const elNext = document.getElementById('next');
 const elPicker = document.getElementById('picker');
+const elVoice = document.getElementById('voice');
 const elToday = document.getElementById('today');
 const tbody = document.querySelector('#tbl tbody');
 const cards = document.getElementById('cards');
@@ -523,6 +531,23 @@ const mAudio = document.getElementById('m_audio');
 const mEas = document.getElementById('m_eas');
 const mExtra = document.getElementById('m_extra');
 const mClose = document.getElementById('m_close');
+
+let currentAlert = null;
+const savedVoice = localStorage.getItem('ipawsArchiveVoice') || 'cepstral_william';
+elVoice.value = savedVoice;
+
+function selectedAudioUrl(j){
+  if(!j) return '';
+  const urls = j.audio_urls || {};
+  if(urls[elVoice.value]) return urls[elVoice.value];
+  if(j.default_voice && urls[j.default_voice]) return urls[j.default_voice];
+  return j.audio_url || '';
+}
+
+function renderModalAudio(j){
+  const url = selectedAudioUrl(j);
+  mAudio.innerHTML = url ? `<audio controls src="${url}"></audio>` : '';
+}
 
 let lastFocused = null;
 
@@ -645,7 +670,7 @@ async function loadDay(dUTC){
       const tr = document.createElement('tr');
       tr.innerHTML = `
         <td><span class="badge">${a.event_code||''}</span></td>
-        <td class="eas-cell"><span class="muted">loading…</span></td>
+        <td class="eas-cell"><span class="muted">loadingâ€¦</span></td>
         <td>${a.sent_utc||''}</td>`;
       tbody.appendChild(tr);
 
@@ -656,7 +681,7 @@ async function loadDay(dUTC){
           <span class="badge">${a.event_code||''}</span>
           <span class="card-time">${a.sent_utc||''}</span>
         </div>
-        <div class="card-text muted">loading…</div>
+        <div class="card-text muted">loadingâ€¦</div>
         <button class="btn open">Open</button>
       `;
       cards.appendChild(card);
@@ -677,17 +702,18 @@ async function loadDay(dUTC){
           }
           const j = cache[detailUrl];
           const preview = (j.eas_text||'').trim();
-          const text = preview ? (preview.length>300 ? preview.slice(0,300)+'…' : preview) : '(no EAS text)';
+          const text = preview ? (preview.length>300 ? preview.slice(0,300)+'â€¦' : preview) : '(no EAS text)';
 
           tr.children[1].textContent = text;
           card.querySelector('.card-text').textContent = text;
 
           const openDetails = ()=>{
+            currentAlert = j;
             mTitle.textContent = j.event_code || 'Alert';
-            mMeta.textContent = `ID: ${j.id||''} • Sent: ${j.sent_utc||''}`;
+            mMeta.textContent = `ID: ${j.id||''} â€¢ Sent: ${j.sent_utc||''}` + (j.default_voice ? ` â€¢ Default voice: ${j.default_voice}` : '');
             mEas.textContent = (j.eas_text||'').trim() || '(none)';
             mExtra.textContent = (j.extra_text||'').trim() || '(none)';
-            mAudio.innerHTML = j.audio_url ? `<audio controls src="${j.audio_url}"></audio>` : '';
+            renderModalAudio(j);
             location.hash = a.id || '';
             openModal();
           };
@@ -716,6 +742,11 @@ function go(n){
   updateUrlFor(currentDayUTC);
   loadDay(currentDayUTC);
 }
+
+elVoice.onchange = ()=>{
+  localStorage.setItem('ipawsArchiveVoice', elVoice.value);
+  renderModalAudio(currentAlert);
+};
 
 elPrev.onclick = ()=>go(-1);
 elNext.onclick = ()=>go(+1);
@@ -751,3 +782,7 @@ loadDay(currentDayUTC);
 </script>
 </body>
 </html>
+
+
+
+
