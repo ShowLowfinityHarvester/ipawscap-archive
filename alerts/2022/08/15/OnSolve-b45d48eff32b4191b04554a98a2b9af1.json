@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-b45d48eff32b4191b04554a98a2b9af1",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Imperial; Los Angeles; Orange; Riverside; San Bernardino, CA; at 12:04 PM on AUG 15, 2022 Effective until 1:04 PM. Message from WSLF/CAP.",
+  "extra_text": "AN AMBER ALERT IS BEING ISSUED BY THE CALIFORNIA HIGHWAY PATROL ON BEHALF OF THE RIVERSIDE COUNTY SHERIFFS DEPARTMENT.\n\nON AUGUST 15, 2022, AT 0728 HOURS, BRADLEY NICOLAS WAS ABDUCTED FROM RIVERSIDE CALIFORNIA.  BRADLEY NICOLAS IS A 1 YEAR OLD HISPANIC MALE, 2 FEET TALL, WEIGHING 25 POUNDS, WITH BLACK HAIR AND BROWN EYES.  IT IS UNKNOWN WHAT BRADLEY NICOLAS IS WEARING.\n\nTHE SUSPECT, JULIO RAMIREZ, IS A 42 YEAR OLD HISPANIC MALE, STANDING 5 FEET 6 INCHES TALL, WEIGHING 160 POUNDS WITH BLACK HAIR AND BROWN EYES.  THE SUSPECT WAS LAST SEEN WEARING A BLACK SHIRT, GREY SHORTS, AND BLACK SHOES.\n\nTHE SUSPECT WAS LAST SEEN DRIVING A SILVER 2000 DODGE CARAVAN, WITH CALIFORNIA LICENSE PLATE NUMBER 5 M N N 0 1 0.\n\nIF SEEN CALL 9 1 1",
+  "sent_utc": "2022-08-15T19:04:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/15/OnSolve-b45d48eff32b4191b04554a98a2b9af1.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/15/OnSolve-b45d48eff32b4191b04554a98a2b9af1_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/15/OnSolve-b45d48eff32b4191b04554a98a2b9af1_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/15/OnSolve-b45d48eff32b4191b04554a98a2b9af1_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/15/OnSolve-b45d48eff32b4191b04554a98a2b9af1_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
