@@ -1,0 +1,21 @@
+{
+  "id": "17867643690001397277092",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Marion, IN; at 8:26 PM on AUG 14, 2026 Effective until 4:26 AM AUG 15, 2026. Message from WSLF/CAP.",
+  "extra_text": "Residents in the area border by 67th Street on the south, College to the West, Cornell to the East and the River to the north need to leave as DPW is closing the flood gates as they were previously advised.",
+  "sent_utc": "2026-08-15T03:26:09+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/14/17867643690001397277092.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/14/17867643690001397277092_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/14/17867643690001397277092_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/14/17867643690001397277092_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/14/17867643690001397277092_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
