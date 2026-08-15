@@ -1,0 +1,21 @@
+{
+  "id": "AS-AZ-836faad0-6037-4ea4-91d3-84eab8051e2a",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Maricopa, AZ; at 7:43 PM on AUG 14, 2020 Effective until 5:43 AM AUG 15, 2020. Message from WSLF/CAP.",
+  "extra_text": "A Silver Alert has been issued for Mesa Police Department.  This is the Arizona Department of Public Safety. Mesa Police Department is looking for a black male; Gathen Evans, 6 foot 1 inches, 250 pounds, grey hair, brown eyes, last seen in the area of 500 block of east McKellips road, in the city of Mesa. Evans was last seen driving a 2015 silver Toyota Scion, Arizona license plate number B B L 5 4 7 9. If you have contact with the Silver Alert, Please call 9 1 1.  Monitor TV and Radio for updates.",
+  "sent_utc": "2020-08-15T02:43:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/14/AS-AZ-836faad0-6037-4ea4-91d3-84eab8051e2a.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/14/AS-AZ-836faad0-6037-4ea4-91d3-84eab8051e2a_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/14/AS-AZ-836faad0-6037-4ea4-91d3-84eab8051e2a_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/14/AS-AZ-836faad0-6037-4ea4-91d3-84eab8051e2a_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/14/AS-AZ-836faad0-6037-4ea4-91d3-84eab8051e2a_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
