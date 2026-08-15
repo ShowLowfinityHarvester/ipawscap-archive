@@ -1,0 +1,21 @@
+{
+  "id": "1663290509890065",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Pinal, AZ; at 7:56 AM on AUG 15, 2021 Effective until 3:56 PM. Message from WSLF/CAP.",
+  "extra_text": "Public safety officials in Coolidge are currently managing a large gas fire on the south side of the city.  Highway 87 is closed between Kleck Road and Bell Street.  No evacuations have been issued at this time. Avoid the area. Further information will follow as needed.",
+  "sent_utc": "2021-08-15T14:56:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/15/1663290509890065.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/15/1663290509890065_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/15/1663290509890065_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/15/1663290509890065_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/15/1663290509890065_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
