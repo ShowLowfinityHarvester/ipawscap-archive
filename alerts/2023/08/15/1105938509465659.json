@@ -1,0 +1,21 @@
+{
+  "id": "1105938509465659",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Yakima, WA; at 5:21 PM on AUG 15, 2023 Effective until 1:21 AM AUG 16, 2023. Message from WSLF/CAP.",
+  "extra_text": "Nivel 3 \"GO NOW\" NIVEL 3 (VE AHORA) Aviso de evacuaci\u00f3n Un incendio forestal est\u00e1 amenazando su seguridad, si se encuentra dentro de la zona de evacuaci\u00f3n de- Desde South 40th Avenue, North hasta McCullough Road, East hasta la cuadra 1041 de Red Sky Drive, luego hacia el sur hasta Top of Athanum Ridge, luego hacia el oeste hasta South 40th Avenue. \u00a1Re\u00fane a tu familia y mascotas en tus veh\u00edculos y vete ahora! Nivel 3 \"GO NOW\" NIVEL 3 (VE AHORA) Aviso de evacuaci\u00f3n Un incendio forestal est\u00e1 amenazando su seguridad, si se encuentra dentro de la zona de evacuaci\u00f3n de- Desde South 40th Avenue, North hasta McCullough Road, East hasta la cuadra 1041 de Red Sky Drive, luego hacia el sur hasta Top of Athanum Ridge, luego hacia el oeste hasta South 40th Avenue. \u00a1Re\u00fane a tu familia y mascotas en tus veh\u00edculos y vete ahora!",
+  "sent_utc": "2023-08-16T00:21:40+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/15/1105938509465659.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/15/1105938509465659_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/15/1105938509465659_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/15/1105938509465659_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/15/1105938509465659_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
