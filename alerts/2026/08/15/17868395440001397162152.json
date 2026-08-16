@@ -1,0 +1,21 @@
+{
+  "id": "17868395440001397162152",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Marion, IN; at 5:19 PM on AUG 15, 2026 Effective until 1:19 AM AUG 16, 2026. Message from WSLF/CAP.",
+  "extra_text": "AES Indiana is conducting surveys in the Ravenswood neighborhood to identify locations where power may need to be temporarily shut off due to high water.\nResidents should be aware that any potential power outage would be precautionary and the length of time power may be interrupted is unknown.\nResidents should stay alert for additional updates.",
+  "sent_utc": "2026-08-16T00:19:04+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/15/17868395440001397162152.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/15/17868395440001397162152_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/15/17868395440001397162152_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/15/17868395440001397162152_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/15/17868395440001397162152_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
