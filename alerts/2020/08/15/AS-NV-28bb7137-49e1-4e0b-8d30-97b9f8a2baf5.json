@@ -1,0 +1,21 @@
+{
+  "id": "AS-NV-28bb7137-49e1-4e0b-8d30-97b9f8a2baf5",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Pershing, NV; at 6:17 PM on AUG 15, 2020 Effective until 6:32 PM. Message from WSLF/CAP.",
+  "extra_text": "Required weekly Test please disregard",
+  "sent_utc": "2020-08-16T01:17:55+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/15/AS-NV-28bb7137-49e1-4e0b-8d30-97b9f8a2baf5.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/15/AS-NV-28bb7137-49e1-4e0b-8d30-97b9f8a2baf5_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/15/AS-NV-28bb7137-49e1-4e0b-8d30-97b9f8a2baf5_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/15/AS-NV-28bb7137-49e1-4e0b-8d30-97b9f8a2baf5_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/15/AS-NV-28bb7137-49e1-4e0b-8d30-97b9f8a2baf5_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
