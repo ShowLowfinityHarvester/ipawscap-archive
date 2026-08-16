@@ -1,0 +1,21 @@
+{
+  "id": "102725896",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following areas: Beauregard, LA; at 3:20 PM on AUG 16, 2023 Effective until 3:20 PM AUG 17, 2023. Message from WSLF/CAP.",
+  "extra_text": "Beauregard Parish Sheriff&#39;s Office is alerting residents to a dangerous situation. There is currently a wildfire North of Leith Ln. and Hauser Rd.  We are asking residents to be prepared if evacuation is necessary.  We are not giving an evacuation order at at is time but one may be necessary in the near future.  Updates will be made available if evacuation is necessary.  If you choose to evacuate on your own before this time please contact our office at 337-463-3281 and let out dispatcher know your name, address, and a good contact number. Be prepared to evacuate if necessary",
+  "sent_utc": "2023-08-16T22:20:23+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/102725896.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/102725896_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/102725896_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/102725896_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/102725896_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
