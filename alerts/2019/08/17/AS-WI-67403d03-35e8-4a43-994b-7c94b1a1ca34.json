@@ -1,0 +1,21 @@
+{
+  "id": "AS-WI-67403d03-35e8-4a43-994b-7c94b1a1ca34",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Kenosha, WI; at 8:27 AM on AUG 17, 2019 Effective until 8:42 AM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS A TEST FROM THE KENOSHA SHERIFFS DIVISION OF EMERGENCY MANAGEMENT. THIS IS ONLY A TEST. NO ACTION NEEDED",
+  "sent_utc": "2019-08-17T15:27:13+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/17/AS-WI-67403d03-35e8-4a43-994b-7c94b1a1ca34.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/17/AS-WI-67403d03-35e8-4a43-994b-7c94b1a1ca34_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/17/AS-WI-67403d03-35e8-4a43-994b-7c94b1a1ca34_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/17/AS-WI-67403d03-35e8-4a43-994b-7c94b1a1ca34_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/17/AS-WI-67403d03-35e8-4a43-994b-7c94b1a1ca34_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
