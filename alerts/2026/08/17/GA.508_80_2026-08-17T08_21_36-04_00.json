@@ -1,0 +1,21 @@
+{
+  "id": "GA.508_80_2026-08-17T08:21:36-04:00",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Georgia; at 5:21 AM on AUG 17, 2026 Effective until 11:21 AM. Message from WSLF/CAP.",
+  "extra_text": "We interrupt this program to bring you this important announcement. This is an emergency missing child alert, or Levis Call, the Georgia version of an Amber Alert. The Atlanta Police Department and the GEORGIA \nBUREAU OF INVESTIGATION are looking for a White 2009 Ford F350 with Alabama License tag IC087Y4. On \nAugust 17, 2026, Norah Cooper, a 11 month old Black Female with Black hair and Brown eye, Norah Cooper is missing two fingers on her right hand the index and middle finger. and was last seen wearing Pink Onesie. Zola Cooper,a 4 yr old  Black Female with Black hair and Brown eye, and was last seen wearing a multicolor dress. They were abducted by Lakesha Shanta Brown, a 42yr old Black Female 59 Weigt 140lbs with black hair and Brown eyes. They were last seen at 356 James P. Brawley Drive NW. Norah Cooper and Zola Cooper is believed to be in extreme danger. If you have any information on the whereabouts of Norah Cooper and Zola Cooper or the White 2009 Ford F350 with Alabama License tag IC087Y4.  please dial 911. The public can also provide information to the GBI tip line at 1-800-597-TIPS or the See Send app for smartphone users.",
+  "sent_utc": "2026-08-17T12:21:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/GA.508_80_2026-08-17T08_21_36-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/GA.508_80_2026-08-17T08_21_36-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/GA.508_80_2026-08-17T08_21_36-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/GA.508_80_2026-08-17T08_21_36-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/GA.508_80_2026-08-17T08_21_36-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
