@@ -1,0 +1,21 @@
+{
+  "id": "AS-NM-18839853-8386-4763-8118-7156187382a8",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Lincoln, NM; at 2:16 PM on AUG 17, 2025 Effective until 6:16 PM. Message from WSLF/CAP.",
+  "extra_text": "Ruidoso Emergency Management: Flash Flooding is OBSERVED in Brady Canyon. Rapidly rising floodwaters have been reported in the Brady Canyon area. For your safety move immediately to higher ground or shelter in place on high ground! Do not cross low water points or water over the road. More Info can be found by tuning into 1490 AM & 99.1 FM",
+  "sent_utc": "2025-08-17T21:16:43+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/17/AS-NM-18839853-8386-4763-8118-7156187382a8.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/17/AS-NM-18839853-8386-4763-8118-7156187382a8_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/17/AS-NM-18839853-8386-4763-8118-7156187382a8_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/17/AS-NM-18839853-8386-4763-8118-7156187382a8_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/17/AS-NM-18839853-8386-4763-8118-7156187382a8_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
