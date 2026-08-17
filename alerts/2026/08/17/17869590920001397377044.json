@@ -1,0 +1,21 @@
+{
+  "id": "17869590920001397377044",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Maricopa, AZ; at 2:31 AM on AUG 17, 2026 Effective until 10:31 AM. Message from WSLF/CAP.",
+  "extra_text": "A SAFE Alert has been issued for Maricopa County. This is the Arizona Department of Public Safety. Glendale Police Department is looking for Abraham Cabrera JR. Hispanic male, 21 years old, 5 feet 6 inches, 130 pounds, brown eyes, brown hair and last seen were a gray ninja turtle sweatshirt with black pants. Abraham was last seen on 08/16/2026 at 2130 hours on foot near 75th Avenue and Pasadena Avenue. Abraham suffers from a medical condition with may cause him to become easily confused and lost. If you have contact with this SAFE Alert, please call 911. Monitor TV and Radio for updates.",
+  "sent_utc": "2026-08-17T09:31:32+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/17869590920001397377044.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/17869590920001397377044_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/17869590920001397377044_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/17869590920001397377044_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/17/17869590920001397377044_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
