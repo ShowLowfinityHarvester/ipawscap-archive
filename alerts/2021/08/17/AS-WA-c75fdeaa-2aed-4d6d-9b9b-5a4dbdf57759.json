@@ -1,0 +1,21 @@
+{
+  "id": "AS-WA-c75fdeaa-2aed-4d6d-9b9b-5a4dbdf57759",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Washington; at 11:00 AM on AUG 17, 2021 Effective until 12:00 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test.  This is only a test of the Emergency Alert System in Washington State issued by the Washington State Emergency Operations Center. In the event of an emergency, this system would bring you important information. The following tones will conclude this test from the Washington State Emergency Operations Center.",
+  "sent_utc": "2021-08-17T18:00:01+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/AS-WA-c75fdeaa-2aed-4d6d-9b9b-5a4dbdf57759.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/AS-WA-c75fdeaa-2aed-4d6d-9b9b-5a4dbdf57759_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/AS-WA-c75fdeaa-2aed-4d6d-9b9b-5a4dbdf57759_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/AS-WA-c75fdeaa-2aed-4d6d-9b9b-5a4dbdf57759_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/AS-WA-c75fdeaa-2aed-4d6d-9b9b-5a4dbdf57759_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
