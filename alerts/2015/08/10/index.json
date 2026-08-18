@@ -41,6 +41,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/10/CAPNET-1-405-20150810094300_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "MSU-9e570efa-c495-42bb-a319-f037da867d20",
+      "event_code": "RWT",
+      "sent_utc": "2015-08-10T15:59:11+00:00",
+      "href": "MSU-9e570efa-c495-42bb-a319-f037da867d20.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/10/MSU-9e570efa-c495-42bb-a319-f037da867d20.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/10/MSU-9e570efa-c495-42bb-a319-f037da867d20_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/10/MSU-9e570efa-c495-42bb-a319-f037da867d20_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/10/MSU-9e570efa-c495-42bb-a319-f037da867d20_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/10/MSU-9e570efa-c495-42bb-a319-f037da867d20_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
