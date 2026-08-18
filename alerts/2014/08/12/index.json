@@ -27,6 +27,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/MSU-abbcaf61-e6de-4d09-b564-b811e70f66ae_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "CAPNET-0-185-20140813000700",
+      "event_code": "RMT",
+      "sent_utc": "2014-08-13T04:07:00+00:00",
+      "href": "CAPNET-0-185-20140813000700.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/CAPNET-0-185-20140813000700.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/CAPNET-0-185-20140813000700_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/CAPNET-0-185-20140813000700_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/CAPNET-0-185-20140813000700_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/CAPNET-0-185-20140813000700_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
