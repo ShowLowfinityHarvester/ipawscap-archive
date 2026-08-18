@@ -1,0 +1,21 @@
+{
+  "id": "53df74a1b74d2007dc3e6110",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Mississippi; at 4:58 AM on AUG 4, 2014 Effective until 5:58 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Mississippi Emergency Alert System by the Mississippi Emergency Management Agency. This is a test of the Mississippi Emergency Alert System. In the event of an actual emergency stay tuned to this station for important emergency information. Again this is only a test by the Mississippi Emergency Management Agency.",
+  "sent_utc": "2014-08-04T11:58:21+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/04/53df74a1b74d2007dc3e6110.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/04/53df74a1b74d2007dc3e6110_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/04/53df74a1b74d2007dc3e6110_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/04/53df74a1b74d2007dc3e6110_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/04/53df74a1b74d2007dc3e6110_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
