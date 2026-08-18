@@ -1,0 +1,21 @@
+{
+  "id": "1666451605822956",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Tehama, CA; at 10:18 PM on AUG 17, 2021 Effective until 11:18 PM. Message from WSLF/CAP.",
+  "extra_text": "TEHAMA COUNTY ADVISES IMMEDIATE EVACUATION OF THE MINERAL AREA DUE TO DIXIE FIRE. SHELTER WILL BE SET UP AT THE LOS MOLINOS VETS HALL 7890 SHERWOOD BLVD  LOS MOLINOS CA, EVACUATE IMMEDIATELY  FIRST RESPONDERS MAY NOT BE AVAILABLE TO HELP YOU IF YOU WAIT.  HEAD WEST BOUND OUT OF MINERAL ON HWY 36E",
+  "sent_utc": "2021-08-18T05:18:05+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/1666451605822956.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/1666451605822956_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/1666451605822956_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/1666451605822956_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/1666451605822956_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
