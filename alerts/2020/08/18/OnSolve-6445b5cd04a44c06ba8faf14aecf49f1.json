@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-6445b5cd04a44c06ba8faf14aecf49f1",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Plumas, CA; at 4:32 PM on AUG 19, 2020 Effective until 5:32 PM. Message from WSLF/CAP.",
+  "extra_text": "williams valley pecks valley copper creek mandatory evacuations due to fire please leave the area immediately",
+  "sent_utc": "2020-08-18T23:32:28+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/18/OnSolve-6445b5cd04a44c06ba8faf14aecf49f1.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/18/OnSolve-6445b5cd04a44c06ba8faf14aecf49f1_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/18/OnSolve-6445b5cd04a44c06ba8faf14aecf49f1_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/18/OnSolve-6445b5cd04a44c06ba8faf14aecf49f1_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/18/OnSolve-6445b5cd04a44c06ba8faf14aecf49f1_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
