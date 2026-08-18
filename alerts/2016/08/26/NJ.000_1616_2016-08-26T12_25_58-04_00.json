@@ -1,0 +1,21 @@
+{
+  "id": "NJ.000_1616_2016-08-26T12:25:58-04:00",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: New Jersey; at 9:25 AM on AUG 27, 2016 Effective until 10:25 AM. Message from WSLF/CAP.",
+  "extra_text": "THE NEW JERSEY STATE POLICE IS ACTIVATING THE AMBER ABDUCTED CHILD ALERT PLAN. THE PENNSYLVANIA STATE POLICE DEPARTMENT IS INVESTIGATING A CONFIRMED CHILD ABDUCTION WHICH OCCURRED AT 326 VINE STREET IN THE TOWN OF NESCOPECK BOROUGH IN THE COUNTY OF LUZERNE IN THE STATE OF PENNSYLVANIA. THE CHILD AVA BYRNE IS A THREE YEAR OLD WHITE FEMALE WITH BLACK HAIR AND BROWN EYES. SHE WAS LAST SEEN WEARING A WHITE DRESS WITH PINK FLOWERS. THE SUSPECT ROBERT ANDREW BURINE IS A WHITE MALE APPROXIMATELY 34 YEARS OLD WITH BLACK HAIR AND BROWN EYES. THE SUSPECT WAS LAST SEEN OPERATING  2004 SILVER HYUNDIA ELANTRA  BEARING PENNSYLVANIA REGISTRATION HKB4681. THE LAST KNOWN LOCATION OF THE SUSPECT WAS NEAR THE DELAWARE RIVER WATER GAP IN PENNSYLVANIA. ANYONE HAVING INFORMATION REGARDING THIS ABDUCTION IS URGED TO IMMEDIATELY CALL 9 1 1.",
+  "sent_utc": "2016-08-26T16:25:58+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/26/NJ.000_1616_2016-08-26T12_25_58-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/26/NJ.000_1616_2016-08-26T12_25_58-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/26/NJ.000_1616_2016-08-26T12_25_58-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/26/NJ.000_1616_2016-08-26T12_25_58-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/26/NJ.000_1616_2016-08-26T12_25_58-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
