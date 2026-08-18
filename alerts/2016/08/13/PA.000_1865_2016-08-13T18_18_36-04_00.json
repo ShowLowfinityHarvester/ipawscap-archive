@@ -1,0 +1,21 @@
+{
+  "id": "PA.000_1865_2016-08-13T18:18:36-04:00",
+  "event_code": "SPW",
+  "eas_text": "A civil authority has issued A SHELTER IN PLACE WARNING for the following counties or areas: Adams, PA; at 3:18 PM on AUG 14, 2016 Effective until 5:18 PM. Message from WSLF/CAP.",
+  "extra_text": "A SHELTER IN PLACE IS IN EFFECT FOR NEW OXFORD BOROUGH OXFORD TOWNSHIP AND HAMILTON TOWNSHIP IN ADAMS COUNTY AS A RESULT OF A POSSIBLE AMMONIA LEAK AT PLAINVILLE FARMS.  RESIDENTS IN NEW OXFORD AND AREAS ONE MILE NORTH OF THE BOROUGH IN HAMILTON AND OXFORD TOWNSHIP SHOULD REMAIN IN DOORS UNTIL YOU RECEIVE OFFICIAL NOTICE THAT IS IT SAFE TO GO OUTDOORS. CLOSE ALL OUTSIDE DOORS AND WINDOWS AND TURN OFF ALL EXTERNAL AIR INTAKES.  MOTORISTS AND PEDESTRIANS SHOULD AVOID TRAVEL IN THE VICINITY OF NEW OXFORD.  STAY TUNED TO LOCAL TELEVISION AND RADIO FOR FURTHER UPDATES  THIS HAS BEEN AN MESSAGE FROM THE PA EMERGENCY MANAGEMENT AGENCY FOR THE ADAMS COUNTY DEPARTMENT OF EMERGENCY SERVICES. Remain indoors, close all outside doors and windows and turn off all external air intakes.",
+  "sent_utc": "2016-08-13T22:18:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/13/PA.000_1865_2016-08-13T18_18_36-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/13/PA.000_1865_2016-08-13T18_18_36-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/13/PA.000_1865_2016-08-13T18_18_36-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/13/PA.000_1865_2016-08-13T18_18_36-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/13/PA.000_1865_2016-08-13T18_18_36-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
