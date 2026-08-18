@@ -1,0 +1,21 @@
+{
+  "id": "5aa174a8-e9e3-4023-bbc3-8d6669360b42",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Benton, TN; at 8:24 AM on AUG 12, 2016 Effective until 8:24 AM AUG 13, 2016. Message from WSLF/CAP.",
+  "extra_text": "The Benton County Emergency Management Agency has issued a precautionary a boil water alert for the City of Camden due to a broken water main.  The City of Camden Water Department is recommending, but not requiring, all water department customers to boil water before consumption for the next 24 hours.  Customers can call the City of Camden Water Department at 731-584-4656 for more information. Boil Water Instructions - Fill a pot with water. - Heat the water until bubbles come from the bottom of the pot to the top. - Once the water reaches a rolling boil, let it boil for 1 minute. - Turn off the heat source and let the water cool. - Pour the water into a clean container with a cover for storage. Use the boiled water for preparing and cooking food, feeding babies and using formula, making ice, brushing teeth and providing water to pets. Be careful not to swallow any water when bathing or showering. Use caution when bathing babies or young children.",
+  "sent_utc": "2016-08-11T15:24:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5aa174a8-e9e3-4023-bbc3-8d6669360b42.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5aa174a8-e9e3-4023-bbc3-8d6669360b42_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5aa174a8-e9e3-4023-bbc3-8d6669360b42_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5aa174a8-e9e3-4023-bbc3-8d6669360b42_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5aa174a8-e9e3-4023-bbc3-8d6669360b42_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
