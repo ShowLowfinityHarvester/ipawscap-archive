@@ -1,0 +1,21 @@
+{
+  "id": "CAPNET-0-70-20160816235400",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Maine; at 8:54 PM on AUG 17, 2016 Effective until 9:39 PM. Message from M E M A.",
+  "extra_text": "This is a coordinated monthly test of the Emergency Alert System for the State of Maine. If this were an actual emergency official information would follow the alert tones.",
+  "sent_utc": "2016-08-17T03:54:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/16/CAPNET-0-70-20160816235400.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/16/CAPNET-0-70-20160816235400_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/16/CAPNET-0-70-20160816235400_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/16/CAPNET-0-70-20160816235400_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/16/CAPNET-0-70-20160816235400_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
