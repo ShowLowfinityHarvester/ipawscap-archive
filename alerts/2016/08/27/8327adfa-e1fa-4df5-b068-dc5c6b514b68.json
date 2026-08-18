@@ -1,0 +1,21 @@
+{
+  "id": "8327adfa-e1fa-4df5-b068-dc5c6b514b68",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Colorado; at 2:07 PM on AUG 28, 2016 Effective until 5:07 PM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS THE COLORADO BUREAU OF INVESTIGATION WITH AN AMBER CHILD ABDUCTION ALERT.  WE HAVE RECEIVED THIS IMPORTANT ANNOUNCEMENT REGARDING AN ABDUCTED CHILD IN COLORADO SPRINGS. THE COLORADO SPRINGS POLICE DEPARTMENT IS SEARCHING FOR 3 MONTH OLD BLAZE CORT BEATTY   LAST SEEN IN THE VICINITY OF THE 59 HUNDRED BLOCK OF CASTLEWOOD LANE ABOUT 9 45 THIS MORNING. BLAZE IS DESCRIBED AS A 3 MONTH OLD WHITE MALE WITH BROWN HAIR AND BLUE EYES. BLAZE WAS LAST SEEN WEARING YELLOW AND BLUE CLOTHING.  \nINVESTIGATORS BELIEVE BLAZE MAY HAVE BEEN TAKEN BY 39 YEAR OLD JONATHAN CORT BEATTY WHO IS DESCRIBED AS A WHITE MALE  5 FEET 10 INCHES 190 POUNDS    LAST SEEN WEARING BLACK HAT  TAN SHORTS   BLACK ATHLETIC SHOES AND MAY BE TRAVELING IN A 2 THOUSAND 12 WHITE CHEVY PICKUP TRUCK WITH COLORADO LICENSE PLATE 327 Y V V.\nIF YOU HAVE ANY INFORMATION REGARDING THIS ABDUCTION IMMEDIATELY CALL 9 1 1.",
+  "sent_utc": "2016-08-27T21:07:42+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/8327adfa-e1fa-4df5-b068-dc5c6b514b68.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/8327adfa-e1fa-4df5-b068-dc5c6b514b68_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/8327adfa-e1fa-4df5-b068-dc5c6b514b68_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/8327adfa-e1fa-4df5-b068-dc5c6b514b68_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/8327adfa-e1fa-4df5-b068-dc5c6b514b68_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
