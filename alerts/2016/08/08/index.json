@@ -83,6 +83,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/08/CAPNET-1-527-20160808112300_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "AS-NV-bde1397f-6785-44b7-811f-3406374eb498",
+      "event_code": "RWT",
+      "sent_utc": "2016-08-08T19:32:25+00:00",
+      "href": "AS-NV-bde1397f-6785-44b7-811f-3406374eb498.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/08/AS-NV-bde1397f-6785-44b7-811f-3406374eb498.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/08/AS-NV-bde1397f-6785-44b7-811f-3406374eb498_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/08/AS-NV-bde1397f-6785-44b7-811f-3406374eb498_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/08/AS-NV-bde1397f-6785-44b7-811f-3406374eb498_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/08/AS-NV-bde1397f-6785-44b7-811f-3406374eb498_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
