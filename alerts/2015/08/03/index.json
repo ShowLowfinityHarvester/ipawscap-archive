@@ -13,6 +13,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/03/55bf4d41b74d2006d0f9270c_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "MI.016_127_2015-08-03T08:11:18-04:00",
+      "event_code": "RWT",
+      "sent_utc": "2015-08-03T12:11:18+00:00",
+      "href": "MI.016_127_2015-08-03T08_11_18-04_00.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/03/MI.016_127_2015-08-03T08_11_18-04_00.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/03/MI.016_127_2015-08-03T08_11_18-04_00_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/03/MI.016_127_2015-08-03T08_11_18-04_00_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/03/MI.016_127_2015-08-03T08_11_18-04_00_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/03/MI.016_127_2015-08-03T08_11_18-04_00_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
