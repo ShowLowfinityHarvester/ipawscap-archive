@@ -1,0 +1,21 @@
+{
+  "id": "NR140719954080316",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: New Mexico; at 1:08 PM on AUG 4, 2016 Effective until 1:38 PM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS A WEEKLY TEST OF THE EMERGENCY ALERT SYSTEM. THIS IS ONLY A TEST. BROADCASTERS AND CABLE OPERATORS IN YOUR AREA HAVE DEVELOPED THIS SYSTEM IN VOLUNTARY COOPERATION WITH FEMA, THE FCC AND LOCAL AUTHORITIES TO KEEP YOU INFORMED IN THE EVENT OF AN EMERGENCY. IF THIS HAD BEEN AN ACTUAL EMERTGENCY AN OFFICIAL MESSAGE WOULD HAVE FOLLOWRD THE ALERT TONE. THIS CONCLUDES THIS NEW MEXICO EMERGENCY OPERATIONS CENTER TEST OF THE EMERGENCY ALERT SYSTEM.",
+  "sent_utc": "2016-08-03T20:08:51+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/03/NR140719954080316.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/03/NR140719954080316_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/03/NR140719954080316_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/03/NR140719954080316_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/03/NR140719954080316_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
