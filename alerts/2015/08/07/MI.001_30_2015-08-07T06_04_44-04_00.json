@@ -1,0 +1,21 @@
+{
+  "id": "MI.001_30_2015-08-07T06:04:44-04:00",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: St. Clair; Lapeer; Macomb; Oakland; Wayne; Washtenaw; Monroe; Livingston; Sanilac; Genesee; Shiawassee; Saginaw; Tuscola; Huron; Arenac; Bay; Gladwin; Gratiot; Clare; Midland; Isabella; Ingham; Clinton; Ionia; Montcalm; Eaton; Barry; Kalamazoo; Allegan; Calhoun; Van Buren; Branch; St. Joseph; Cass; Jackson; Lenawee; Hillsdale; Kent; Muskegon; Mecosta; Newaygo; Ottawa; Lake; Osceola, MI; at 3:04 AM on AUG 7, 2015 Effective until 5:04 AM. Message from WSLF/CAP.",
+  "extra_text": "AMBER ALERT FOR AN ENDANGERED MISSING CHILD.  THE LANSING POLICE DEPARTMENT HAS ISSUED AN AMBER ALERT FOR AN ENDANGERED MISSING CHILD.  ONIESHA TANNER IS A 16 Y.O. BLACK FEMALE WITH BRO/HAIR BRO/EYES SHE IS  5-5 TALL AND 115 LBS.  SHE WAS LAST SEEN WEARING A GREEN T-SHIRT AND BLUE JEANS.  SHE MAY BE IN A SILVER SUV POSSIBLE FORD WITH AN UNKNOWN SUBJECT.  ONIESHA WAS LAST SEEN IN THE AREA OF OAKLAND AND PINE IN LANSING.  IF YOU HAVE ANY INFORMATION ON THIS ALERT PLEASE CONTACT THE LANSING PD AT 517-483-4604 OR DIAL 911.  FOR MORE DETAILS PLEASE GO TO MICHIGAN AMBER ALERT .ORG",
+  "sent_utc": "2015-08-07T10:04:44+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/07/MI.001_30_2015-08-07T06_04_44-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/07/MI.001_30_2015-08-07T06_04_44-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/07/MI.001_30_2015-08-07T06_04_44-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/07/MI.001_30_2015-08-07T06_04_44-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/07/MI.001_30_2015-08-07T06_04_44-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
