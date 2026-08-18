@@ -1,0 +1,21 @@
+{
+  "id": "444206992915724",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Franklin, KS; at 8:06 PM on AUG 28, 2016 Effective until 9:06 PM. Message from WSLF/CAP.",
+  "extra_text": "A CIVIL AUTHORITY HAS ISSUED A LOCAL AREA EMERGENCY FOR THE FOLLOWING COUNTIES/AREAS: CITY OF OTTAWA AT 10:00 PM ON AUG 27 2016 EFFECTIVE UNTIL FURTHER NOTICE. MESSAGE FROM FRANKLIN COUNTY EMERGENCY MANAGEMENT. THE CITY OF OTTAWA HAS ISSUED A MANADTORY BOIL ORDER FOR THE RESIDENTS ON CITY WATER.  AT 8:30 PM A WATER MAIN BROKE CAUSING DISRUPTION IN THE CITY WATER SUPPLY SYSTEM.  ONLY BOILED OR BOTTLED WATER SHOULD BE USED FOR INGESTION. PLEASE MONITOR YOUR LOCAL NEWS MEDIA AND SOCIAL MEDIA FOR FURTHER UPDATES.",
+  "sent_utc": "2016-08-28T03:06:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/444206992915724.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/444206992915724_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/444206992915724_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/444206992915724_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/27/444206992915724_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
