@@ -1,0 +1,21 @@
+{
+  "id": "GA.002_72_2013-08-28T03:14:47-04:00",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Georgia; at 12:14 AM on AUG 28, 2013 Effective until 1:14 AM. Message from WSLF/CAP.",
+  "extra_text": "From the Georgia Emergency Management Agency, this is the required monthly test of the Emergency Alert system.",
+  "sent_utc": "2013-08-28T07:14:47+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/28/GA.002_72_2013-08-28T03_14_47-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/28/GA.002_72_2013-08-28T03_14_47-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/28/GA.002_72_2013-08-28T03_14_47-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/28/GA.002_72_2013-08-28T03_14_47-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/28/GA.002_72_2013-08-28T03_14_47-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
