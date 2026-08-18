@@ -69,6 +69,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/MD.500_313_2016-08-24T12_04_13-04_00_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "VIAlert-ALLHAZALERT-3493472Eas",
+      "event_code": "RWT",
+      "sent_utc": "2016-08-24T19:35:21+00:00",
+      "href": "VIAlert-ALLHAZALERT-3493472Eas.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
