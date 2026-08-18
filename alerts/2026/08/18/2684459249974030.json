@@ -1,0 +1,21 @@
+{
+  "id": "2684459249974030",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Washington; at 11:13 AM on AUG 18, 2026 Effective until 12:13 PM. Message from WSLF/CAP.",
+  "extra_text": "The Washington State Patrol, on behalf of Clark County Sheriff's Office, has CANCELLED the Amber Alert. Victim was located.",
+  "sent_utc": "2026-08-18T18:13:15+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/18/2684459249974030.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/18/2684459249974030_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/18/2684459249974030_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/18/2684459249974030_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/18/2684459249974030_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
