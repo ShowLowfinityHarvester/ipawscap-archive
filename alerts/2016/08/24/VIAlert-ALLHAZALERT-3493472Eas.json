@@ -1,0 +1,21 @@
+{
+  "id": "VIAlert-ALLHAZALERT-3493472Eas",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: St. Croix, VI; at 12:35 PM on AUG 25, 2016 Effective until 12:50 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a weekly test of the Emergency Alert System. This is just a test.",
+  "sent_utc": "2016-08-24T19:35:21+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/24/VIAlert-ALLHAZALERT-3493472Eas_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
