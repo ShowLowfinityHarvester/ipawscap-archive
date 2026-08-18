@@ -1,0 +1,21 @@
+{
+  "id": "CAPNET-1-404-20150806112800",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Sedgwick, KS; at 9:28 AM on AUG 6, 2015 Effective until 9:58 AM. Message from SEDGEOC.",
+  "extra_text": "Sedgwick County Emergency Management will be calibrating and testing the outdoor warning siren at 247 W. Rogers in Bentley Kansas, just before Noon today.    Repeating    Sedgwick County Emergency Management will be calibrating and testing the outdoor warning siren at 247 W. Rogers in Bentley Kansas, just before Noon today. No Action required, notification only.",
+  "sent_utc": "2015-08-06T16:28:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/CAPNET-1-404-20150806112800.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/CAPNET-1-404-20150806112800_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/CAPNET-1-404-20150806112800_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/CAPNET-1-404-20150806112800_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/CAPNET-1-404-20150806112800_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
