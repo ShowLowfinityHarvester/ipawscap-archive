@@ -1,0 +1,21 @@
+{
+  "id": "444206992908060",
+  "event_code": "TOE",
+  "eas_text": "A civil authority has issued A 911 TELEPHONE OUTAGE EMERGENCY for the following counties or areas: Talbot, MD; at 2:04 PM on AUG 19, 2016 Effective until 3:04 PM. Message from WSLF/CAP.",
+  "extra_text": "Talbot County Department Emergency Services recently received information from Sprint in reference to failed attempts to contact 911. Sprint is trying to rectify the situation ASAP. If you are in Talbot County,  have Sprint as a carrier, and need to contact 9-1-1 please call our non- emergency number 410-822-0095. Please follow local media and social media for continuing updates.",
+  "sent_utc": "2016-08-18T21:04:28+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/18/444206992908060.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/18/444206992908060_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/18/444206992908060_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/18/444206992908060_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/18/444206992908060_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
