@@ -1,0 +1,21 @@
+{
+  "id": "MSU-e7538971-8265-40d0-a331-c1a87c303e1f",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Clark, NV; at 9:16 AM on AUG 22, 2013 Effective until 11:16 AM. Message from WSLF/CAP.",
+  "extra_text": "Weekly CAP test from Henderson Emergency Management Only for testing purposes",
+  "sent_utc": "2013-08-22T16:16:31+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/22/MSU-e7538971-8265-40d0-a331-c1a87c303e1f.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/22/MSU-e7538971-8265-40d0-a331-c1a87c303e1f_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/22/MSU-e7538971-8265-40d0-a331-c1a87c303e1f_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/22/MSU-e7538971-8265-40d0-a331-c1a87c303e1f_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2013/08/22/MSU-e7538971-8265-40d0-a331-c1a87c303e1f_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
