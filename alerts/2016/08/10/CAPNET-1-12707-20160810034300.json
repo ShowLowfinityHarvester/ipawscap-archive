@@ -1,0 +1,21 @@
+{
+  "id": "CAPNET-1-12707-20160810034300",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Ohio; at 12:43 AM on AUG 11, 2016 Effective until 1:43 AM. Message from OHIOSTEM.",
+  "extra_text": "THIS IS A STATEWIDE TEST OF THE OHIO EMERGENCY ALERT SYSTEM, ORIGINATING FROM THE STATE EMERGENCY OPERATIONS CENTER IN COLUMBUS. THIS IS ONLY A TEST.  THE OHIO EMERGENCY ALERT SYSTEM HAS BEEN DESIGNED TO PROVIDE THE PUBLIC WITH TIMELY WARNINGS AND EMERGENCY INFORMATION.  HAD THIS BEEN AN ACTUAL EMERGENCY, YOU WOULD HAVE RECEIVED INSTRUCTIONS AND INFORMATION RELATED TO THAT EMERGENCY OVER THIS AND OTHER STATIONS IN YOUR AREA.  THIS CONCLUDES THIS TEST OF THE OHIO EMERGENCY ALERT SYSTEM. No action is needed. This is only a test.",
+  "sent_utc": "2016-08-10T07:43:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/10/CAPNET-1-12707-20160810034300.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/10/CAPNET-1-12707-20160810034300_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/10/CAPNET-1-12707-20160810034300_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/10/CAPNET-1-12707-20160810034300_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/10/CAPNET-1-12707-20160810034300_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
