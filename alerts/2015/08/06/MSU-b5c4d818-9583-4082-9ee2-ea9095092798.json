@@ -1,0 +1,21 @@
+{
+  "id": "MSU-b5c4d818-9583-4082-9ee2-ea9095092798",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Malheur, OR; Ada; Adams; Canyon; Elmore; Gem; Payette; Valley; Washington; Blaine; Camas; Cassia; Gooding; Jerome; Lincoln; Minidoka; Twin Falls; Bannock; Bear Lake; Bingham; Bonneville; Butte; Caribou; Custer; Franklin; Jefferson; Lemhi; Madison; Power; Teton, ID; at 4:50 AM on AUG 6, 2015 Effective until 5:50 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the State of Idaho Emergency Alert System. In the event of an emergency, this system would bring you important information. This test was conducted from the Idaho State Communications Center in Meridian, Idaho and is now concluded.",
+  "sent_utc": "2015-08-06T11:50:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/MSU-b5c4d818-9583-4082-9ee2-ea9095092798.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/MSU-b5c4d818-9583-4082-9ee2-ea9095092798_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/MSU-b5c4d818-9583-4082-9ee2-ea9095092798_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/MSU-b5c4d818-9583-4082-9ee2-ea9095092798_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/06/MSU-b5c4d818-9583-4082-9ee2-ea9095092798_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
