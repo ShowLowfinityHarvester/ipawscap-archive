@@ -1,0 +1,21 @@
+{
+  "id": "AS-WA-6d2b4a56-dc92-4c7e-81bb-5ac14473d165",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Douglas, WA; at 12:00 PM on AUG 24, 2015 Effective until 1:00 PM. Message from WSLF/CAP.",
+  "extra_text": "This message is from the Douglas County Sheriff's Office:  All evacuations for Douglas County have been lifted at this time. This concludes this message from the Douglas County Sheriff's Office.",
+  "sent_utc": "2015-08-24T19:00:49+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/24/AS-WA-6d2b4a56-dc92-4c7e-81bb-5ac14473d165.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/24/AS-WA-6d2b4a56-dc92-4c7e-81bb-5ac14473d165_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/24/AS-WA-6d2b4a56-dc92-4c7e-81bb-5ac14473d165_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/24/AS-WA-6d2b4a56-dc92-4c7e-81bb-5ac14473d165_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2015/08/24/AS-WA-6d2b4a56-dc92-4c7e-81bb-5ac14473d165_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
