@@ -1,0 +1,21 @@
+{
+  "id": "AS-WA-e43feb18-9d84-4df5-9143-87e26baf06a4",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Chelan; Douglas, WA; at 8:58 PM on AUG 5, 2016 Effective until 9:58 PM. Message from WSLF/CAP.",
+  "extra_text": "DOUGLAS COUNTY SHERIFF HAS ISSUED A FIRE WARNING FROM COLUMBIA POINT LN FOLLOWING THE RIVER SOUTH TO BROWNS CANYON, FOLLOWING BROWNS CANYON EAST TO ROAD K NW AND BACK TO THE RIVER",
+  "sent_utc": "2016-08-05T03:58:09+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/04/AS-WA-e43feb18-9d84-4df5-9143-87e26baf06a4.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/04/AS-WA-e43feb18-9d84-4df5-9143-87e26baf06a4_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/04/AS-WA-e43feb18-9d84-4df5-9143-87e26baf06a4_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/04/AS-WA-e43feb18-9d84-4df5-9143-87e26baf06a4_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/04/AS-WA-e43feb18-9d84-4df5-9143-87e26baf06a4_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
