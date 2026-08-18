@@ -1,0 +1,21 @@
+{
+  "id": "PA.000_150698_2014-08-14T11:03:09-04:00",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Columbia; Luzerne, PA; at 8:03 AM on AUG 14, 2014 Effective until 9:03 AM. Message from WSLF/CAP.",
+  "extra_text": "THE PENNSYLVANIA EMERGENCY MANAGEMENT AGENCY IN CONJUNCTION WITH THE SUSQUEHANNA STEAM ELECTRIC STATION; IS CONDUCTING A SIREN ACTIVATION AND EMERGENCY ALERT SYSTEM ACTIVATION TEST. \"THIS IS ONLY A TEST.\" \"THERE IS 'NO' EMERGENCY AT SUSQUEHANNA STEAM ELECTRIC STATION.\" REPEATING \"THERE IS 'NO' EMERGENCY AT SUSQUEHANNA STEAM ELECTRIC STATION!\" THE SIRENS THAT YOU ARE HEARING ARE PART OF A COORDINATED TEST OF THE SUSQUEHANNA STEAM ELECTRIC STATION WARNING SYSTEM. WE ASK THAT ALL FAMILIES REVIEW YOUR TELEPHONE DIRECTORY'S EMERGENCY PAGES TO SEE IF YOU ARE WITHIN THE TEN MILE EMERGENCY PLANNING ZONE OF THE PLANT IN ORDER TO FAMILIARIZE YOURSELF WITH TRAFFIC DETOURS SHELTER LOCATIONS AND OTHER SAFETY INFORMATION. THIS IS ONLY A TEST!",
+  "sent_utc": "2014-08-14T15:03:09+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/14/PA.000_150698_2014-08-14T11_03_09-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/14/PA.000_150698_2014-08-14T11_03_09-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/14/PA.000_150698_2014-08-14T11_03_09-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/14/PA.000_150698_2014-08-14T11_03_09-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/14/PA.000_150698_2014-08-14T11_03_09-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
