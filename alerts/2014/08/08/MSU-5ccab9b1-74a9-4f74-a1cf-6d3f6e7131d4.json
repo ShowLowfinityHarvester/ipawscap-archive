@@ -1,0 +1,21 @@
+{
+  "id": "MSU-5ccab9b1-74a9-4f74-a1cf-6d3f6e7131d4",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Churchill; Clark; Douglas; Elko; Esmeralda; Eureka; Lander; Humboldt; Lincoln; Lyon; Mineral; Nye; Pershing; Storey; Washoe; White Pine; Carson City, NV; at 10:50 AM on AUG 8, 2014 Effective until 11:50 AM. Message from WSLF/CAP.",
+  "extra_text": "Required Weekly Test",
+  "sent_utc": "2014-08-08T17:50:40+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/08/MSU-5ccab9b1-74a9-4f74-a1cf-6d3f6e7131d4.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/08/MSU-5ccab9b1-74a9-4f74-a1cf-6d3f6e7131d4_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/08/MSU-5ccab9b1-74a9-4f74-a1cf-6d3f6e7131d4_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/08/MSU-5ccab9b1-74a9-4f74-a1cf-6d3f6e7131d4_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/08/MSU-5ccab9b1-74a9-4f74-a1cf-6d3f6e7131d4_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
