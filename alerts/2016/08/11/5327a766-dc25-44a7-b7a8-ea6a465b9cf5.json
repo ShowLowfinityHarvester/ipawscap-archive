@@ -1,0 +1,21 @@
+{
+  "id": "5327a766-dc25-44a7-b7a8-ea6a465b9cf5",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Colorado; at 11:13 PM on AUG 12, 2016 Effective until 3:13 AM AUG 13, 2016. Message from WSLF/CAP.",
+  "extra_text": "THIS IS THE COLORADO BUREAU OF INVESTIGATION WITH AN AMBER CHILD ABDUCTION ALERT.  WE HAVE RECEIVED THIS IMPORTANT ANNOUNCEMENT REGARDING AN ABDUCTED CHILD IN FORT COLLINS COLORADO.\nTHE FORT COLLINS POLICE DEPARTMENT IS SEARCHING FOR  5 YEAR OLD ANNALEE KELLER LAST SEEN IN A VEHICLE NEAR THE INTERSECTION OF EAST BOUND PROSPECT AND WELD COUNT ROAD 80 AT 10:15 THIS EVENING.\nANNALEE KELLER IS DESCRIBED AS A 5 year old white female with long blonde hair and brown eyes.  Annalee was last seen wearing a gray glittery shirt and black pants.\nINVESTIGATORS BELIEVE ANNALEE  MAY HAVE BEEN TAKEN BY 30 year old Lauren PEROTTI-MONTGOMERY A WHITE FEMALE  5 feet 8 inches tall 130 pounds Brown hair and Brown eyes. Lauren was wearing a green shirt and brown capri pants AND MAY BE TRAVELING IN A WHITE FORD F150 PICK-UP truck with COLORADO TEMP LICENSE PLATE 546984P THAT WAS LAST SEEN HEADING EASTBOUND ON PROSPECT TOWARDS WELD COUNTY.\nIF YOU HAVE ANY INFORMATION REGARDING THIS ABDUCTION IMMEDIATELY CALL 9 1 1.",
+  "sent_utc": "2016-08-12T06:13:11+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5327a766-dc25-44a7-b7a8-ea6a465b9cf5.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5327a766-dc25-44a7-b7a8-ea6a465b9cf5_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5327a766-dc25-44a7-b7a8-ea6a465b9cf5_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5327a766-dc25-44a7-b7a8-ea6a465b9cf5_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/11/5327a766-dc25-44a7-b7a8-ea6a465b9cf5_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
