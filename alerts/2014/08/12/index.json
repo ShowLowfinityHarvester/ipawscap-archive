@@ -13,6 +13,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/PA.000_150690_2014-08-12T08_17_47-04_00_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "MSU-abbcaf61-e6de-4d09-b564-b811e70f66ae",
+      "event_code": "RWT",
+      "sent_utc": "2014-08-12T23:07:51+00:00",
+      "href": "MSU-abbcaf61-e6de-4d09-b564-b811e70f66ae.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/MSU-abbcaf61-e6de-4d09-b564-b811e70f66ae.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/MSU-abbcaf61-e6de-4d09-b564-b811e70f66ae_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/MSU-abbcaf61-e6de-4d09-b564-b811e70f66ae_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/MSU-abbcaf61-e6de-4d09-b564-b811e70f66ae_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/12/MSU-abbcaf61-e6de-4d09-b564-b811e70f66ae_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
