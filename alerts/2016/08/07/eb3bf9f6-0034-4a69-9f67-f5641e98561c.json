@@ -1,0 +1,21 @@
+{
+  "id": "eb3bf9f6-0034-4a69-9f67-f5641e98561c",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Colorado; at 4:45 PM on AUG 8, 2016 Effective until 8:15 PM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS THE COLORADO BUREAU OF INVESTIGATION WITH AN AMBER CHILD ABDUCTION ALERT.  WE HAVE RECEIVED THIS IMPORTANT ANNOUNCEMENT REGARDING AN ABDUCTED CHILD IN Aurora Colorado.  \nTHE Aurora Police Department IS SEARCHING FOR 4 children   9  year old Aaliyah Moori 7  year old Jeneaya Fleming 3  year old Heaven Smith and 1  year old Harmony Smith the children were LAST SEEN IN THE VICINITY OF 3137 Worchester Street in Aurora ABOUT 2   45  THIS afternoon.\nAaliyah Moori is a  Black female 4 feet  8 inches tall stocky build with brown eyes and black hair  wearing a red shirt and black pants.    Jeneaya Fleming is a black female 4 feet 6 inches tall  skinny build with brown eyes and black hair wearing a colorful dress. Heaven Smith is a black female 2 feet 5 inches tall brown eyes and black hair clothing description unknown  Harmony Smith is also a black female with brown eyes and black hair wearing a purple dress. \n\nINVESTIGATORS BELIEVE the children were taken by Nikia Moori a 28 year old black female wearing a blue and white tank top and blue jeans.  Nikia is 6 months pregnant AND MAY BE TRAVELING IN A 2005 Gold Chrysler Pacifica Colorado License plate QFZ981 with a yellow sticker in the back THAT WAS LAST SEEN near 3137 Worchester Street in Aurora CO possibly heading towards Watkins.  \nIF YOU HAVE ANY INFORMATION REGARDING THIS ABDUCTION IMMEDIATELY CALL 9 1 1.",
+  "sent_utc": "2016-08-07T23:45:19+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/07/eb3bf9f6-0034-4a69-9f67-f5641e98561c.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/07/eb3bf9f6-0034-4a69-9f67-f5641e98561c_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/07/eb3bf9f6-0034-4a69-9f67-f5641e98561c_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/07/eb3bf9f6-0034-4a69-9f67-f5641e98561c_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2016/08/07/eb3bf9f6-0034-4a69-9f67-f5641e98561c_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
