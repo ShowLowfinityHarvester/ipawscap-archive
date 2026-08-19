@@ -1,0 +1,21 @@
+{
+  "id": "AS-AZ-d08c9845-3935-4b75-b589-3691e8d4dadd",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Arizona; at 8:21 PM on AUG 16, 2023 Effective until 6:21 AM AUG 17, 2023. Message from WSLF/CAP.",
+  "extra_text": "A Silver Alert has been issued for Phoenix Police Department.  This is the Arizona Department of Public Safety. Phoenix Police Department is looking for Brandon Collins, a nineteen year old white male, last seen riding a blue scooter with black wheels near Ray Road and Rock Wren Road in Phoenix. If you have contact with the Silver Alert, Please call 9 1 1.  Monitor TV and Radio for updates.",
+  "sent_utc": "2023-08-17T03:21:04+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/AS-AZ-d08c9845-3935-4b75-b589-3691e8d4dadd.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/AS-AZ-d08c9845-3935-4b75-b589-3691e8d4dadd_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/AS-AZ-d08c9845-3935-4b75-b589-3691e8d4dadd_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/AS-AZ-d08c9845-3935-4b75-b589-3691e8d4dadd_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/16/AS-AZ-d08c9845-3935-4b75-b589-3691e8d4dadd_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
