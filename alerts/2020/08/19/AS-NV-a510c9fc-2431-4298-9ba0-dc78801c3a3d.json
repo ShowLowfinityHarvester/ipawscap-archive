@@ -1,0 +1,21 @@
+{
+  "id": "AS-NV-a510c9fc-2431-4298-9ba0-dc78801c3a3d",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Douglas; Lyon; Storey; Carson City, NV; at 10:10 AM on AUG 20, 2020 Effective until 10:25 AM. Message from WSLF/CAP.",
+  "extra_text": "Lyon County authorities have issued a required weekly test for Lyon, Douglas, Carson City, Storey and Alpine counties.  This is only a test. No action required",
+  "sent_utc": "2020-08-19T17:10:29+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-NV-a510c9fc-2431-4298-9ba0-dc78801c3a3d.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-NV-a510c9fc-2431-4298-9ba0-dc78801c3a3d_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-NV-a510c9fc-2431-4298-9ba0-dc78801c3a3d_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-NV-a510c9fc-2431-4298-9ba0-dc78801c3a3d_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-NV-a510c9fc-2431-4298-9ba0-dc78801c3a3d_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
