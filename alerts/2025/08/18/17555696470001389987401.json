@@ -1,0 +1,21 @@
+{
+  "id": "17555696470001389987401",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Siskiyou, CA; at 7:14 PM on AUG 18, 2025 Effective until 3:14 AM AUG 19, 2025. Message from WSLF/CAP.",
+  "extra_text": "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones SIS 3311, SIS 3315, SIS 3312 in the area of KLAMATHON RD/ROOSTER DR due to VEGETATION FIRE. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones SIS 3311, SIS 3315, SIS 3312 in the area of KLAMATHON RD/ROOSTER DR due to VEGETATION FIRE. Anyone in this area is ordered to leave now. For the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov",
+  "sent_utc": "2025-08-19T02:14:07+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/18/17555696470001389987401.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/18/17555696470001389987401_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/18/17555696470001389987401_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/18/17555696470001389987401_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/18/17555696470001389987401_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
