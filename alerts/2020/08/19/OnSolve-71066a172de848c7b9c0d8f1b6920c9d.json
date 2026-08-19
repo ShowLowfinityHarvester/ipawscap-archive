@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-71066a172de848c7b9c0d8f1b6920c9d",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Glenn, CA; at 4:48 AM on AUG 20, 2020 Effective until 11:48 AM. Message from WSLF/CAP.",
+  "extra_text": "This is an immediate Evacuation Order due to fire. The area of Elk Creek from County Road 309 north to road M 9 and west of County Road 306  to the Mendocino County line is ordered to evacuate. \nA temporary evacuation point will be setup at Willows Memorial Hall for shelter assistance. If you have large animals, please take them to the Glenn County Fairgrounds in Orland or to private sheltering if available.",
+  "sent_utc": "2020-08-19T11:48:59+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/OnSolve-71066a172de848c7b9c0d8f1b6920c9d.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/OnSolve-71066a172de848c7b9c0d8f1b6920c9d_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/OnSolve-71066a172de848c7b9c0d8f1b6920c9d_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/OnSolve-71066a172de848c7b9c0d8f1b6920c9d_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/OnSolve-71066a172de848c7b9c0d8f1b6920c9d_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
