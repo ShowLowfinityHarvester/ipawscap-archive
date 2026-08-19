@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-c9a8f0083d484fa1855519e8f540d8e0",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Siskiyou, CA; at 1:14 AM on AUG 17, 2022 Effective until 1:14 AM AUG 18, 2022. Message from WSLF/CAP.",
+  "extra_text": "THIS IS AN EVACUATION WARNING FOR ZONE SIS-1218 DUE TO A WILDFIRE ON CURLEY JACK RD PLEASE BE PREPARED TO EVACUATE IF AN ORDER IS ISSUED.",
+  "sent_utc": "2022-08-17T08:14:05+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/17/OnSolve-c9a8f0083d484fa1855519e8f540d8e0.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/17/OnSolve-c9a8f0083d484fa1855519e8f540d8e0_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/17/OnSolve-c9a8f0083d484fa1855519e8f540d8e0_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/17/OnSolve-c9a8f0083d484fa1855519e8f540d8e0_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/17/OnSolve-c9a8f0083d484fa1855519e8f540d8e0_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
