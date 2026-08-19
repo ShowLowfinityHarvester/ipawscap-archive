@@ -1,0 +1,21 @@
+{
+  "id": "AS-AR-63ac6f61-c9cd-4e24-87a7-5c51e6685f51",
+  "event_code": "LEW",
+  "eas_text": "A civil authority has issued A LAW ENFORCEMENT WARNING for the following counties or areas: Benton, AR; at 7:55 AM on AUG 20, 2020 Effective until 7:55 AM AUG 21, 2020. Message from WSLF/CAP.",
+  "extra_text": "Daphine Bresler 13 yoa hispanic female, 4'9 & 84lbs. Brown eyes & Black hair. Last seen wearing Black shirt and Black jeans Last seen area 900 block n 30th st in Rogers AR. Missing person. For further description or information contact the Rogers Police Department. a photo of the missing person is posted on rpd facebook page. If located please call Rogers Police Department at 4796364141 or dial 911.",
+  "sent_utc": "2020-08-19T14:55:06+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-AR-63ac6f61-c9cd-4e24-87a7-5c51e6685f51.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-AR-63ac6f61-c9cd-4e24-87a7-5c51e6685f51_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-AR-63ac6f61-c9cd-4e24-87a7-5c51e6685f51_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-AR-63ac6f61-c9cd-4e24-87a7-5c51e6685f51_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/19/AS-AR-63ac6f61-c9cd-4e24-87a7-5c51e6685f51_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
