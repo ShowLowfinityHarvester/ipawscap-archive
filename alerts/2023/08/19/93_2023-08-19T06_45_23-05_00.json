@@ -1,0 +1,21 @@
+{
+  "id": "93_2023-08-19T06:45:23-05:00",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Missouri; at 5:31 AM on AUG 19, 2023 Effective until 6:01 AM AUG 20, 2023. Message from WSLF/CAP.",
+  "extra_text": "THE SAINT LOUIS METRO POLICE DEPARTMENT HAS ISSUED AN AMBER ALERT FOR A CHILD ABDUCTION THAT OCCURRED AT 2853 KEOKUK STREET ,  SAINT LOUIS, MISSOURI ON 08/19/2023 AT 04:32 AM.  \n\nABDUCTED WAS JU'LYNNA SELINE WALLACERICHARDSON, BLACK, FEMALE, AGE 2 MONTH(S). \n\nSUSPECT VEHICLE is A BLACK 2008 FORD ESCAPE BEARING ILLINOIS REGISTRATION '6' '1' '8','9' '0' 'R' 'V'.  \nVEHICLE/SUSPECT LAST SEEN UNKNOWN DIRECTION OF TRAVEL. \n\nSUSPECT is JAMES STEVEN RICHARDSON JR A BLACK, MALE, 28, 5 FEET 7 INCHES TALL, 200 POUNDS, HAS BLACK HAIR AND BROWN EYES. \nLAST SEEN WEARING A WHITE SHIRT AND TAN SHORTS . \n\nVICTIM JU'LYNNA SELINE WALLACERICHARDSON HAS BLACK HAIR AND BROWN EYES. \nLAST SEEN WEARING A PINK ONESIE . \n\nSUSPECT TOOK THE CHILD AFTER ASSAULTING THE MOTHER. THE SUSPECT STOLE THE MOTHER'S VEHICLE AFTER MAKING THREATS TO HARM THE CHILD. SUSPECT IS KNOWN TO BE VIOLENT AND HAVE WEAPONS. . \n\nPLEASE CALL 9 1 1 OR SAINT LOUIS METRO POLICE DEPARTMENT AT 314-444-5504 IF YOU HAVE ANY INFORMATION PERTAINING TO THIS ALERT.",
+  "sent_utc": "2023-08-19T12:31:05+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/19/93_2023-08-19T06_45_23-05_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/19/93_2023-08-19T06_45_23-05_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/19/93_2023-08-19T06_45_23-05_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/19/93_2023-08-19T06_45_23-05_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/19/93_2023-08-19T06_45_23-05_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
