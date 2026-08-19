@@ -1,0 +1,21 @@
+{
+  "id": "1770146611938245",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Imperial; Kern; Los Angeles; Orange; Riverside; San Bernardino; San Diego; Ventura, CA; at 3:23 PM on AUG 20, 2024 Effective until 5:23 PM. Message from WSLF/CAP.",
+  "extra_text": "AN AMBER ALERT IS BEING ISSUED BY THE CALIFORNIA HIGHWAY PATROL ON BEHALF OF THE LOS ANGELES COUNTY SHERIFFS DEPARTMENT.\n\nON AUGUST 14, 2024, AT APPROXIMATELY 1507 HOURS, WYMAN BRYANT AND WILLOW BRYANT WERE TAKEN BY DAVID WALKER JAMES AND TIFFANY BRYANT, IN THE CITY OF LOS ANGELES, LOS ANGELES COUNTY. WYMAN BRYANT IS A FOUR-YEAR-OLD WHITE MALE WITH BLONDE HAIR, BLUE EYES, STANDING 3 FEET 5 INCHES TALL AND WEIGHING 34 POUNDS.  WILLOW BRYANT IS A TWO-YEAR-OLD WHITE FEMALE WITH BLONDE HAIR AND BROWN EYES, STANDING 2 FEET TALL AND WEIGHING 20 POUNDS.  \n\nDAVID WALKER JAMES IS A 53-YEAR-OLD WHITE MALE WITH GRAY HAIR, BLUE EYES, WEIGHING 170 POUNDS. \n\nTIFFANY BRYANT IS A 39-YEAR-OLD WHITE FEMALE WITH BLONDE HAIR, BROWN EYES, STANDING 5 FEET AND 4 INCHES TALL AND WEIGHING 100 POUNDS.  \n\nTHE SUSPECTS WERE LAST SEEN DRIVING A 2008 CHAMPAGNE BUICK ENCLAVE, WITH PAPER LICENSE PLATES.\n\nIF SEEN CALL 9 1 1",
+  "sent_utc": "2024-08-19T22:23:35+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/19/1770146611938245.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/19/1770146611938245_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/19/1770146611938245_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/19/1770146611938245_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/19/1770146611938245_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
