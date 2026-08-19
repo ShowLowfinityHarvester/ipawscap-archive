@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-540f4d3e6b0a4b80b90ff4c3ef4703d9",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Lassen, CA; at 3:24 PM on AUG 17, 2021 Effective until 3:24 PM AUG 18, 2021. Message from WSLF/CAP.",
+  "extra_text": "PUBLIC NOTICE 8/17/2021 2pm\nNEW EVACUATION ORDERS \nThe emergency alert zone map can be accessed at:  community.zonehaven.com\n\nNEW MANDATORY EVACUATION ORDER  has been issued West of Hwy 395 from Milford Grade south to the County Rd A26/Garnier Rd \n\nALL PREVIOUSLY ISSUED ORDERS AND WARNINGS REMAIN IN PLACE\n\nSafety Message: People under evacuation order should leave immediately.  Those under warning who require assistance and those with pets and livestock should leave now.  Use caution, drive with your headlights on and yield to emergency personnel. Call dispatch for assistance evacuating 530-257-6121. An Emergency Shelter is located at Lassen Community College in Susanville.  The Shelter number is (530) 250-9004.  Large animals can be taken to Lassen County Fairgrounds.  Deputies will be going door to door to make notifications",
+  "sent_utc": "2021-08-17T22:24:46+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/OnSolve-540f4d3e6b0a4b80b90ff4c3ef4703d9.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/OnSolve-540f4d3e6b0a4b80b90ff4c3ef4703d9_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/OnSolve-540f4d3e6b0a4b80b90ff4c3ef4703d9_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/OnSolve-540f4d3e6b0a4b80b90ff4c3ef4703d9_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/17/OnSolve-540f4d3e6b0a4b80b90ff4c3ef4703d9_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
