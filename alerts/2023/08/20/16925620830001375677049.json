@@ -1,0 +1,21 @@
+{
+  "id": "16925620830001375677049",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Siskiyou, CA; at 1:08 PM on AUG 20, 2023 Effective until 9:08 PM. Message from WSLF/CAP.",
+  "extra_text": "Due to increased fire activity, the general area of Hamburg and Scott Bar and adjacent forest land should be immediately evacuated. \n\nVisit protect.genasys.com for current evacuation zone statuses Individuals in this area should immediately evacuate",
+  "sent_utc": "2023-08-20T20:08:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/16925620830001375677049.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/16925620830001375677049_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/16925620830001375677049_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/16925620830001375677049_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/16925620830001375677049_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
