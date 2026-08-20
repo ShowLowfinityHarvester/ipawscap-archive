@@ -1,0 +1,21 @@
+{
+  "id": "AS-CA-42d9d48b-43e5-4cde-9d06-0f2c34e4ae2b",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Imperial, CA; at 1:46 PM on AUG 20, 2023 Effective until 5:46 PM. Message from WSLF/CAP.",
+  "extra_text": "IMPERIAL COUNTY, CA  Due to the approaching Hurricane Hilary and its anticipated impacts, the authorities are issuing a **Evacuation Warning** for residents living in the township of Bombay Beach,Ca.**Reason for the Evacuation:** Hurricane Hilary has the potential to bring strong winds, heavy rain, and flash floods to our region. These conditions can pose significant risks to life and property. At this time, residents can contact Red Cross at 1-800-733-2766 for any questions regarding evacuation.",
+  "sent_utc": "2023-08-20T20:46:56+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/AS-CA-42d9d48b-43e5-4cde-9d06-0f2c34e4ae2b.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/AS-CA-42d9d48b-43e5-4cde-9d06-0f2c34e4ae2b_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/AS-CA-42d9d48b-43e5-4cde-9d06-0f2c34e4ae2b_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/AS-CA-42d9d48b-43e5-4cde-9d06-0f2c34e4ae2b_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/AS-CA-42d9d48b-43e5-4cde-9d06-0f2c34e4ae2b_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
