@@ -1,0 +1,21 @@
+{
+  "id": "1676896966281156",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Oregon; at 2:01 PM on AUG 20, 2021 Effective until 3:01 PM. Message from WSLF/CAP.",
+  "extra_text": "The Oregon State Police has requested activation of the Emergency Alert System for an AMBER Alert for Arson Mangum 6 years old and Manson Rowley 8 years old.  The victims were abducted from Price, Utah on August 18, 2021 at 1:00 am.  The suspect was driving a 2004 Gold Chevrolet Silverado, Washington license C 6 6 7 8 0 T which is possibly hauling a White 5th Wheel Travel Trailer, Washington license 5 1 3 1 1 A E.  The suspect has been identified as Derek Michael Rowley.  Suspect physical description: 33 years old, 6 feet tall, with blonde hair, unknown clothing description.  The victim is Arson Mangum, 6 years old last and Manson Rowley, 8 years old and were both last seen wearing a unknown color pajamas.  If you have any information about this incident, please contact the Oregon AMBER Alert Tip Line at 1 8 6 6 5 A M B E R 5, 1-866-526-2375 or call 911.  This has been an activation of the Oregon Emergency Alert System.",
+  "sent_utc": "2021-08-20T21:01:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1676896966281156.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1676896966281156_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1676896966281156_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1676896966281156_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1676896966281156_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
