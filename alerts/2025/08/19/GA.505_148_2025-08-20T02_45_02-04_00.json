@@ -1,0 +1,21 @@
+{
+  "id": "GA.505_148_2025-08-20T02:45:02-04:00",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Georgia; at 11:45 PM on AUG 19, 2025 Effective until 12:45 AM AUG 20, 2025. Message from WSLF/CAP.",
+  "extra_text": "FROM THE GEORGIA EMERGENCY MANAGEMENT AGENCY AND THE GEORGIA OFFICE OF HOMELAND SECURITY THIS IS THE REQUIRED MONTHLY TEST OF THE EMERGENCY ALERT SYSTEM.",
+  "sent_utc": "2025-08-20T06:45:02+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/GA.505_148_2025-08-20T02_45_02-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/GA.505_148_2025-08-20T02_45_02-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/GA.505_148_2025-08-20T02_45_02-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/GA.505_148_2025-08-20T02_45_02-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/GA.505_148_2025-08-20T02_45_02-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
