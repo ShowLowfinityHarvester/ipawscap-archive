@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-97ba806b-cd2a-4b57-9212-18b3a7908779",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Idaho; Malheur, OR; Spokane, WA; Lincoln, MT; at 11:10 AM on AUG 20, 2021 Effective until 1:10 PM. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the amber alert system.  This is the Idaho State Communications Center. We have just received this important information regarding children abducted in  Carbon County, Utah. The Carbon County Sheriff's Office are looking for two children who was last seen at Price, Utah and are believed to be in danger. Child one information: Mason Rowley, 8 years old white male, three foot eleven inches tall, fifty pounds, blue eyes, blonde hair, and wearing pajamas. Child two information: Arson Mangum, 6 years old white male, three foot five inches tall, 40 pounds, blue eyes, and blonde hair. Authorities say that the children may be in the company of Derek Michael Rowley and they may be traveling in a Gold Chevy Silverado Flatbed with Washington Plate 5 1 3 1 1 A E, hauling a White 5th Wheel Camp Trailer that was last seen heading toward Washington State. If you have any information on the where abouts of these children, please contact 9 1 1 immediately.",
+  "sent_utc": "2021-08-20T18:10:26+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-97ba806b-cd2a-4b57-9212-18b3a7908779.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-97ba806b-cd2a-4b57-9212-18b3a7908779_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-97ba806b-cd2a-4b57-9212-18b3a7908779_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-97ba806b-cd2a-4b57-9212-18b3a7908779_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-97ba806b-cd2a-4b57-9212-18b3a7908779_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
