@@ -1,0 +1,21 @@
+{
+  "id": "AK.002_364_2022-08-19T18:34:32-08:00",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Alaska; at 7:34 PM on AUG 19, 2022 Effective until 7:49 PM. Message from WSLF/CAP.",
+  "extra_text": "A required weekly test has been issued for all of Alaska.... this is only a test Log Only",
+  "sent_utc": "2022-08-20T02:34:32+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/19/AK.002_364_2022-08-19T18_34_32-08_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/19/AK.002_364_2022-08-19T18_34_32-08_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/19/AK.002_364_2022-08-19T18_34_32-08_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/19/AK.002_364_2022-08-19T18_34_32-08_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/19/AK.002_364_2022-08-19T18_34_32-08_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
