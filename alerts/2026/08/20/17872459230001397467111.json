@@ -1,0 +1,21 @@
+{
+  "id": "17872459230001397467111",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Siskiyou, CA; at 10:12 AM on AUG 20, 2026 Effective until 6:12 PM. Message from WSLF/CAP.",
+  "extra_text": "Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones 3309 and 3314 in the area of Ager Rd due to the Wildfire. Anyone in this area is ordered to leave now. \n\nFor the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov Siskiyou County Sheriffs Office has issued an EVACUATION ORDER for Zones 3309 & 3314 in the area of Ager Rd due to Wildfire. Anyone in this area is ordered to leave now. \n\nFor the latest information regarding this or any other emergency impacting Siskiyou County go to the ReadySiskiyou Website at www.readysiskiyou.gov",
+  "sent_utc": "2026-08-20T17:12:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872459230001397467111.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872459230001397467111_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872459230001397467111_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872459230001397467111_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872459230001397467111_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
