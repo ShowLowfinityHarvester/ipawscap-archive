@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-b38ca5a7656d46518571948c117d658d",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Nebraska; at 8:57 PM on AUG 19, 2025 Effective until 10:57 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a monthly test of the Emergency Alert System for broadcast stations and cable systems of Nebraska in cooperation with the FCC and other government authorities.  Equipment is being tested that can quickly provide warnings during emergencies.  If this had been an actual emergency, official information, news, or instructions would have followed the alert tone. This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2025-08-20T03:57:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/OnSolve-b38ca5a7656d46518571948c117d658d.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/OnSolve-b38ca5a7656d46518571948c117d658d_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/OnSolve-b38ca5a7656d46518571948c117d658d_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/OnSolve-b38ca5a7656d46518571948c117d658d_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/19/OnSolve-b38ca5a7656d46518571948c117d658d_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
