@@ -1,0 +1,21 @@
+{
+  "id": "1675385137791912",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Southeast Wisconsin; at 12:32 AM on AUG 20, 2021 Effective until 1:32 AM. Message from WSLF/CAP.",
+  "extra_text": "A Child Abduction Alert has been issued in the areas of Milwaukee. For the following child, Terrence J. Trammell age 13, Male, African American, 5 ft 3 inches, 120 lbs, Black hair, Brown eyes. \nChild was last seen in the 2700 block of N 59th St and is missing from Milwaukee, WI, last seen wearing Nike shirt with the words Run it Up or Run it Gang in red letters, all black BB Simon pants with rhinestones, white Nike Foamposite shoes with blue lines on them.\nLaw enforcement authorities believe the child may be in the company of four African American males. One suspect last seen wearing Black Nike Dookies Air Force Ones. \nThey may be traveling in a Silver Possible Kia or Chevy Impala Sedan unknown license plate, last seen heading North Bound on N 59th St.\nIf you have any information on the whereabouts of Terrence J. Trammell please contact Milwaukee Police Department at 414-935-7360.",
+  "sent_utc": "2021-08-20T07:32:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1675385137791912.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1675385137791912_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1675385137791912_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1675385137791912_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/1675385137791912_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
