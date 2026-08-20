@@ -1,0 +1,21 @@
+{
+  "id": "2698993419157955",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: El Paso, TX; at 1:33 PM on AUG 20, 2026 Effective until 3:33 PM. Message from WSLF/CAP.",
+  "extra_text": "Office of Emergency Management: Train derailment update, incident under control.  I-10 West Cotton off ramp and Cotton/Missouri will remain closed until further notice.",
+  "sent_utc": "2026-08-20T20:33:02+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/2698993419157955.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/2698993419157955_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/2698993419157955_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/2698993419157955_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/2698993419157955_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
