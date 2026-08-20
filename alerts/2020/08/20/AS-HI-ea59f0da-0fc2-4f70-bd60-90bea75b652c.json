@@ -1,0 +1,21 @@
+{
+  "id": "AS-HI-ea59f0da-0fc2-4f70-bd60-90bea75b652c",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Hawaii; at 2:14 AM on AUG 21, 2020 Effective until 3:14 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a required test of the Emergency Alert System for broadcast stations in Hawaii. No action required.",
+  "sent_utc": "2020-08-20T09:14:59+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/20/AS-HI-ea59f0da-0fc2-4f70-bd60-90bea75b652c.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/20/AS-HI-ea59f0da-0fc2-4f70-bd60-90bea75b652c_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/20/AS-HI-ea59f0da-0fc2-4f70-bd60-90bea75b652c_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/20/AS-HI-ea59f0da-0fc2-4f70-bd60-90bea75b652c_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/20/AS-HI-ea59f0da-0fc2-4f70-bd60-90bea75b652c_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
