@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-b9970ed9f1754870a6ea5410cd551336",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Siskiyou, CA; at 9:45 AM on AUG 20, 2023 Effective until 3:15 PM. Message from WSLF/CAP.",
+  "extra_text": "An evacuation order is being issued for Zone SIS-1304 west of Highway 96 due to a wildfire. Anyone in this area is ordered to immediately evacuate\n\nZone SIS-1206 south east of Happy Camp has been placed in an evacuation warning. Individuals within this zone should be prepared to immediately evacuation should conditions warrant\n\nvisit protect.genasys.com for current evacuation zone statuses",
+  "sent_utc": "2023-08-20T16:45:22+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/OnSolve-b9970ed9f1754870a6ea5410cd551336.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/OnSolve-b9970ed9f1754870a6ea5410cd551336_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/OnSolve-b9970ed9f1754870a6ea5410cd551336_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/OnSolve-b9970ed9f1754870a6ea5410cd551336_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/20/OnSolve-b9970ed9f1754870a6ea5410cd551336_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
