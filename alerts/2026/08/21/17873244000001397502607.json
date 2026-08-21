@@ -1,0 +1,21 @@
+{
+  "id": "17873244000001397502607",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Mobile, AL; at 8:00 AM on AUG 21, 2026 Effective until 2:00 PM. Message from WSLF/CAP.",
+  "extra_text": "MCCD Monthly Test\nDescription: Mobile Co Alert: THIS IS A TEST OF THE MOBILE COUNTY EMERGENCY ALERT SYSTEM.\n\nTo ensure others receive alerts, have them text \"MOBILEALERT\" to 226787",
+  "sent_utc": "2026-08-21T15:00:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873244000001397502607.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873244000001397502607_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873244000001397502607_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873244000001397502607_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873244000001397502607_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
