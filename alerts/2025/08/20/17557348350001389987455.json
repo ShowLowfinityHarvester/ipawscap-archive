@@ -1,0 +1,21 @@
+{
+  "id": "17557348350001389987455",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Coconino, AZ; at 5:07 PM on AUG 20, 2025 Effective until 10:07 PM. Message from WSLF/CAP.",
+  "extra_text": "Missing Person Alert\n\nThe Flagstaff Police Department is seeking assistance in locating a missing adult female. Connie Platero is approximately 5 feet tall and weighs around 140 pounds. She was last seen near the 1000 block of North Fourth Street, wearing a blue shirt and blue pants. She has white hair styled in braids, uses a cane for mobility, and is known to have cognitive impairment.\n\nIf you have any information regarding her whereabouts, please contact the Flagstaff Police Department at 928-774-1414 or dial 911.",
+  "sent_utc": "2025-08-21T00:07:15+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/20/17557348350001389987455.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/20/17557348350001389987455_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/20/17557348350001389987455_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/20/17557348350001389987455_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/20/17557348350001389987455_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
