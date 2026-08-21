@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-5467fcbada514eb08a81ad195c1fbf54",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Plumas, CA; at 5:21 PM on AUG 20, 2021 Effective until 5:21 PM AUG 21, 2021. Message from WSLF/CAP.",
+  "extra_text": "This is the Plumas County Sheriffs Office with a MANDATORY EVACUATION for Zone 21 and 33 \nThese are unpopulated areas but anyone in area leave IMMEDIATELY due to an imminent threat from the Dixie Fire\nYou should evacuate east toward Portola  \nIf you remain emergency personnel may not be able to help you",
+  "sent_utc": "2021-08-21T00:21:33+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/OnSolve-5467fcbada514eb08a81ad195c1fbf54.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/OnSolve-5467fcbada514eb08a81ad195c1fbf54_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/OnSolve-5467fcbada514eb08a81ad195c1fbf54_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/OnSolve-5467fcbada514eb08a81ad195c1fbf54_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/OnSolve-5467fcbada514eb08a81ad195c1fbf54_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
