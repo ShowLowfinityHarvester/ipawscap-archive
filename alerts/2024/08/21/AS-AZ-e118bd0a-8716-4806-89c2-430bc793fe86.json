@@ -1,0 +1,21 @@
+{
+  "id": "AS-AZ-e118bd0a-8716-4806-89c2-430bc793fe86",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Maricopa, AZ; at 3:23 AM on AUG 22, 2024 Effective until 1:23 PM. Message from WSLF/CAP.",
+  "extra_text": "A Silver Alert has been issued for Maricopa County. This is the Arizona Department of Public Safety. The Chandler Police Department is looking for 21-year-old Nicholas Flores. Nicholas is a Hispanic male, 5 feet 8 inches tall, 240 pounds, with black hair and brown eyes. He was last seen wearing a grey shirt and blue shorts and sandals. Nicholas may have a cell phone with him, but it does not have service. He was last seen on foot August 20, 2024, at 10:00 A.M. near Delaware Street and Commonwealth Avenue in Chandler, Arizona. Nicholas suffers from a condition which can make him seem to become lost or easily confused. If you have seen or have any contact with Isaiah, please call the Chandler Police Department 480-782-4130 or 9 1 1. If you have contact with the Silver Alert, Please call 911.  Monitor TV and Radio for updates.",
+  "sent_utc": "2024-08-21T10:23:39+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-e118bd0a-8716-4806-89c2-430bc793fe86.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-e118bd0a-8716-4806-89c2-430bc793fe86_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-e118bd0a-8716-4806-89c2-430bc793fe86_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-e118bd0a-8716-4806-89c2-430bc793fe86_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-e118bd0a-8716-4806-89c2-430bc793fe86_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
