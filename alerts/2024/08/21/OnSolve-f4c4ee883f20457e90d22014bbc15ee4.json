@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-f4c4ee883f20457e90d22014bbc15ee4",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Johnson, WY; at 11:57 AM on AUG 22, 2024 Effective until 3:57 PM. Message from WSLF/CAP.",
+  "extra_text": "EVACUTATION ORDER  RESIDENTS OF BUFFALO NEAR BUFFALO SUSSEX CUTOFF: Individuals with residences in the area of these alerts are under an evacuation order.  A shelter is open at Bomber Mountain Civic Center.  All other individuals are requested to remain out of the area.",
+  "sent_utc": "2024-08-21T18:57:58+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-f4c4ee883f20457e90d22014bbc15ee4.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-f4c4ee883f20457e90d22014bbc15ee4_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-f4c4ee883f20457e90d22014bbc15ee4_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-f4c4ee883f20457e90d22014bbc15ee4_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-f4c4ee883f20457e90d22014bbc15ee4_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
