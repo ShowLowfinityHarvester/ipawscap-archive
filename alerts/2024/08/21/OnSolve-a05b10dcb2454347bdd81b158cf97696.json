@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-a05b10dcb2454347bdd81b158cf97696",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Kittson, MN; at 1:51 PM on AUG 22, 2024 Effective until 2:51 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a required weekly test. This is only a Kittson County Test.",
+  "sent_utc": "2024-08-21T20:51:09+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-a05b10dcb2454347bdd81b158cf97696.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-a05b10dcb2454347bdd81b158cf97696_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-a05b10dcb2454347bdd81b158cf97696_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-a05b10dcb2454347bdd81b158cf97696_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-a05b10dcb2454347bdd81b158cf97696_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
