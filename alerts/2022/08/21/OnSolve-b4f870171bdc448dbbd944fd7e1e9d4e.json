@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-b4f870171bdc448dbbd944fd7e1e9d4e",
+  "event_code": "LEW",
+  "eas_text": "A civil authority has issued A LAW ENFORCEMENT WARNING for the following counties or areas: Morgan, CO; at 5:27 AM on AUG 21, 2022 Effective until 6:57 AM. Message from WSLF/CAP.",
+  "extra_text": "There is a Law enforcement emergency in the area of I-76 and Hwy 6. Three suspects are in the area and may be armed.  Please lock your vehicles and homes. Shelter In Place.  Do Not pickup hitchhikers or pedestrians.  \n\nA follow up alert will be sent once this emergency is over",
+  "sent_utc": "2022-08-21T12:27:08+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/OnSolve-b4f870171bdc448dbbd944fd7e1e9d4e.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/OnSolve-b4f870171bdc448dbbd944fd7e1e9d4e_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/OnSolve-b4f870171bdc448dbbd944fd7e1e9d4e_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/OnSolve-b4f870171bdc448dbbd944fd7e1e9d4e_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/OnSolve-b4f870171bdc448dbbd944fd7e1e9d4e_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
