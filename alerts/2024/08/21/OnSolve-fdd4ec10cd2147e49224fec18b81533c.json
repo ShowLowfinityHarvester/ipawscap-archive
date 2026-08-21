@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-fdd4ec10cd2147e49224fec18b81533c",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Johnson, WY; at 3:29 PM on AUG 22, 2024 Effective until 8:29 PM. Message from WSLF/CAP.",
+  "extra_text": "HOUSE DRAW FIRE UPDATE, residents north of I-90 from Tipperary Rd to northern and eastern county lines are being issued evac orders. For assistance contact dispatch at 307-217-1980. Bomber Mtn Center is open for evacuees.  Domestic animals are welcome with evacuees who must remain at shelter.  If animals need to be dropped off, contact JC Fairgrounds.",
+  "sent_utc": "2024-08-21T22:29:49+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-fdd4ec10cd2147e49224fec18b81533c.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-fdd4ec10cd2147e49224fec18b81533c_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-fdd4ec10cd2147e49224fec18b81533c_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-fdd4ec10cd2147e49224fec18b81533c_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-fdd4ec10cd2147e49224fec18b81533c_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
