@@ -1,0 +1,21 @@
+{
+  "id": "17872931720001397447128",
+  "event_code": "BLU",
+  "eas_text": "A civil authority has issued A BLUE ALERT for the following counties or areas: Arizona; at 11:19 PM on AUG 20, 2026 Effective until 9:19 AM AUG 21, 2026. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the Blue Alert System. This is the Arizona Department of Public Safety. A Pima County Sheriff's Office law enforcement officer was seriously injured, in the area of Star Valley. The Pima County Sheriff's Office is looking for Alex James Barnett. Barnett is 33 years old, bald, with brown eyes and distinctive tattoos on both arms. He was last seen wearing a red shirt and a black biker vest and riding a maroon 2020 Harley Davidson motorcycle bearing an Arizona license plate of D4A656. If you have any information about the Blue Alert, call 911. If you have any information about the Blue Alert, please call 911.",
+  "sent_utc": "2026-08-21T06:19:32+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872931720001397447128.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872931720001397447128_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872931720001397447128_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872931720001397447128_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/20/17872931720001397447128_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
