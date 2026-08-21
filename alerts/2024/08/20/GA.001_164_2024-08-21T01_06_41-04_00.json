@@ -1,0 +1,21 @@
+{
+  "id": "GA.001_164_2024-08-21T01:06:41-04:00",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Georgia; at 10:06 PM on AUG 21, 2024 Effective until 4:06 AM AUG 22, 2024. Message from WSLF/CAP.",
+  "extra_text": "We interrupt this program to bring you this important announcement This is an emergency missing child alert, Levis Call, Georgias Amber Alert. The Roswell Police Department and the Georgia Bureau of Investigation are looking for a Black 2013 Ford Edge with GA license tag P5870776. On August 20th, 2024, Tanner James St. Germain, a 4 year old white male, 36 inches tall weighing 42 pounds was abducted by Brian Thomas Betenia, a 40 year-old white male 5 feet 9 inches tall weighing 190 pounds, and was last seen at 235 Sloan Street Roswell, GA  believed to be traveling north. Tanner James St. Germain is believed to be in extreme danger. If you have any information on the whereabouts of Tanner James St. Germain or the Black 2013 Ford Edge with GA license tag P5870776 please dial 9-1-1.. The public can also provide information to the GBI tip-line at 1-800-597-TIPS andor the SeeSend app for iPhone and Android users.",
+  "sent_utc": "2024-08-21T05:06:41+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/20/GA.001_164_2024-08-21T01_06_41-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/20/GA.001_164_2024-08-21T01_06_41-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/20/GA.001_164_2024-08-21T01_06_41-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/20/GA.001_164_2024-08-21T01_06_41-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/20/GA.001_164_2024-08-21T01_06_41-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
