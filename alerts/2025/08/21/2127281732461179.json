@@ -1,0 +1,21 @@
+{
+  "id": "2127281732461179",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Los Angeles, CA; at 10:36 AM on AUG 21, 2025 Effective until 12:36 PM. Message from WSLF/CAP.",
+  "extra_text": "AN AMBER ALERT IS BEING ISSUED BY THE CALIFORNIA HIGHWAY PATROL ON BEHALF OF THE LOS ANGELES POLICE DEPARTMENT.\n\nON AUGUST 21 2025 AT 0130 AM JADEN HERNANDEZ AND DERECK RODRIGUEZ WERE ABDUCTED FROM LOS ANGELES, CALIFORNIA JADEN HERNANDEZ IS A 10 YEAR OLD HISPANIC MALE 4 FEET TALL WEIGHING 100 POUNDS WITH BLACK HAIR AND BROWN EYES IS BELIEVED TO BE WEARING BLACK SHIRT AND BLACK PANTS DEREK RODRIGUEZ IS A 2 YEAR OLD HISPANIC MALE 2 FEET TALL WEIGHING 20 POUNDS WITH RED HAIR AND BROWN EYES AND IS BELIEVED TO BE WEARING A DARK T SHIRT AND DARK PANTS\n\nTHE SUSPECT JACKELINE HERNANDEZ TORRES IS A 30 YEAR OLD HISPANIC FEMALE STANDING 5 FEET TALL WEIGHING 120 POUNDS WITH BLACK HAIR AND BROWN EYES AND IS BELIEVED TO BE WEARING A LIGHT COLORED HOODIE WITH DARK SWEATPANTS\n\nTHE SUSPECT IS BELIEVED TO BE DRIVING A 2008 BLK PT CRUISER WITH INDIANA LICENSE PLATE DFT105",
+  "sent_utc": "2025-08-21T17:36:30+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/2127281732461179.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/2127281732461179_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/2127281732461179_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/2127281732461179_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/2127281732461179_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
