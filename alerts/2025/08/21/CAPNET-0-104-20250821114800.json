@@ -1,0 +1,21 @@
+{
+  "id": "CAPNET-0-104-20250821114800",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Minnesota; at 9:48 AM on AUG 21, 2025 Effective until 10:03 AM. Message from MN HSEM.",
+  "extra_text": "TEST TEST TEST This is a Weekly coordinated test of the broadcast stations in your area. If this had been an actual emergency, official messages would have followed the alert tone. This concludes a test of the Emergency Alert System. TEST TEST TEST TEST This is only a test. TEST",
+  "sent_utc": "2025-08-21T16:48:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/CAPNET-0-104-20250821114800.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/CAPNET-0-104-20250821114800_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/CAPNET-0-104-20250821114800_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/CAPNET-0-104-20250821114800_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/CAPNET-0-104-20250821114800_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
