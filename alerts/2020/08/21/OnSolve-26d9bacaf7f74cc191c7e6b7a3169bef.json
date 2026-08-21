@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-26d9bacaf7f74cc191c7e6b7a3169bef",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Henry, VA; at 7:44 AM on AUG 22, 2020 Effective until 9:44 AM. Message from WSLF/CAP.",
+  "extra_text": "EMERGENCY MESSAGE FROM HENRY COUNTY PUBLIC SAFETY.  DUE TO HEAVY RAIN IN YOUR AREA WE ARE EXPERIENCING FLOODING. PLEASE WATCH YOUR AREA FOR RISING WATER AND TAKE PRECAUTIONS AS NEEDED. CALL 911 FOR EMERGENCIES ONLY.  THANK YOU",
+  "sent_utc": "2020-08-21T14:44:49+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-26d9bacaf7f74cc191c7e6b7a3169bef.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-26d9bacaf7f74cc191c7e6b7a3169bef_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-26d9bacaf7f74cc191c7e6b7a3169bef_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-26d9bacaf7f74cc191c7e6b7a3169bef_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-26d9bacaf7f74cc191c7e6b7a3169bef_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
