@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-f0907d94796f45798fcc86174695dffa",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Lassen, CA; at 2:37 PM on AUG 21, 2021 Effective until 2:37 PM AUG 22, 2021. Message from WSLF/CAP.",
+  "extra_text": "If you are sheltering in place west of Hwy 395 south of Janesville Grade to Milford, the fire is moving in that direction.    You need to evacuate now.   The area is already under Mandatory Evacuation Order. There is an emergency shelter at Lassen College.  Call dispatch at 530-257-6121 if you need assistance.  Deputies are going door to door to make notification.",
+  "sent_utc": "2021-08-21T21:37:06+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/21/OnSolve-f0907d94796f45798fcc86174695dffa.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/21/OnSolve-f0907d94796f45798fcc86174695dffa_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/21/OnSolve-f0907d94796f45798fcc86174695dffa_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/21/OnSolve-f0907d94796f45798fcc86174695dffa_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/21/OnSolve-f0907d94796f45798fcc86174695dffa_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
