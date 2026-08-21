@@ -1,0 +1,21 @@
+{
+  "id": "16295060340001351739241",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Suffolk, NY; at 5:33 PM on AUG 20, 2021 Effective until 6:33 PM. Message from WSLF/CAP.",
+  "extra_text": "This is the Suffolk County Office of Emergency Management with an important message for Fire Island. We are expecting inclement weather due to Tropical Storm Henri. We will keep you posted on the latest information. Please secure your home and take all necessary precautions. Monitor ferry and train schedules, which may be subject to cancellations.",
+  "sent_utc": "2021-08-21T00:33:54+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/16295060340001351739241.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/16295060340001351739241_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/16295060340001351739241_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/16295060340001351739241_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/16295060340001351739241_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
