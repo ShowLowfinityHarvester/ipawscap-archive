@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-3a079af7-b2a1-47ad-a789-58b8db9573f5",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Idaho; Malheur, OR; Lincoln, MT; Spokane, WA; at 11:15 PM on AUG 20, 2021 Effective until 1:15 AM AUG 21, 2021. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the amber alert system.  This is the Idaho State Communications Center. We have just received this important information regarding a child abducted in Bannock County. The Pocatello Police Department is looking for a child who was last seen at 961 Hiline Road in Pocatello and is believed to be in danger. The childs name is Koda Wayne Burky. He is a 12 year old, male with blonde hair and was last seen wearing red and blue tie die Mickey Mouse pants and blue and tan tie die Bart Simpson shirt. If you have any information on the where abouts of this child, please contact 9 1 1 immediately.",
+  "sent_utc": "2021-08-21T06:15:42+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-3a079af7-b2a1-47ad-a789-58b8db9573f5.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-3a079af7-b2a1-47ad-a789-58b8db9573f5_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-3a079af7-b2a1-47ad-a789-58b8db9573f5_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-3a079af7-b2a1-47ad-a789-58b8db9573f5_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/20/AS-ID-3a079af7-b2a1-47ad-a789-58b8db9573f5_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
