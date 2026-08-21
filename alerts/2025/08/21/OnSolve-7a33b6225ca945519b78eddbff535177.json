@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-7a33b6225ca945519b78eddbff535177",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Michigan; at 10:01 AM on AUG 21, 2025 Effective until 11:01 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a required weekly test of the Emergency Alert System, originating from the Michigan State Police State Emergency Operations Center in Lansing. If this had been an actual emergency such as a tornado, toxic material release, nuclear plant incident, widespread phone or power outage, or other state or local emergency that affects your safety, official messages would have followed the alert tone. This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2025-08-21T17:01:33+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/OnSolve-7a33b6225ca945519b78eddbff535177.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/OnSolve-7a33b6225ca945519b78eddbff535177_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/OnSolve-7a33b6225ca945519b78eddbff535177_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/OnSolve-7a33b6225ca945519b78eddbff535177_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/21/OnSolve-7a33b6225ca945519b78eddbff535177_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
