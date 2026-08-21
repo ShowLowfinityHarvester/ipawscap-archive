@@ -1,0 +1,21 @@
+{
+  "id": "17873293110001397467138",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Arizona; at 9:21 AM on AUG 21, 2026 Effective until 5:21 PM. Message from WSLF/CAP.",
+  "extra_text": "A SAFE Alert has been issued for Phoenix Police Department. This is the Arizona Department of Public Safety. Phoenix Police Department is looking for Payden Deontae Simmons last seen on foot wearing a green shirt with black shorts. If you have contact with this SAFE Alert, please call 911. Monitor TV and Radio for updates.",
+  "sent_utc": "2026-08-21T16:21:51+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873293110001397467138.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873293110001397467138_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873293110001397467138_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873293110001397467138_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/21/17873293110001397467138_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
