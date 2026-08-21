@@ -1,0 +1,21 @@
+{
+  "id": "NJ.000_2562_2018-08-21T00:51:06-04:00",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: New Jersey; at 9:51 PM on AUG 20, 2018 Effective until 10:51 PM. Message from WSLF/CAP.",
+  "extra_text": "THE NEW JERSEY OFFICE OF EMERGENCY MANAGEMENT IS CONDUCTING A TEST OF THE EMERGENCY ALERT SYSTEM. HAD THIS BEEN AN ACTUAL EMERGENCY THE ATTENTION SIGNAL YOU JUST HEARD WOULD HAVE BEEN FOLLOWED BY OFFICIAL INFORMATION OR INSTRUCTIONS. THIS CONCLUDES THIS TEST OF THE EMERGENCY ALERT SYSTEM.",
+  "sent_utc": "2018-08-21T04:51:06+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/20/NJ.000_2562_2018-08-21T00_51_06-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/20/NJ.000_2562_2018-08-21T00_51_06-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/20/NJ.000_2562_2018-08-21T00_51_06-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/20/NJ.000_2562_2018-08-21T00_51_06-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/20/NJ.000_2562_2018-08-21T00_51_06-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
