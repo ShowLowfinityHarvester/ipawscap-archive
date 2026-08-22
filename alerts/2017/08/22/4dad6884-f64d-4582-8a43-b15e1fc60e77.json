@@ -1,0 +1,21 @@
+{
+  "id": "4dad6884-f64d-4582-8a43-b15e1fc60e77",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: McLeod, MN; at 9:46 AM on AUG 22, 2017 Effective until 10:01 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the McLeod County IPAWS Required Weekly Test. This is only a test and no action is required.",
+  "sent_utc": "2017-08-22T16:46:11+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/22/4dad6884-f64d-4582-8a43-b15e1fc60e77.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/22/4dad6884-f64d-4582-8a43-b15e1fc60e77_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/22/4dad6884-f64d-4582-8a43-b15e1fc60e77_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/22/4dad6884-f64d-4582-8a43-b15e1fc60e77_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/22/4dad6884-f64d-4582-8a43-b15e1fc60e77_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
