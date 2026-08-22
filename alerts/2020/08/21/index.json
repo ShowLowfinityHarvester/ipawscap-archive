@@ -139,6 +139,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-528b5d11dfe8425187ca51986ae7cc42_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "OnSolve-20e01d166c9e4383b64679e2eaec0c45",
+      "event_code": "RMT",
+      "sent_utc": "2020-08-22T01:39:22+00:00",
+      "href": "OnSolve-20e01d166c9e4383b64679e2eaec0c45.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-20e01d166c9e4383b64679e2eaec0c45.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-20e01d166c9e4383b64679e2eaec0c45_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-20e01d166c9e4383b64679e2eaec0c45_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-20e01d166c9e4383b64679e2eaec0c45_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/21/OnSolve-20e01d166c9e4383b64679e2eaec0c45_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
