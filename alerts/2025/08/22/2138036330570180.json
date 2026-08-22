@@ -1,0 +1,21 @@
+{
+  "id": "2138036330570180",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Florida; at 1:50 AM on AUG 22, 2025 Effective until 3:50 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a Required Monthly Test of the Emergency Alert System. Had this been an actual emergency or dangerous situation, official messages and directions would have followed the alert tones. This test is brought to you by the Florida Division of Emergency Management, the Florida Association of Broadcasters, and your local broadcast station or cable provider. This concludes the required monthly test. A required monthly test is in effect for All Florida, tune to your local TV or radio station.",
+  "sent_utc": "2025-08-22T08:50:10+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
