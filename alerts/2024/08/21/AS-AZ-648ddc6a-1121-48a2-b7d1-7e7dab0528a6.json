@@ -1,0 +1,21 @@
+{
+  "id": "AS-AZ-648ddc6a-1121-48a2-b7d1-7e7dab0528a6",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Maricopa, AZ; at 7:31 PM on AUG 22, 2024 Effective until 5:31 AM AUG 23, 2024. Message from WSLF/CAP.",
+  "extra_text": "A Silver Alert has been issued for Phoenix Police Department.  This is the Arizona Department of Public Safety.  Phoenix Police Department is looking for a white female; Melinda Devine, 56 years old, 5 foot 8 inches, 190 lbs., brown hair with green eyes. Melinda was last seen wearing a tan shirt, tan shorts, eyeglasses and carrying a red bag/purse. Melinda suffers from a medical condition which may cause her to appear confused. She left, on foot, from the area of South 48th Street and East Warner Road in Phoenix, AZ, Maricopa County today. If you have contact with the Silver Alert, Please call 9 1 1.  Monitor TV and Radio for updates.",
+  "sent_utc": "2024-08-22T02:31:23+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-648ddc6a-1121-48a2-b7d1-7e7dab0528a6.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-648ddc6a-1121-48a2-b7d1-7e7dab0528a6_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-648ddc6a-1121-48a2-b7d1-7e7dab0528a6_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-648ddc6a-1121-48a2-b7d1-7e7dab0528a6_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/AS-AZ-648ddc6a-1121-48a2-b7d1-7e7dab0528a6_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
