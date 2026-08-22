@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-4fe9dba9-e1c2-4159-9f24-6fd3db079b17",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Elmore, ID; at 2:48 PM on AUG 22, 2026 Effective until 6:48 PM. Message from WSLF/CAP.",
+  "extra_text": "Brush fire in the area of South Simco Road and NW Carl Hickey Rd. Prepare to evacuate: Residents within 5 miles of this area, get set. Further updates will be provided when available.",
+  "sent_utc": "2026-08-22T21:48:05+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/AS-ID-4fe9dba9-e1c2-4159-9f24-6fd3db079b17.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/AS-ID-4fe9dba9-e1c2-4159-9f24-6fd3db079b17_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/AS-ID-4fe9dba9-e1c2-4159-9f24-6fd3db079b17_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/AS-ID-4fe9dba9-e1c2-4159-9f24-6fd3db079b17_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/AS-ID-4fe9dba9-e1c2-4159-9f24-6fd3db079b17_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
