@@ -1,0 +1,21 @@
+{
+  "id": "16927486490001375677135",
+  "event_code": "SPW",
+  "eas_text": "A civil authority has issued A SHELTER IN PLACE WARNING for the following counties or areas: Coconino, AZ; at 4:57 PM on AUG 22, 2023 Effective until 8:57 PM. Message from WSLF/CAP.",
+  "extra_text": "Residents/visitors in Tusayan & GC Village shelter in place NOW due to flooding in Tusayan.",
+  "sent_utc": "2023-08-22T23:57:29+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927486490001375677135.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927486490001375677135_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927486490001375677135_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927486490001375677135_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927486490001375677135_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
