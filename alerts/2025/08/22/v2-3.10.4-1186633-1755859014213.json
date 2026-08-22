@@ -1,0 +1,21 @@
+{
+  "id": "v2-3.10.4-1186633-1755859014213",
+  "event_code": "DMO",
+  "eas_text": "A civil authority has issued A PRACTICE/DEMO WARNING for the following counties or areas: New Hampshire; at 3:36 AM on AUG 22, 2025 Effective until 4:36 AM. Message from WSLF/CAP.",
+  "extra_text": "The New Hampshire State Police has activated the New Hampshire Emergency Alert System in order to conduct a practice demo.  This concludes this test of the New Hampshire Emergency Alert System. No action required.",
+  "sent_utc": "2025-08-22T10:36:55+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/v2-3.10.4-1186633-1755859014213.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/v2-3.10.4-1186633-1755859014213_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/v2-3.10.4-1186633-1755859014213_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/v2-3.10.4-1186633-1755859014213_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/v2-3.10.4-1186633-1755859014213_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
