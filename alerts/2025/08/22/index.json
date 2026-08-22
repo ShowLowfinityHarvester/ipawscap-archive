@@ -1,0 +1,18 @@
+{
+  "alerts": [
+    {
+      "id": "2138036330570180",
+      "event_code": "RMT",
+      "sent_utc": "2025-08-22T08:50:10+00:00",
+      "href": "2138036330570180.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/22/2138036330570180_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
+    }
+  ]
+}
