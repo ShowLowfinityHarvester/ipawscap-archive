@@ -1,0 +1,21 @@
+{
+  "id": "GA.508_33_2022-08-21T22:39:14-04:00",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Georgia; at 7:39 PM on AUG 21, 2022 Effective until 1:39 AM AUG 22, 2022. Message from WSLF/CAP.",
+  "extra_text": "WE INTERRUPT THIS PROGRAM TO BRING YOU THIS IMPORTANT ANNOUNCEMENT THIS IS AN EMERGENCY MISSING CHILD ALERT LEVIS CALL GEORGIAS AMBER ALERT. THE THOMAS COUNTY AND THE GEORGIA BUREAU OF INVESTIGATION ARE LOOKING FOR A GRAY 2004 TOYOTA CAMRY WITH FLORIDA TAG DFF 2048. ON AUGUST 21 2022 AURORA MOBLEY- MILLER 2 YEAR OLD WHITE FEMALE WAS ABDUCTED BY FELECIA ELAINE HORNE 50 YEAR OLD WHITE FEMALE 59 170 AND WAS LAST SEEN AT 4616 COUNTYLINE RD THOMASVILLE GA AND IS BELIEVED TO BE IN EXTREME DANGER. IF YOU HAVE ANY INFORMATION ON THE WHEREABOUTS OF AURORA MOBLEY- MILLER OR THE GRAY 2004 TOYOTA CAMRY WITH FLORIDA TAG DFF 2048 PLEASE DIAL 911. THE PUBLIC CAN ALSO PROVIDE INFORMATION TO THE GBI TIP-LINE AT 1-800-597-TIPS ANDOR THE SEESEND APP FOR IPHONE AND ANDROID USERS.",
+  "sent_utc": "2022-08-22T02:39:14+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/GA.508_33_2022-08-21T22_39_14-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/GA.508_33_2022-08-21T22_39_14-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/GA.508_33_2022-08-21T22_39_14-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/GA.508_33_2022-08-21T22_39_14-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/21/GA.508_33_2022-08-21T22_39_14-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
