@@ -1,0 +1,21 @@
+{
+  "id": "RochAlert-ALLHAZALERT-269186Eas",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Olmsted, MN; at 8:06 AM on AUG 22, 2018 Effective until 9:06 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System for the city of Rochester.  If this was a real emergency, instructions would follow with steps to take for personal safety.  This is only a test. There are no instructions for you at this time.  This test was conducted using the Rochester Alert EAS alerting system. There are no instructions for you at this time. This was only a test.",
+  "sent_utc": "2018-08-22T15:06:48+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/22/RochAlert-ALLHAZALERT-269186Eas.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/22/RochAlert-ALLHAZALERT-269186Eas_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/22/RochAlert-ALLHAZALERT-269186Eas_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/22/RochAlert-ALLHAZALERT-269186Eas_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/22/RochAlert-ALLHAZALERT-269186Eas_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
