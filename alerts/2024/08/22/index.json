@@ -167,6 +167,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/CAPNET-0-1339-20240822110100_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "bc295c1b2dd5332877df1d8f506fae",
+      "event_code": "RWT",
+      "sent_utc": "2024-08-22T22:31:53+00:00",
+      "href": "bc295c1b2dd5332877df1d8f506fae.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/bc295c1b2dd5332877df1d8f506fae.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/bc295c1b2dd5332877df1d8f506fae_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/bc295c1b2dd5332877df1d8f506fae_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/bc295c1b2dd5332877df1d8f506fae_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/bc295c1b2dd5332877df1d8f506fae_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
