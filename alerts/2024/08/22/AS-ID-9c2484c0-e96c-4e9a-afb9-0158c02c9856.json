@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-9c2484c0-e96c-4e9a-afb9-0158c02c9856",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Idaho; Malheur, OR; Lincoln, MT; Adams; Asotin; Columbia; Ferry; Garfield; Lincoln; Pend Oreille; Spokane; Stevens; Whitman, WA; at 8:04 AM on AUG 23, 2024 Effective until 10:04 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the State of Idaho Emergency Alert System. In the event of an emergency, this system would bring you important information. This test was conducted from the Idaho State Communications Center in Meridian, Idaho and is now concluded.",
+  "sent_utc": "2024-08-22T15:04:38+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/AS-ID-9c2484c0-e96c-4e9a-afb9-0158c02c9856.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/AS-ID-9c2484c0-e96c-4e9a-afb9-0158c02c9856_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/AS-ID-9c2484c0-e96c-4e9a-afb9-0158c02c9856_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/AS-ID-9c2484c0-e96c-4e9a-afb9-0158c02c9856_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/AS-ID-9c2484c0-e96c-4e9a-afb9-0158c02c9856_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
