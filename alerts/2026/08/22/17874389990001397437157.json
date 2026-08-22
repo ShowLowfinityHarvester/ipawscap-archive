@@ -1,0 +1,21 @@
+{
+  "id": "17874389990001397437157",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Arizona; at 3:49 PM on AUG 22, 2026 Effective until 11:49 PM. Message from WSLF/CAP.",
+  "extra_text": "This is the Arizona Department of Public Safety.  A SAFE Alert has been issued for Willcox Police Department. The Willcox Police Department is looking for 71 year old Danny Catano.  Danny is a white male, 5 feet 10 inches tall, 200 pounds and has dark brown hair with brown eyes.  He was last seen at 6:30 AM on 8/22/26 on foot wearing blue jeans, a floral shirt, white jacket and tennis shoes near the 900 block of West Rex Allen Drive in Willcox, Arizona.  Danny has a medical condition which may cause him to become lost or easily confused.  If you have seen Danny, please contact the Willcox Police Department at 520-254-1132 or call 911. If you have contact with this SAFE Alert, please call 911. Monitor TV and Radio for updates.",
+  "sent_utc": "2026-08-22T22:49:59+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/17874389990001397437157.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/17874389990001397437157_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/17874389990001397437157_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/17874389990001397437157_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/22/17874389990001397437157_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
