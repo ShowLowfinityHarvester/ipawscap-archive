@@ -1,0 +1,21 @@
+{
+  "id": "17243394570001382582076",
+  "event_code": "LEW",
+  "eas_text": "A civil authority has issued A LAW ENFORCEMENT WARNING for the following counties or areas: Coconino, AZ; at 8:10 AM on AUG 23, 2024 Effective until 4:10 PM. Message from WSLF/CAP.",
+  "extra_text": "The Grand Canyon National Park is searching for a missing 8-year old boy. Canyon Hartley was last seen at Mather Campground at the South Rim around midnight. Canyon is is 4'11\" tall. 60 pounds with strawberry blond hair, wearing a blue shirt, underpants, but no shoes.  Might be carrying a stuffed condor toy.  If seen, call 911, or Park Dispatch at 928-638-7805.",
+  "sent_utc": "2024-08-22T15:10:57+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/17243394570001382582076.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/17243394570001382582076_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/17243394570001382582076_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/17243394570001382582076_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/22/17243394570001382582076_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
