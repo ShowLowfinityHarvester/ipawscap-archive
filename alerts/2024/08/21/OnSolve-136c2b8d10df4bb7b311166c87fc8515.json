@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-136c2b8d10df4bb7b311166c87fc8515",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Sheridan, WY; at 7:50 PM on AUG 22, 2024 Effective until 11:50 PM. Message from WSLF/CAP.",
+  "extra_text": "Sheridan County Emergency Management WILDFIRE WARNING.  Voluntary Evacuation west of Double Cross Road north of Johnson County Line to Highway 14. Includes Clearmont and Arvada.  Shelter available in Buffalo at Bomber Mountain Civic Center. Prepare personal belongings and livestock for possible evacuation. Contact Sheridan County Emergency Management at 307-752-2174 with questions.",
+  "sent_utc": "2024-08-22T02:50:14+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-136c2b8d10df4bb7b311166c87fc8515.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-136c2b8d10df4bb7b311166c87fc8515_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-136c2b8d10df4bb7b311166c87fc8515_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-136c2b8d10df4bb7b311166c87fc8515_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/21/OnSolve-136c2b8d10df4bb7b311166c87fc8515_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
