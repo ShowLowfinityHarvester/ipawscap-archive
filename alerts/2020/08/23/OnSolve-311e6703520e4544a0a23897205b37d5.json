@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-311e6703520e4544a0a23897205b37d5",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Plumas, CA; at 4:08 PM on AUG 24, 2020 Effective until 6:08 PM. Message from WSLF/CAP.",
+  "extra_text": "This is the Plumas County Sheriffs Office with an Evacuation Advisory Alert for the residents of Chandler Road to Carol Lane East due to a wildfire\nPlease make preparations to evacuate. If you have special needs you may want to evacuate now\nIf you have large animals you should make arrangements to move them immediately",
+  "sent_utc": "2020-08-23T23:08:25+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/23/OnSolve-311e6703520e4544a0a23897205b37d5.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/23/OnSolve-311e6703520e4544a0a23897205b37d5_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/23/OnSolve-311e6703520e4544a0a23897205b37d5_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/23/OnSolve-311e6703520e4544a0a23897205b37d5_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/23/OnSolve-311e6703520e4544a0a23897205b37d5_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
