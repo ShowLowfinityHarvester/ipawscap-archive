@@ -1,0 +1,21 @@
+{
+  "id": "200110.855a0c9706fb74d0f048a6ed32ac57",
+  "event_code": "MEP",
+  "eas_text": "A civil authority has issued A MISSING AND ENDANGERED PERSON ALERT for the following counties or areas: Lauderdale, MS; at 8:35 AM on AUG 23, 2026 Effective until 12:05 PM. Message from WSLF/CAP.",
+  "extra_text": "77 yo black male Milton Hudson walked away from his house last night, unknown direction of travel in the area of 4800 block of Arundel road. last seen with dark shorts, socks, and no shirt. please check outlying buildings, sheds, and buildings.",
+  "sent_utc": "2026-08-23T15:35:32+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/23/200110.855a0c9706fb74d0f048a6ed32ac57.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/23/200110.855a0c9706fb74d0f048a6ed32ac57_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/23/200110.855a0c9706fb74d0f048a6ed32ac57_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/23/200110.855a0c9706fb74d0f048a6ed32ac57_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/23/200110.855a0c9706fb74d0f048a6ed32ac57_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
