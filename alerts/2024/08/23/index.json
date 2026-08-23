@@ -83,6 +83,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/23/OnSolve-a63de6f0ee494f4faa38435fdb0e44a3_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "OnSolve-dafa1e28c2934b9eafd8332def559db6",
+      "event_code": "EVI",
+      "sent_utc": "2024-08-23T22:05:28+00:00",
+      "href": "OnSolve-dafa1e28c2934b9eafd8332def559db6.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/23/OnSolve-dafa1e28c2934b9eafd8332def559db6.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/23/OnSolve-dafa1e28c2934b9eafd8332def559db6_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/23/OnSolve-dafa1e28c2934b9eafd8332def559db6_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/23/OnSolve-dafa1e28c2934b9eafd8332def559db6_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/23/OnSolve-dafa1e28c2934b9eafd8332def559db6_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
