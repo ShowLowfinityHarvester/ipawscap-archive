@@ -1,0 +1,21 @@
+{
+  "id": "8096807921916933",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: El Paso, TX; at 9:41 AM on AUG 23, 2017 Effective until 10:41 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a Required Monthly Test of the El Paso, Texas Emergency Alert System.  In the event of an emergency, this system would bring you important information.  This test is now concluded.",
+  "sent_utc": "2017-08-23T16:41:08+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/23/8096807921916933.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/23/8096807921916933_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/23/8096807921916933_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/23/8096807921916933_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/23/8096807921916933_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
