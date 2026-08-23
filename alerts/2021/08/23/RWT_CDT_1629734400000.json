@@ -1,0 +1,21 @@
+{
+  "id": "RWT_CDT_1629734400000",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following areas: Alabama; Arkansas; Iowa; Illinois; Kansas; Louisiana; Minnesota; Missouri; Mississippi; North Dakota; Nebraska; Oklahoma; South Dakota; Tennessee; Texas; Wisconsin; at 9:00 AM on AUG 23, 2021 Effective until 10:00 AM. Message from WSLF/CAP.",
+  "extra_text": "Test Message IPAWS OPEN CAP EAS Feed Configuration Test Message",
+  "sent_utc": "2021-08-23T16:00:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/RWT_CDT_1629734400000.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/RWT_CDT_1629734400000_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/RWT_CDT_1629734400000_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/RWT_CDT_1629734400000_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/RWT_CDT_1629734400000_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
