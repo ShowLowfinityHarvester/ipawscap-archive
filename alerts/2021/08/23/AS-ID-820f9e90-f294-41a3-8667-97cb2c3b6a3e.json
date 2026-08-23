@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-820f9e90-f294-41a3-8667-97cb2c3b6a3e",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Bannock; Bear Lake; Bingham; Bonneville; Butte; Caribou; Clark; Custer; Franklin; Fremont; Jefferson; Lemhi; Madison; Oneida; Power; Teton, ID; at 8:00 AM on AUG 23, 2021 Effective until 8:15 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the State of Idaho Emergency Alert System. In the event of an emergency, this system would bring you important information. This test was conducted from the Bannock County Sheriff's Office communications center in Pocatello Idaho, and is now concluded.",
+  "sent_utc": "2021-08-23T15:00:27+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/AS-ID-820f9e90-f294-41a3-8667-97cb2c3b6a3e.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/AS-ID-820f9e90-f294-41a3-8667-97cb2c3b6a3e_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/AS-ID-820f9e90-f294-41a3-8667-97cb2c3b6a3e_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/AS-ID-820f9e90-f294-41a3-8667-97cb2c3b6a3e_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/AS-ID-820f9e90-f294-41a3-8667-97cb2c3b6a3e_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
