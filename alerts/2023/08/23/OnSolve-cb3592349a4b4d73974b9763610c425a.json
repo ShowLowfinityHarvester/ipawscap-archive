@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-cb3592349a4b4d73974b9763610c425a",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Eureka; Humboldt; Lander; Lyon; Mineral; Pershing; Storey; Washoe; Carson City; Elko; Douglas; Churchill, NV; at 12:11 AM on AUG 23, 2023 Effective until 1:11 AM. Message from WSLF/CAP.",
+  "extra_text": "REQUIRED WEEKLY TEST",
+  "sent_utc": "2023-08-23T07:11:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/23/OnSolve-cb3592349a4b4d73974b9763610c425a.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/23/OnSolve-cb3592349a4b4d73974b9763610c425a_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/23/OnSolve-cb3592349a4b4d73974b9763610c425a_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/23/OnSolve-cb3592349a4b4d73974b9763610c425a_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/23/OnSolve-cb3592349a4b4d73974b9763610c425a_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
