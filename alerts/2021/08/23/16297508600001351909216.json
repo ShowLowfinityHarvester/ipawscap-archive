@@ -1,0 +1,21 @@
+{
+  "id": "16297508600001351909216",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Winneshiek, IA; at 1:34 PM on AUG 23, 2021 Effective until 9:34 PM. Message from WSLF/CAP.",
+  "extra_text": "Winneshiek County Emergency Management Alert: Please help us find missing special needs student. 18 year old with special needs with language barrier has gone missing from Decaruah. Please check your own or neighboring areas as well as vehicles for missing person. Go to Decorah PD Facebook for additional details. Please call 563-277-5124 if you see him.",
+  "sent_utc": "2021-08-23T20:34:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/16297508600001351909216.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/16297508600001351909216_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/16297508600001351909216_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/16297508600001351909216_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/16297508600001351909216_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
