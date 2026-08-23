@@ -1,0 +1,21 @@
+{
+  "id": "IN.201_824_2019-08-23T12:40:47-04:00",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Indiana; at 9:40 AM on AUG 23, 2019 Effective until 11:40 AM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS A TEST.  THIS IS ONLY A TEST.  THE INDIANA DEPARTMENT OF HOMELAND SECURITY  ALTERNATE WARNING SITE WITH THE INDIANA STATE POLICE IS CONDUCTING THE REQUIRED WEEKLY TEST OF THE EMERGENCY ALERT SYSTEM FOR ALL INDIANA LOCATIONS AS REQUIRED BY THE INDIANA STATE EAS PLAN.   THIS CONCLUDES THIS TEST OF THE EMERGENCY ALERT SYSTEM.",
+  "sent_utc": "2019-08-23T16:40:47+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/23/IN.201_824_2019-08-23T12_40_47-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/23/IN.201_824_2019-08-23T12_40_47-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/23/IN.201_824_2019-08-23T12_40_47-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/23/IN.201_824_2019-08-23T12_40_47-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2019/08/23/IN.201_824_2019-08-23T12_40_47-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
