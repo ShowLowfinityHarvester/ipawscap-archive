@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-9c88de9e6c1a4ea49a2287f654109240",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Wabasha, MN; at 8:12 AM on AUG 23, 2021 Effective until 8:42 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test. This is a test from the Wabasha County Sheriffs Office.",
+  "sent_utc": "2021-08-23T15:12:24+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/OnSolve-9c88de9e6c1a4ea49a2287f654109240.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/OnSolve-9c88de9e6c1a4ea49a2287f654109240_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/OnSolve-9c88de9e6c1a4ea49a2287f654109240_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/OnSolve-9c88de9e6c1a4ea49a2287f654109240_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/OnSolve-9c88de9e6c1a4ea49a2287f654109240_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
