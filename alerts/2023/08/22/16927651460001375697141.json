@@ -1,0 +1,21 @@
+{
+  "id": "16927651460001375697141",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Coconino, AZ; at 9:32 PM on AUG 22, 2023 Effective until 1:32 AM AUG 23, 2023. Message from WSLF/CAP.",
+  "extra_text": "Urgent: Tusayan water system affected by flood. It is recommended to boil water as a precautionary measure prior to consuming.",
+  "sent_utc": "2023-08-23T04:32:26+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927651460001375697141.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927651460001375697141_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927651460001375697141_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927651460001375697141_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/16927651460001375697141_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
