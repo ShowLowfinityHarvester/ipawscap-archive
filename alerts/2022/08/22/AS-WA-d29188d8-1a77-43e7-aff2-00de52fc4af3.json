@@ -1,0 +1,21 @@
+{
+  "id": "AS-WA-d29188d8-1a77-43e7-aff2-00de52fc4af3",
+  "event_code": "LEW",
+  "eas_text": "A civil authority has issued A LAW ENFORCEMENT WARNING for the following counties or areas: Lincoln, WA; at 11:11 PM on AUG 22, 2022 Effective until 12:11 AM AUG 23, 2022. Message from WSLF/CAP.",
+  "extra_text": "Lincoln County is currently searching for escaped inmate in the Reardan Area.  White Male, 37, 6 05, 210 lbs, bro hair and blu eyes.  Please remain inside as we search the area.  Call 911 to report suspicious activity. Please remain inside as Deputies search the area.  Call 911 to report suspicious activity.",
+  "sent_utc": "2022-08-23T06:11:04+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/AS-WA-d29188d8-1a77-43e7-aff2-00de52fc4af3.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/AS-WA-d29188d8-1a77-43e7-aff2-00de52fc4af3_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/AS-WA-d29188d8-1a77-43e7-aff2-00de52fc4af3_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/AS-WA-d29188d8-1a77-43e7-aff2-00de52fc4af3_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/AS-WA-d29188d8-1a77-43e7-aff2-00de52fc4af3_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
