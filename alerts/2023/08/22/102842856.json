@@ -1,0 +1,21 @@
+{
+  "id": "102842856",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following areas: Beauregard, LA; at 8:34 PM on AUG 22, 2023 Effective until 8:34 PM AUG 23, 2023. Message from WSLF/CAP.",
+  "extra_text": "The voluntary evacuation for the residents of the Town of Merryville, residents along Hwy 110W between Merryville and Singer and residence on Neale Field Rd East of Merryville is still in effect but we need to extend a notice to all residents from the intersection of Hwy 27 and Hwy 110, north to Otto Franklin Rd, and all of Neale Field Rd of the fire spreading and not yet contained. Transportation to evacuate is still available. Buses are still transporting from Merryville Town Hall to the DeRidder Junior High School. Voluntary evacuation order. Please follow instructions in CAP alert",
+  "sent_utc": "2023-08-23T03:34:23+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/102842856.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/102842856_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/102842856_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/102842856_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/102842856_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
