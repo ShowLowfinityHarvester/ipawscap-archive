@@ -1,0 +1,21 @@
+{
+  "id": "MI.237_407_2021-08-23T12:39:36-04:00",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Kalamazoo, MI; at 9:39 AM on AUG 23, 2021 Effective until 9:54 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a required weekly test of the portable Emergency Alert System for Kalamazoo County.  This is only a test. No action is required. This is only a test.",
+  "sent_utc": "2021-08-23T16:39:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/MI.237_407_2021-08-23T12_39_36-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/MI.237_407_2021-08-23T12_39_36-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/MI.237_407_2021-08-23T12_39_36-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/MI.237_407_2021-08-23T12_39_36-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/23/MI.237_407_2021-08-23T12_39_36-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
