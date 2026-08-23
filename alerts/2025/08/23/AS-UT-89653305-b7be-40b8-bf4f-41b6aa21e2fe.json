@@ -1,0 +1,21 @@
+{
+  "id": "AS-UT-89653305-b7be-40b8-bf4f-41b6aa21e2fe",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: San Juan, UT; at 1:51 PM on AUG 23, 2025 Effective until 4:51 PM. Message from WSLF/CAP.",
+  "extra_text": "Flash Flood Warning Deer Creek Burn Scar The National Weather Service in Grand Junction has issued a* Flash Flood Warning for...The Deer Creek Burn Scar in...Western Montrose County in west central Colorado...Northeastern San Juan County in southeastern Utah...* Until 445 PM MDT.* At 244 PM MDT Doppler radar indicated thunderstorms producingheavy rain over the Deer Creek Burn Scar. Between 0.2 and 0.4inches of rain have fallen. The expected rainfall rate is 0.7 to1.5 inches in 1 hour. Flash flooding is ongoing or expected tobegin shortly.Excessive rainfall over the burn scar will result in debris flowmoving through local basins including La Sal Creek and Twomile CreekBasins. The debris flow can consist of rock mud vegetation andother loose materials.HAZARD...Life threatening flash flooding. Thunderstormsproducing flash flooding in and around the Deer CreekBurn Scar.SOURCE...Radar.IMPACT...Life threatening flash flooding of areas in and aroundthe Deer Creek Burn Scar.* Some locations that will experience flash flooding include...Deer Creek Burn ScarThis includes the following streams and drainages...West Paradox Creek Sal Creek La and Ice Lake Creek.PRECAUTIONARY/PREPAREDNESS ACTIONS...This is a life threatening situation. Heavy rainfall will causeextensive and severe flash flooding of creeks...streams...andditches in the Deer Creek Burn Scar. Severe debris flows can also beanticipated across roads. Roads and driveways may be washed away inplaces. If you encounter flood waters...climb to safety.",
+  "sent_utc": "2025-08-23T20:51:04+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/23/AS-UT-89653305-b7be-40b8-bf4f-41b6aa21e2fe.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/23/AS-UT-89653305-b7be-40b8-bf4f-41b6aa21e2fe_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/23/AS-UT-89653305-b7be-40b8-bf4f-41b6aa21e2fe_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/23/AS-UT-89653305-b7be-40b8-bf4f-41b6aa21e2fe_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/23/AS-UT-89653305-b7be-40b8-bf4f-41b6aa21e2fe_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
