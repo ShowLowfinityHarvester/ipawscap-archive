@@ -1,0 +1,21 @@
+{
+  "id": "1127653864113718",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: North Dakota; at 9:29 PM on AUG 22, 2023 Effective until 10:29 PM. Message from WSLF/CAP.",
+  "extra_text": "An AMBER Alert is being issued by NDHP and ND BCI at the request of Mandan Police Department.  On August 22nd, 2 0 2 3 at 9:13 P M, Aynslee Thunder Hawk is believed to have been abducted from Southwest Mandan North Dakota. \nAynslee is described as a 2 year old Native American Female. She is 2 feet 4 inches tall, weighs 54 pounds and has brown hair and brown eyes. \nAynslee may be with Andrew Thunder Hawk who may be driving a 2 0 1 1 Navy Blue Ford Edge license plate number North Dakota 8 3 2  E B L. \n\nAndrew Thunder Hawk is described as a 38 year old Native American Male, is 6 foot 2 inches tall weighs 235 pounds. He has brown hair and brown eyes.\n\nAdditional information:  Aynslee is wearing a grey shirt with script: be good be happy, black leggings, and paw patrol shoes. Front plate is on the dash board of the vehicle. Andrew has a ribbon tattoo on left arm with names, brand on right arm. \n\n\nIf you have any information regarding this incident, please contact Mandan Police Department at 701-667-3250.\n\nThe above AMBER Alert information is available to the public by calling 5 1 1 and at www.ndresponse.gov/alert.",
+  "sent_utc": "2023-08-23T04:29:35+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/1127653864113718.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/1127653864113718_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/1127653864113718_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/1127653864113718_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/22/1127653864113718_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
