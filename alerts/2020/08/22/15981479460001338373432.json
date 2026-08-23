@@ -1,0 +1,21 @@
+{
+  "id": "15981479460001338373432",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Mille Lacs; Sherburne; Benton; Kanabec; Isanti; Crow Wing; Aitkin; Morrison, MN; at 6:59 PM on AUG 23, 2020 Effective until 7:59 PM. Message from WSLF/CAP.",
+  "extra_text": "Mille Lacs County Alert: Severe Thunderstorm Warning in this area",
+  "sent_utc": "2020-08-23T01:59:06+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/22/15981479460001338373432.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/22/15981479460001338373432_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/22/15981479460001338373432_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/22/15981479460001338373432_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/22/15981479460001338373432_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
