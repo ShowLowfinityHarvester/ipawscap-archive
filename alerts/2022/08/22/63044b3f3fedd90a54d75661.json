@@ -1,0 +1,21 @@
+{
+  "id": "63044b3f3fedd90a54d75661",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following areas: Louisiana; at 8:44 PM on AUG 22, 2022 Effective until 10:44 PM. Message from WSLF/CAP.",
+  "extra_text": "STATIONS AND CABLE SYSTEMS OF YOUR AREA.  EMERGENCY ALERT SYSTEM EQUIPMENT THAT CAN QUICKLY WARN YOU DURING EMERGENCIES IS BEING TESTED.  IF THIS HAD BEEN AN ACTUAL EMERGENCY, SUCH AS A TORNADO, FLOOD, EVACUATION, TOXIC RELEASE OR ANY EMERGENCY THAT YOU THE PUBLIC SHOULD BE TIMELY ALERTED, OFFICIAL MESSAGES WOULD HAVE FOLLOWED THE ALERT TONE.  THIS STATION SERVES AS A VITAL PART OF THE LOUISIANA STATE EMERGENCY ALERT SYSTEM.  THIS CONCLUDES THIS TEST OF THE EMERGENCY ALERT SYSTEM.",
+  "sent_utc": "2022-08-23T03:44:12+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/63044b3f3fedd90a54d75661.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/63044b3f3fedd90a54d75661_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/63044b3f3fedd90a54d75661_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/63044b3f3fedd90a54d75661_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/22/63044b3f3fedd90a54d75661_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
