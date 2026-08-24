@@ -1,0 +1,21 @@
+{
+  "id": "6a8c96cd3fedd91a34258de7",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Stephens, OK; at 12:14 PM on AUG 24, 2026 Effective until 2:14 PM. Message from WSLF/CAP.",
+  "extra_text": "At 2:10 PM  a large and destructive wildfire was burning out of control W of Velma spreading rapidly NE. Wildfires can damage or destroy structures and can harm or kill people and animals. For your safety EVACUATE IMMEDIATELY for The Stephens County Fairgrounds. Those between Sanner Road and Hargrove Street should LEAVE this area NOW to avoid injury or death. Do not delay to pack belongings. Reunification Center is setting up at Stephens County Fairgrounds.\nRoads in the area may be impacted by fire and smoke. Never drive into heavy smoke. SLOW DOWN & MOVE OVER for emergency vehicles.",
+  "sent_utc": "2026-08-24T19:14:28+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/6a8c96cd3fedd91a34258de7.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/6a8c96cd3fedd91a34258de7_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/6a8c96cd3fedd91a34258de7_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/6a8c96cd3fedd91a34258de7_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/6a8c96cd3fedd91a34258de7_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
