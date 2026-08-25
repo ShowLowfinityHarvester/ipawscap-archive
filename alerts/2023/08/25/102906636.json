@@ -1,0 +1,21 @@
+{
+  "id": "102906636",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following areas: Beauregard, LA; at 9:14 PM on AUG 25, 2023 Effective until 9:14 PM AUG 26, 2023. Message from WSLF/CAP.",
+  "extra_text": "Beauregard Parish Sheriff&#39;s Office has ordered a mandatory evacuation for the Junction community extending south to Neale Oilfield Road east to Seth Cole Road and North of Highway 190W with heightened attention between Schuetz and Seth Cole to include Pershing Loftin Bubba Loftin Graybow and Baldridge Roads. Shifting winds have accelerated the fires movement in this direction. There is an established shelter at the First Methodist Church and First Baptist Church in DeRidder if you need a place to shelter. Evacuation of Junction communities traveling Hwy 190W",
+  "sent_utc": "2023-08-26T04:14:16+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/102906636.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/102906636_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/102906636_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/102906636_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/102906636_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
