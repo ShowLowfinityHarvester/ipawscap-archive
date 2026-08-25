@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-e7b57724-5f1a-4d8b-b39c-8846190ea501",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Owyhee, ID; at 5:42 PM on AUG 24, 2026 Effective until 7:42 PM. Message from WSLF/CAP.",
+  "extra_text": "Owyhee County has issued a Level 3 Go Now Alert. From Dewey Peak to Black Warrior Mountain to Boulder Creek South directly to Flint Creek Road. Contact Owyhee County at 208-495-1205 for additional information.This message was sent by the Idaho State Communications Center and is now concluded.",
+  "sent_utc": "2026-08-25T00:42:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/AS-ID-e7b57724-5f1a-4d8b-b39c-8846190ea501.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/AS-ID-e7b57724-5f1a-4d8b-b39c-8846190ea501_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/AS-ID-e7b57724-5f1a-4d8b-b39c-8846190ea501_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/AS-ID-e7b57724-5f1a-4d8b-b39c-8846190ea501_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/24/AS-ID-e7b57724-5f1a-4d8b-b39c-8846190ea501_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
