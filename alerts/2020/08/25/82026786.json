@@ -1,0 +1,21 @@
+{
+  "id": "82026786",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following areas: Beauregard, LA; at 10:11 AM on AUG 26, 2020 Effective until 10:11 AM AUG 27, 2020. Message from WSLF/CAP.",
+  "extra_text": "Aug. 25, 2020\n \nBeauregard officials issue strong recommendation to evacuate for residents in low-lying areas, mobile homes\n \nForecasters warn this will be a major water and wind event\n \nDue to the National Weather Service&rsquo;s latest forecast for Hurricane Laura, Beauregard Parish officials are issuing a strong recommendation to evacuate for residents living in low-lying areas and those living in mobile homes or travel trailers.\n \nForecasters warn that Laura will be a major water and wind event. Please consider this warning when making your plans. Officials advise that if residents plan on leaving, they should do so on Tuesday.\n \nParish officials have said that if residents remain in their homes during the storm, there will be a period of time &mdash; up to 72 hours &mdash; when emergency officials will not be able to assist them.\n \nThe recommendation was issued Tuesday morning by the Beauregard Parish Unified Command Group, which includes officials with the Beauregard Parish Sheriff&rsquo;s Office, Office of Homeland Security and Emergency Preparedness, Beauregard Parish Police Jury, Town of Merryville, City of DeRidder and Beauregard Parish School Board.\n \n&mdash;30&mdash; Follow local media for further updates",
+  "sent_utc": "2020-08-25T17:11:51+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/25/82026786.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/25/82026786_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/25/82026786_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/25/82026786_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/25/82026786_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
