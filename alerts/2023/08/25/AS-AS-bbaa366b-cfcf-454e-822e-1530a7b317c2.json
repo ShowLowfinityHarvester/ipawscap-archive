@@ -1,0 +1,21 @@
+{
+  "id": "AS-AS-bbaa366b-cfcf-454e-822e-1530a7b317c2",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: American Samoa; at 4:00 PM on AUG 25, 2023 Effective until 4:15 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System. In the event of an actual emergency, you would be directed to stay tuned to this station for further information. This is only a test. No further action is required",
+  "sent_utc": "2023-08-25T23:00:10+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/AS-AS-bbaa366b-cfcf-454e-822e-1530a7b317c2.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/AS-AS-bbaa366b-cfcf-454e-822e-1530a7b317c2_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/AS-AS-bbaa366b-cfcf-454e-822e-1530a7b317c2_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/AS-AS-bbaa366b-cfcf-454e-822e-1530a7b317c2_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/25/AS-AS-bbaa366b-cfcf-454e-822e-1530a7b317c2_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
