@@ -1,0 +1,21 @@
+{
+  "id": "17561654660001389987550",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Maricopa, AZ; at 4:44 PM on AUG 25, 2025 Effective until 2:44 AM AUG 26, 2025. Message from WSLF/CAP.",
+  "extra_text": "This is the Arizona Department of Public Safety. A Silver Alert has been issued for Buckeye Police Department. Buckeye Police Department is looking for a black male, Richard Guy, 68 years old, 5 foot 9 inches, 190 lbs., bald head with brown eyes. Richard was last seen on foot with an unknown clothing description in the area of Miller Road and Sunrise Road in the city of Buckeye, Arizona, Maricopa County on 08/18/2025. If you have contact with this Silver Alert, please call 911. Monitor TV and Radio for updates.",
+  "sent_utc": "2025-08-25T23:44:26+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/25/17561654660001389987550.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/25/17561654660001389987550_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/25/17561654660001389987550_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/25/17561654660001389987550_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/25/17561654660001389987550_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
