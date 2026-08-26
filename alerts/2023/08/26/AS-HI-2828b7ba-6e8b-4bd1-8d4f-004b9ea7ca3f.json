@@ -1,0 +1,21 @@
+{
+  "id": "AS-HI-2828b7ba-6e8b-4bd1-8d4f-004b9ea7ca3f",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Maui, HI; at 4:28 PM on AUG 26, 2023 Effective until 7:28 PM. Message from WSLF/CAP.",
+  "extra_text": "Maui Emergency Management Agency has issued an evacuation order on Maui Island for Anapuni Loop to West Mahipulu Place. due to a brushfire. Repeat, Maui Emergency Management Agency has issued an evacuation order on Maui Island for Anapuni Loop to West Mahipulu Place due to a brushfire. Evacuate your family and pets now, do not delay. Expect conditions that may make driving difficult and watch for public safety personnel operating in the area. Sent by the Maui Emergency Management Agency.",
+  "sent_utc": "2023-08-26T23:28:03+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/26/AS-HI-2828b7ba-6e8b-4bd1-8d4f-004b9ea7ca3f.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/26/AS-HI-2828b7ba-6e8b-4bd1-8d4f-004b9ea7ca3f_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/26/AS-HI-2828b7ba-6e8b-4bd1-8d4f-004b9ea7ca3f_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/26/AS-HI-2828b7ba-6e8b-4bd1-8d4f-004b9ea7ca3f_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/26/AS-HI-2828b7ba-6e8b-4bd1-8d4f-004b9ea7ca3f_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
