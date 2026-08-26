@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-8faab117f5234593988939eba881cd5d",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Benton; Franklin; Walla Walla, WA; at 8:52 AM on AUG 26, 2021 Effective until 9:22 AM. Message from WSLF/CAP.",
+  "extra_text": "This is Franklin County Emergency Management conducting a required weekly test of the Emergency Alert System. If this were an actual emergency, this system would bring you important information. The following tones will conclude this test.",
+  "sent_utc": "2021-08-26T15:52:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-8faab117f5234593988939eba881cd5d.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-8faab117f5234593988939eba881cd5d_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-8faab117f5234593988939eba881cd5d_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-8faab117f5234593988939eba881cd5d_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-8faab117f5234593988939eba881cd5d_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
