@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-62ea3dc9299f4af087ab6967d6557b49",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Plumas, CA; at 9:57 AM on AUG 26, 2021 Effective until 9:57 AM AUG 27, 2021. Message from WSLF/CAP.",
+  "extra_text": "This is the Plumas County Sheriffs Office with an evacuation warning for the north side of Chandler Road from Quincy Jct. east to Hwy 70 and the north side of Hwy 70 from Chandler Rd east to just west of Massack due to a wildfire. Make preparations to evacuate. If you have special needs you may want to evacuate now. If you have large animals you should make arrangements to move them immediately. If the situation changes, more alerts may be sent with new information. To view your evacuation zone, go to community.zonehaven.com",
+  "sent_utc": "2021-08-26T16:57:08+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-62ea3dc9299f4af087ab6967d6557b49.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-62ea3dc9299f4af087ab6967d6557b49_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-62ea3dc9299f4af087ab6967d6557b49_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-62ea3dc9299f4af087ab6967d6557b49_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/26/OnSolve-62ea3dc9299f4af087ab6967d6557b49_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
