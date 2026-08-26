@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-a38494ab-e92f-42ff-bb5d-f13219b5180e",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Owyhee, ID; at 5:11 PM on AUG 25, 2026 Effective until 7:11 PM. Message from WSLF/CAP.",
+  "extra_text": "The Owyhee county has issued a level 3 go now as follows Flint Creek Road North to Dewey Peak East to Black Warrior Mountain East to Bachman grade and Milt Road Southeast to Oriana cutoff and mud flat Road Southwest on mudflat road to Antelope Ridge Road. Connecting to the Zone from the Big Grass Fire. Contact Owyhee county at 208-495-1154 for additional information. This message was sent by the Idaho State Communications Center and is now concluded.",
+  "sent_utc": "2026-08-26T00:11:23+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-a38494ab-e92f-42ff-bb5d-f13219b5180e.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-a38494ab-e92f-42ff-bb5d-f13219b5180e_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-a38494ab-e92f-42ff-bb5d-f13219b5180e_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-a38494ab-e92f-42ff-bb5d-f13219b5180e_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-a38494ab-e92f-42ff-bb5d-f13219b5180e_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
