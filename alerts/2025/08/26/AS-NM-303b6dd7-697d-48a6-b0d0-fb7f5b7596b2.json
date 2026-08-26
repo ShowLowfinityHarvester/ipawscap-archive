@@ -1,0 +1,21 @@
+{
+  "id": "AS-NM-303b6dd7-697d-48a6-b0d0-fb7f5b7596b2",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Lincoln, NM; at 1:06 PM on AUG 26, 2025 Effective until 3:36 PM. Message from WSLF/CAP.",
+  "extra_text": "Ruidoso Emergency Management: Flash Flooding is OBSERVED in the White Mountain Area. Ruidoso Emergency Management: Rapidly rising floodwaters have been reported in the White Mountain Area. For your safety move immediately to higher ground or SHELTER IN PLACE  on high ground! Do not cross low water points or water over the road. More Info can be found by tuning into 1490 AM  & 99.1 FM.",
+  "sent_utc": "2025-08-26T20:06:37+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/26/AS-NM-303b6dd7-697d-48a6-b0d0-fb7f5b7596b2.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/26/AS-NM-303b6dd7-697d-48a6-b0d0-fb7f5b7596b2_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/26/AS-NM-303b6dd7-697d-48a6-b0d0-fb7f5b7596b2_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/26/AS-NM-303b6dd7-697d-48a6-b0d0-fb7f5b7596b2_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/26/AS-NM-303b6dd7-697d-48a6-b0d0-fb7f5b7596b2_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
