@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-48b007fd48c5481495b5d2c581f75de4",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Kearney, NE; at 8:29 AM on AUG 27, 2024 Effective until 2:29 PM. Message from WSLF/CAP.",
+  "extra_text": "Kearney County will be testing and repairing waning sirens today 8/26/24  in Minden and Wilcox.",
+  "sent_utc": "2024-08-26T15:29:23+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/OnSolve-48b007fd48c5481495b5d2c581f75de4.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/OnSolve-48b007fd48c5481495b5d2c581f75de4_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/OnSolve-48b007fd48c5481495b5d2c581f75de4_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/OnSolve-48b007fd48c5481495b5d2c581f75de4_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/OnSolve-48b007fd48c5481495b5d2c581f75de4_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
