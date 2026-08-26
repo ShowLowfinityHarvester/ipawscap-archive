@@ -1,0 +1,21 @@
+{
+  "id": "AS-AZ-7b5e6f1d-4c43-4acf-8243-19b0e799bb67",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Maricopa, AZ; at 12:37 AM on AUG 27, 2024 Effective until 10:37 AM. Message from WSLF/CAP.",
+  "extra_text": "A Silver Alert has been issued for Maricopa County. This is the Arizona Department of Public Safety. The Mesa Police Department is looking for 77-year-old Gregory Tanchuk. Gregory is a white male, 5 feet 4 inches tall, 100 pounds, with grey hair and blue eyes. Gregory was last seen wearing a yellow t-shirt, black jacket, blue pants, and white tennis shoes. Gregory has a scruffy beard and mustache. Gregory was last seen on foot at 4:30 P.M. at his care facility in the area of 200 West Brown Street in Mesa. Gregory suffers from a medical condition which may cause him to appear confused. If you have seen Gregory, please contact the Mesa Police Department at 480-644-2211 or call 9 1 1. If you have contact with the Silver Alert, please call 9 1 1.  Monitor TV and Radio for updates.",
+  "sent_utc": "2024-08-26T07:37:33+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/AS-AZ-7b5e6f1d-4c43-4acf-8243-19b0e799bb67.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/AS-AZ-7b5e6f1d-4c43-4acf-8243-19b0e799bb67_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/AS-AZ-7b5e6f1d-4c43-4acf-8243-19b0e799bb67_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/AS-AZ-7b5e6f1d-4c43-4acf-8243-19b0e799bb67_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2024/08/26/AS-AZ-7b5e6f1d-4c43-4acf-8243-19b0e799bb67_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
