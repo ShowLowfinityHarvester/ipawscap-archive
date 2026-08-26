@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-d4061e4b-4465-40ec-8d3c-16bceb2cb6af",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Owyhee, ID; at 5:19 PM on AUG 25, 2026 Effective until 7:19 PM. Message from WSLF/CAP.",
+  "extra_text": "Owyhee County has issued a civil emergency Level 2 Set Alert for the area around Silver City. Contact Owyhee County at 2 0 8 4 9 5 1 1 5 4 for additional information. This message was sent by the Idaho State Communications Center and is now concluded.",
+  "sent_utc": "2026-08-26T00:19:24+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-d4061e4b-4465-40ec-8d3c-16bceb2cb6af.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-d4061e4b-4465-40ec-8d3c-16bceb2cb6af_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-d4061e4b-4465-40ec-8d3c-16bceb2cb6af_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-d4061e4b-4465-40ec-8d3c-16bceb2cb6af_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/25/AS-ID-d4061e4b-4465-40ec-8d3c-16bceb2cb6af_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
