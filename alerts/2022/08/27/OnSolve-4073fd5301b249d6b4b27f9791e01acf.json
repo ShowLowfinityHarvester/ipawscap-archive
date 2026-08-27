@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-4073fd5301b249d6b4b27f9791e01acf",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Nevada, CA; at 12:51 PM on AUG 27, 2022 Effective until 3:51 PM. Message from WSLF/CAP.",
+  "extra_text": "This is the Nevada County Sheriff's Office issuing an Evacuation ORDER for a Wildfire affecting zones NCO-E161 and Zone NCO-E397. There is a fast moving wildfire in the area of Still road EVACUATE IMMEDIATELY! Check Community.Zonehaven.com for updates.  Temporary Evacuation Point established at Bear River High School.",
+  "sent_utc": "2022-08-27T19:51:08+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/27/OnSolve-4073fd5301b249d6b4b27f9791e01acf.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/27/OnSolve-4073fd5301b249d6b4b27f9791e01acf_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/27/OnSolve-4073fd5301b249d6b4b27f9791e01acf_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/27/OnSolve-4073fd5301b249d6b4b27f9791e01acf_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2022/08/27/OnSolve-4073fd5301b249d6b4b27f9791e01acf_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
