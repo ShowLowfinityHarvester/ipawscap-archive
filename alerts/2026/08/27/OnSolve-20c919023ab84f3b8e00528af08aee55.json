@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-20c919023ab84f3b8e00528af08aee55",
+  "event_code": "LEW",
+  "eas_text": "A civil authority has issued A LAW ENFORCEMENT WARNING for the following counties or areas: Madison, NE; at 6:08 AM on AUG 27, 2026 Effective until 7:08 AM. Message from WSLF/CAP.",
+  "extra_text": "DANGEROUS INTERSECTION - MVC - TRAFFIC AVOID AREA 1ST & BENJAMIN AVE-TAKE ALTERNATE ROUTE",
+  "sent_utc": "2026-08-27T13:08:39+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/27/OnSolve-20c919023ab84f3b8e00528af08aee55.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/27/OnSolve-20c919023ab84f3b8e00528af08aee55_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/27/OnSolve-20c919023ab84f3b8e00528af08aee55_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/27/OnSolve-20c919023ab84f3b8e00528af08aee55_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/27/OnSolve-20c919023ab84f3b8e00528af08aee55_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
