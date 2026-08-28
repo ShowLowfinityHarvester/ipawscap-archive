@@ -1,0 +1,21 @@
+{
+  "id": "AS-LA-6870606c-dbe2-4ce0-b1d0-d8323d7cbc3c",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following areas: Assumption, LA; at 6:53 AM on AUG 28, 2021 Effective until 7:53 AM. Message from WSLF/CAP.",
+  "extra_text": "Assumption Parish issues Mandatory Evacuation of all of Assumption Parish. Due to incoming Hurricane IDA.  Residents are urged to stay safe as this a devastating event for our Parish.",
+  "sent_utc": "2021-08-28T13:53:25+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/AS-LA-6870606c-dbe2-4ce0-b1d0-d8323d7cbc3c.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/AS-LA-6870606c-dbe2-4ce0-b1d0-d8323d7cbc3c_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/AS-LA-6870606c-dbe2-4ce0-b1d0-d8323d7cbc3c_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/AS-LA-6870606c-dbe2-4ce0-b1d0-d8323d7cbc3c_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/AS-LA-6870606c-dbe2-4ce0-b1d0-d8323d7cbc3c_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
