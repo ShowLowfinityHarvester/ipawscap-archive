@@ -1,0 +1,21 @@
+{
+  "id": "c7f3b2df-8099-4fb0-a755-e64518ef7611",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Galveston, TX; at 3:50 PM on AUG 28, 2017 Effective until 4:05 PM. Message from WSLF/CAP.",
+  "extra_text": "The City of Santa Fe has issued a curfew effective between the hours 10 pm to 6 am. The City of Santa Fe has issued a curfew effective between the hours 10 pm to 6 am.",
+  "sent_utc": "2017-08-28T22:50:14+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/c7f3b2df-8099-4fb0-a755-e64518ef7611.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/c7f3b2df-8099-4fb0-a755-e64518ef7611_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/c7f3b2df-8099-4fb0-a755-e64518ef7611_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/c7f3b2df-8099-4fb0-a755-e64518ef7611_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/c7f3b2df-8099-4fb0-a755-e64518ef7611_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
