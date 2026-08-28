@@ -1,0 +1,21 @@
+{
+  "id": "102943039",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following areas: Beauregard, LA; at 10:31 AM on AUG 28, 2023 Effective until 10:31 AM AUG 29, 2023. Message from WSLF/CAP.",
+  "extra_text": "Beauregard Parish Sheriff&#39;s Office is downgrading the Mandatory Evacuation Order in your area to Voluntary in light of progress made with the Tiger Island Fire. We ask you to remain vigilant and informed to be prepared to leave it a higher threat arises again. This area is from the areas north of Merryville town limit to the Junction communities and east of Junction to Seth Cole Rd. This includes both sides of Highway 190W as far south as Neale Oil Field Road and far north as the Parish line. Be prepared to evacuate should the fire escalate",
+  "sent_utc": "2023-08-28T17:31:57+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/28/102943039.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/28/102943039_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/28/102943039_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/28/102943039_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/28/102943039_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
