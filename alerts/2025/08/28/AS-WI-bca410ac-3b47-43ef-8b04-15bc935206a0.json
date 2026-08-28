@@ -1,0 +1,21 @@
+{
+  "id": "AS-WI-bca410ac-3b47-43ef-8b04-15bc935206a0",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Walworth, WI; at 12:58 PM on AUG 28, 2025 Effective until 12:58 PM AUG 29, 2025. Message from WSLF/CAP.",
+  "extra_text": "Williams Bay water has been found to be contaminated.  Do not drink or cook with tap water. Use bottled water to drink, brush teeth, and cook with.  Water distribution for Williams Bay residence at Williams Bay High School from 3 PM - 7 PM through Monday evening.  Enter from Theatre Rd and exit onto HWY 67.  Prepare to give name and address.",
+  "sent_utc": "2025-08-28T19:58:34+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/28/AS-WI-bca410ac-3b47-43ef-8b04-15bc935206a0.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/28/AS-WI-bca410ac-3b47-43ef-8b04-15bc935206a0_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/28/AS-WI-bca410ac-3b47-43ef-8b04-15bc935206a0_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/28/AS-WI-bca410ac-3b47-43ef-8b04-15bc935206a0_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/28/AS-WI-bca410ac-3b47-43ef-8b04-15bc935206a0_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
