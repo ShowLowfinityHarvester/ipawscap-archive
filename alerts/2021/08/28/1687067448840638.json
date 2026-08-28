@@ -1,0 +1,21 @@
+{
+  "id": "1687067448840638",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Brevard; Broward; Charlotte; Collier; Miami-Dade; DeSoto; Glades; Hardee; Hendry; Hernando; Highlands; Hillsborough; Indian River; Lake; Lee; Manatee; Martin; Monroe; Okeechobee; Orange; Osceola; Palm Beach; Pasco; Pinellas; Polk; St. Lucie; Sarasota; Sumter, FL; at 5:14 AM on AUG 28, 2021 Effective until 7:14 AM. Message from WSLF/CAP.",
+  "extra_text": "A Florida AMBER Alert has been issued for Zaynah Obidy, a white female, 5 years old, 3 feet 6 inches tall, 65 pounds, brown hair and brown eyes and Zain Obidy, a white male, 6 years old, 4 feet tall, 90 pounds, brown hair and brown eyes. The children were last seen in the area of the 4400 block of Crystal Lake Drive in Deerfield Beach, Florida. The children may be in the company of Max Carias-Carrilo, a white-hispanic male, 5 feet 8 inches tall, 170 pounds, bald hair and brown eyes. Max has a very thick beard that does not have a mustache. They may be traveling in a 2011, black Bmw 535 series, FL tag number PJH1B.  If located, DO NOT APPROACH. Contact law enforcement immediately. If you have any information on the whereabouts of these children please contact the Broward County Sheriff's Office at 1-954-321-4226 or 911. #FLAMBER",
+  "sent_utc": "2021-08-28T12:14:45+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/1687067448840638.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/1687067448840638_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/1687067448840638_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/1687067448840638_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/28/1687067448840638_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
