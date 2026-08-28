@@ -1,0 +1,21 @@
+{
+  "id": "1f832904-41f1-4e68-ac6c-c7f82cb841c4",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Renville, MN; at 8:39 AM on AUG 28, 2017 Effective until 10:09 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a Required Weekly Test.  This is only a Test.",
+  "sent_utc": "2017-08-28T15:39:50+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/1f832904-41f1-4e68-ac6c-c7f82cb841c4.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/1f832904-41f1-4e68-ac6c-c7f82cb841c4_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/1f832904-41f1-4e68-ac6c-c7f82cb841c4_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/1f832904-41f1-4e68-ac6c-c7f82cb841c4_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/28/1f832904-41f1-4e68-ac6c-c7f82cb841c4_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
