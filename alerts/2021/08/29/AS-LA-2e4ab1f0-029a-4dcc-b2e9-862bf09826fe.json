@@ -1,0 +1,21 @@
+{
+  "id": "AS-LA-2e4ab1f0-029a-4dcc-b2e9-862bf09826fe",
+  "event_code": "TOE",
+  "eas_text": "A civil authority has issued A 911 TELEPHONE OUTAGE EMERGENCY for the following areas: Assumption, LA; at 6:00 PM on AUG 29, 2021 Effective until 7:00 PM. Message from WSLF/CAP.",
+  "extra_text": "911 is out in the Pierre Part area.  The direct line to Assumption Parish 911 Center is 985-369-7386.",
+  "sent_utc": "2021-08-30T01:00:50+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-2e4ab1f0-029a-4dcc-b2e9-862bf09826fe.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-2e4ab1f0-029a-4dcc-b2e9-862bf09826fe_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-2e4ab1f0-029a-4dcc-b2e9-862bf09826fe_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-2e4ab1f0-029a-4dcc-b2e9-862bf09826fe_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-2e4ab1f0-029a-4dcc-b2e9-862bf09826fe_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
