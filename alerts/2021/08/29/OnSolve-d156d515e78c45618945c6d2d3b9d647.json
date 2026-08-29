@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-d156d515e78c45618945c6d2d3b9d647",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following areas: Concordia, LA; at 4:43 PM on AUG 29, 2021 Effective until 5:43 PM. Message from WSLF/CAP.",
+  "extra_text": "Concordia Parish Hurricane Warning.  Expected 65 to 80 mph wind gusts, from 9:00 pm Sunday, until 9:00 am Monday.  Expected 2 to 4 inches of rain, beginning at 7:00 pm Sunday, lasting until Tuesday.  Please, stay indoors.",
+  "sent_utc": "2021-08-29T23:43:57+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-d156d515e78c45618945c6d2d3b9d647.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-d156d515e78c45618945c6d2d3b9d647_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-d156d515e78c45618945c6d2d3b9d647_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-d156d515e78c45618945c6d2d3b9d647_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-d156d515e78c45618945c6d2d3b9d647_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
