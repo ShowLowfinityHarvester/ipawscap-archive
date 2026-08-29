@@ -1,0 +1,21 @@
+{
+  "id": "1137171511645665",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Duval, FL; at 2:37 PM on AUG 29, 2023 Effective until 6:37 PM. Message from WSLF/CAP.",
+  "extra_text": "Express transportation is available via JTA Bus to the hurricane evacuation shelter at the Legends Center until 10 p.m. Transportation will resume tomorrow at 6 a.m., weather permitting. \n\nThe Bus Stop is located at Moncrief Road and Ken Knight Drive East (Bus Stop 3991).\n\nFor more information, visit www.jaxready.com.",
+  "sent_utc": "2023-08-29T21:37:10+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/1137171511645665.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/1137171511645665_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/1137171511645665_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/1137171511645665_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/1137171511645665_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
