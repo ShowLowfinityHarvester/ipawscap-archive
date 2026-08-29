@@ -1,0 +1,21 @@
+{
+  "id": "GA.002_1355_2020-08-29T16:12:47-04:00",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Georgia; at 1:12 PM on AUG 30, 2020 Effective until 7:12 PM. Message from WSLF/CAP.",
+  "extra_text": "WE INTERRUPT THIS PROGRAM TO BRING YOU THIS IMPORTANT ANNOUNCEMENT  THIS IS AN EMERGENCY MISSING CHILD ALERT LEVIS CALL GEORGIAS AMBER ALERT.  THE FEDERAL BUREA OF INVESTIGATION AND THE GEORGIA BUREAU OF INVESTIGATION ARE LOOKING FOR A MAROON 2016 ACURA MDX GEORGIA TAG RTJ0253. ON AUGUST 29 2020 MATEO ALEJANDRO MONTUFAR-BARRERA A 1 YEARS OLD HISPANIC MALE WAS ABDUCTED BY AN UNKNOWN HISPANIC MALE AGE 28 YEARS OLD AND  WAS LAST SEEN AT 14 CLEARVIEW DRIVE IN CHAMBLEE GEORGIA HEADING SOUTHWEST TOWARDS I-85 AND IS BELIEVED TO BE IN EXTREME DANGER.  IF YOU HAVE ANY INFORMATION ON THE WHEREABOUTS OF MATEO ALEJANDRO MONTUFAR-BARRERA OR THE MAROON 2016 ACURA MDX GEORGIA TAG RTJ0253 PLEASE DIAL 911.  THE PUBLIC CAN ALSO PROVIDE INFORMATION TO THE GBI TIP-LINE AT 1-800-597-TIPS AND THE SEESEND APP FOR IPHONE AND ANDROID USERS.",
+  "sent_utc": "2020-08-29T20:12:47+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/GA.002_1355_2020-08-29T16_12_47-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/GA.002_1355_2020-08-29T16_12_47-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/GA.002_1355_2020-08-29T16_12_47-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/GA.002_1355_2020-08-29T16_12_47-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/GA.002_1355_2020-08-29T16_12_47-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
