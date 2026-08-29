@@ -1,0 +1,21 @@
+{
+  "id": "AS-NV-65c23f97-9d07-4599-a7fa-940b147de127",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Elko, NV; at 9:13 PM on AUG 29, 2017 Effective until 1:13 AM AUG 30, 2017. Message from WSLF/CAP.",
+  "extra_text": "Notice: The following areas should prepare for a possible evacuation due to a wild land fire on Lower Lamoille Road - Hog Tommy and Green Crest Roads.  \nAreas include: The Marina Area - Bellwood, Blackstone, lower Lamoille Road, Hog Tommy and Green Crest. Sheriff Deputies may be arriving at your door; please be ready to evacuate upon notice.",
+  "sent_utc": "2017-08-30T04:13:55+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/AS-NV-65c23f97-9d07-4599-a7fa-940b147de127.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/AS-NV-65c23f97-9d07-4599-a7fa-940b147de127_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/AS-NV-65c23f97-9d07-4599-a7fa-940b147de127_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/AS-NV-65c23f97-9d07-4599-a7fa-940b147de127_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/AS-NV-65c23f97-9d07-4599-a7fa-940b147de127_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
