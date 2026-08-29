@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-a4cff6de044a440e85121d3b9c6071bd",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Whitman; Stevens; Spokane; Pend Oreille; Lincoln; Garfield; Ferry; Columbia; Asotin; Adams, WA; Sanders; Lincoln, MT; Shoshone; Nez Perce; Lewis; Latah; Kootenai; Idaho; Clearwater; Boundary; Bonner; Benewah, ID; at 9:11 AM on AUG 29, 2023 Effective until 12:11 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System of the Inland Northwest area. In the event of an actual emergency, broadcasters would be bringing you important public safety information.",
+  "sent_utc": "2023-08-29T16:11:18+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/OnSolve-a4cff6de044a440e85121d3b9c6071bd.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/OnSolve-a4cff6de044a440e85121d3b9c6071bd_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/OnSolve-a4cff6de044a440e85121d3b9c6071bd_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/OnSolve-a4cff6de044a440e85121d3b9c6071bd_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/OnSolve-a4cff6de044a440e85121d3b9c6071bd_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
