@@ -1,0 +1,21 @@
+{
+  "id": "CAPNET-0-367-20170829061500",
+  "event_code": "NPT",
+  "eas_text": "The United States Government has issued A NATIONAL PERIODIC TEST for the following counties or areas: Nevada; at 3:15 AM on AUG 29, 2017 Effective until 3:30 AM. Message from FEMA.",
+  "extra_text": "This is a National Test of the Emergency Alert System.  This is only a test.  Broadcast and cable operators in your area have developed this system in voluntary cooperation with FEMA, the F C C and local authorities to keep you informed in the event of an emergency.  If this had been an actual emergency an official message would have followed the alert tones.  This concludes this National Test of the Emergency Alert System. .",
+  "sent_utc": "2017-08-29T10:15:00+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/CAPNET-0-367-20170829061500.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/CAPNET-0-367-20170829061500_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/CAPNET-0-367-20170829061500_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/CAPNET-0-367-20170829061500_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/29/CAPNET-0-367-20170829061500_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
