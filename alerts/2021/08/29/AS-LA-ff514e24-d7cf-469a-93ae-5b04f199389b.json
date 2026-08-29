@@ -1,0 +1,21 @@
+{
+  "id": "AS-LA-ff514e24-d7cf-469a-93ae-5b04f199389b",
+  "event_code": "SPW",
+  "eas_text": "A civil authority has issued A SHELTER IN PLACE WARNING for the following areas: Assumption, LA; at 8:54 AM on AUG 29, 2021 Effective until 9:54 AM. Message from WSLF/CAP.",
+  "extra_text": "Assumption Parish Officials along with Assumption Parish Sheriff will enact a 4 p.m. curfew today (8/29/2021) due to Hurricane IDA and will stay in place until further notice.",
+  "sent_utc": "2021-08-29T15:54:26+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-ff514e24-d7cf-469a-93ae-5b04f199389b.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-ff514e24-d7cf-469a-93ae-5b04f199389b_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-ff514e24-d7cf-469a-93ae-5b04f199389b_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-ff514e24-d7cf-469a-93ae-5b04f199389b_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/AS-LA-ff514e24-d7cf-469a-93ae-5b04f199389b_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
