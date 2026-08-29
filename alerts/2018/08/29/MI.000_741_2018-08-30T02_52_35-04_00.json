@@ -1,0 +1,21 @@
+{
+  "id": "MI.000_741_2018-08-30T02:52:35-04:00",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Barry; Berrien; Cass; Kalamazoo; St. Joseph; Van Buren, MI; at 11:52 PM on AUG 29, 2018 Effective until 1:52 AM AUG 30, 2018. Message from WSLF/CAP.",
+  "extra_text": "AMBER ALERT BEING ISSUED FOR STURGIS PD FOR 3 CHILDREN TAKEN BY THEIR FATHER AFTER ASSAULTING THE MOTHER OF THE CHILDREN.  THE FATHER FERNANDO CRUZ IS ARMED WITH HANDGUN. HE IS DRIVING A 2009 CHEVY TRAVERSE MAROON IN COLOR MI REG DWH9204.  THE CHILDREN AGES 2 4 AND 5 YEARS OLD WERE LAST SEEN AT 108 PIONEER STREET STURGIS MI.  2 YR OLD ALDO CRUZ IS WEARING A BLUE T-SHIRT WITH A DIAPER 4 YR OLD MATTEO NIEVES IS WEARING RED SHORTS AND A BLUE T-SHIRT 5 YR OLD CHELSEY LOPEZ IS WEARING A PINK SHIRT WITH BLUE PAJAMA PANTS.  IF LOCATED DIAL 911 OR CONTACT STURGIS PD AT 269-625-7069.",
+  "sent_utc": "2018-08-30T06:52:35+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/MI.000_741_2018-08-30T02_52_35-04_00.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/MI.000_741_2018-08-30T02_52_35-04_00_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/MI.000_741_2018-08-30T02_52_35-04_00_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/MI.000_741_2018-08-30T02_52_35-04_00_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/MI.000_741_2018-08-30T02_52_35-04_00_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
