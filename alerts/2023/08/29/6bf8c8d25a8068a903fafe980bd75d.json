@@ -1,0 +1,21 @@
+{
+  "id": "6bf8c8d25a8068a903fafe980bd75d",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Indiana; at 8:47 AM on AUG 29, 2023 Effective until 9:02 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Indiana EAS System. This test is conducted in coordination with the Indiana Broadcasters as a public service to the citizens of Indiana.",
+  "sent_utc": "2023-08-29T15:47:51+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/6bf8c8d25a8068a903fafe980bd75d.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/6bf8c8d25a8068a903fafe980bd75d_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/6bf8c8d25a8068a903fafe980bd75d_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/6bf8c8d25a8068a903fafe980bd75d_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2023/08/29/6bf8c8d25a8068a903fafe980bd75d_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
