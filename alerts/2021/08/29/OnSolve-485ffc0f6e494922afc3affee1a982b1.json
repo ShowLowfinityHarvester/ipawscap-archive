@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-485ffc0f6e494922afc3affee1a982b1",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Lassen, CA; at 7:49 PM on AUG 29, 2021 Effective until 7:49 PM AUG 30, 2021. Message from WSLF/CAP.",
+  "extra_text": "NEW EVACUATION WARNING FOR \n\nBogard area north of Hwy 44 from Pittville Rd east to County Rd A21 and north to Blacks Mtn, Harvey Mtn and south of Ashurst Lake\n\nWest of County Rd A1 from the A21 intersection north to Forest Services Route 32NO2 \n\nFind the status of your address at community.zonehaven.com\n\nALL PREVIOUSLY ISSUED ORDERS AND WARNINGS REMAIN IN PLACE\n\nIf you need assistance evacuating call 530-257-6121",
+  "sent_utc": "2021-08-30T02:49:43+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-485ffc0f6e494922afc3affee1a982b1.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-485ffc0f6e494922afc3affee1a982b1_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-485ffc0f6e494922afc3affee1a982b1_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-485ffc0f6e494922afc3affee1a982b1_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/29/OnSolve-485ffc0f6e494922afc3affee1a982b1_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
