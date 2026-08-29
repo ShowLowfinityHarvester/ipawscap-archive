@@ -125,6 +125,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/CAPNET-1-18755-20180829131000_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "OnSolve-f35b45428de84b5d81914ba9f9a69755",
+      "event_code": "RWT",
+      "sent_utc": "2018-08-29T18:51:29+00:00",
+      "href": "OnSolve-f35b45428de84b5d81914ba9f9a69755.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/OnSolve-f35b45428de84b5d81914ba9f9a69755.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/OnSolve-f35b45428de84b5d81914ba9f9a69755_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/OnSolve-f35b45428de84b5d81914ba9f9a69755_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/OnSolve-f35b45428de84b5d81914ba9f9a69755_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/29/OnSolve-f35b45428de84b5d81914ba9f9a69755_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
