@@ -1,0 +1,21 @@
+{
+  "id": "533954629232364",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: El Paso, TX; at 11:00 AM on AUG 30, 2020 Effective until 12:00 PM. Message from WSLF/CAP.",
+  "extra_text": "Get tested! COVID testing sites open! No appt. needed. For info: epstrong.org/testing.php\n \nHagase la prueba de COVID! Sitios de prueba disponible sin cita. Mas info: epstrong.org/testing.php",
+  "sent_utc": "2020-08-29T18:00:25+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/533954629232364.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/533954629232364_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/533954629232364_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/533954629232364_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/29/533954629232364_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
