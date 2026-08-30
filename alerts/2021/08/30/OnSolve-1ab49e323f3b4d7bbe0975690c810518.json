@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-1ab49e323f3b4d7bbe0975690c810518",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Plumas, CA; at 12:52 PM on AUG 30, 2021 Effective until 12:52 PM AUG 31, 2021. Message from WSLF/CAP.",
+  "extra_text": "This is the Plumas County Sheriff's Office with an evacuation warning for residents North of Highway 70 at Lee Summit East to the Nervino Airport.  Make preparations to evacuate. If you have special needs you may want to evacuate now. If you have large animals you should make arrangements to move them immediately. If the situation changes, more alerts may be sent with new information. To view your evacuation zone, go to community.zonehaven.com.",
+  "sent_utc": "2021-08-30T19:52:34+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-1ab49e323f3b4d7bbe0975690c810518.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-1ab49e323f3b4d7bbe0975690c810518_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-1ab49e323f3b4d7bbe0975690c810518_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-1ab49e323f3b4d7bbe0975690c810518_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-1ab49e323f3b4d7bbe0975690c810518_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
