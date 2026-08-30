@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-0dcc134a69b74256beb66aea852eeac7",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Colorado; at 1:19 PM on AUG 30, 2021 Effective until 2:19 PM. Message from WSLF/CAP.",
+  "extra_text": "THIS IS A TEST.  This is a statewide required MONTHLY TEST of the emergency alert system originating from the Colorado Office of Emergency Management. THIS IS ONLY A TEST.",
+  "sent_utc": "2021-08-30T20:19:59+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-0dcc134a69b74256beb66aea852eeac7.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-0dcc134a69b74256beb66aea852eeac7_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-0dcc134a69b74256beb66aea852eeac7_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-0dcc134a69b74256beb66aea852eeac7_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/30/OnSolve-0dcc134a69b74256beb66aea852eeac7_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
