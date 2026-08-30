@@ -1,0 +1,21 @@
+{
+  "id": "b9fcd243-d0e6-6615-7c45-318286e69e2a",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Indiana; at 4:52 AM on AUG 30, 2018 Effective until 7:52 AM. Message from WSLF/CAP.",
+  "extra_text": "A Statewide AMBER Alert has been declared, repeating, a Statewide AMBER Alert has been declared.\nThe Indiana State Police has requested the activation of an AMBER Alert on behalf of the Sturgis Police Department out of Sturgis, Michigan.  \nThe victim, Matteo Nieves, is an 4 year old Hispanic male.  He was last seen wearing a blue t-shirt and red shorts. He was last seen Wednesday, August 29, 2018 in Sturgis, Michigan and is believed to be in extreme danger.  \nThe victim, Chelsey Lopez, is an 5 year old Hispanic female. She was last seen wearing pink t-shirt and blue pajama pants.  She was last seen Wednesday, August 29, 2018 in Sturgis, Michigan and is believed to be in extreme danger.  \nThe victim, Aldo Cruz, is an 2 year old Hispanic male.  He was last seen wearing blue t-shirt and a diaper. He was last seen Wednesday, August 29, 2018 in Sturgis, Michigan and is believed to be in extreme danger.  \nThe suspect, Fernando Cruz, is an 37 year old Hispanic male, 5 feet 8 inches tall, 150 pounds, black hair, and brown eyes.  \nThe suspect vehicle is a black 2009 Chevy Traverse with Michigan plate DWH9204\nIf you have any information on this incident, contact the Sturgis Police Department at 269-651-3231 or 911.\nThis concludes this AMBER Alert. If you have any information on this incident, contact the Sturgis Police Department at 269-651-3231 or 911.",
+  "sent_utc": "2018-08-30T11:52:46+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/30/b9fcd243-d0e6-6615-7c45-318286e69e2a.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/30/b9fcd243-d0e6-6615-7c45-318286e69e2a_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/30/b9fcd243-d0e6-6615-7c45-318286e69e2a_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/30/b9fcd243-d0e6-6615-7c45-318286e69e2a_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2018/08/30/b9fcd243-d0e6-6615-7c45-318286e69e2a_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
