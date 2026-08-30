@@ -1,0 +1,21 @@
+{
+  "id": "635b88fc-cf67-4f9d-9c63-4c177fb98a53",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following counties or areas: Leon, TX; at 12:00 PM on AUG 30, 2017 Effective until 3:00 PM. Message from WSLF/CAP.",
+  "extra_text": "As of 12 noon today Leon County has lifted the burn ban until further notice.",
+  "sent_utc": "2017-08-30T19:00:43+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/30/635b88fc-cf67-4f9d-9c63-4c177fb98a53.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/30/635b88fc-cf67-4f9d-9c63-4c177fb98a53_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/30/635b88fc-cf67-4f9d-9c63-4c177fb98a53_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/30/635b88fc-cf67-4f9d-9c63-4c177fb98a53_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2017/08/30/635b88fc-cf67-4f9d-9c63-4c177fb98a53_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
