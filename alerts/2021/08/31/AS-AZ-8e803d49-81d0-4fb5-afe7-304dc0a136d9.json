@@ -1,0 +1,21 @@
+{
+  "id": "AS-AZ-8e803d49-81d0-4fb5-afe7-304dc0a136d9",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Arizona; at 12:42 PM on AUG 31, 2021 Effective until 12:57 PM. Message from WSLF/CAP.",
+  "extra_text": "The Arizona Department of Public Safety is conducting a required weekly test of the Emergency Activation System. This is only a Test.",
+  "sent_utc": "2021-08-31T19:42:30+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-8e803d49-81d0-4fb5-afe7-304dc0a136d9.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-8e803d49-81d0-4fb5-afe7-304dc0a136d9_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-8e803d49-81d0-4fb5-afe7-304dc0a136d9_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-8e803d49-81d0-4fb5-afe7-304dc0a136d9_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-8e803d49-81d0-4fb5-afe7-304dc0a136d9_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
