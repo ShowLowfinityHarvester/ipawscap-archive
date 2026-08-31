@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-45cd5b6f7b7542ea901cb1b3cdbdf06d",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Montana; at 5:47 PM on SEP 1, 2020 Effective until 5:47 PM SEP 2, 2020. Message from WSLF/CAP.",
+  "extra_text": "he Great Falls Police Dept has issued an Amber Alert for Ezekiel and Savanna Gonzalez, taken from school at 1pm today by their non-custodial mother, Isabella Martinez, and Davin Dahl. They are in a dk blue 1998 Cadillac DeVille MT plate 2-66011B. EZEKIEL: 8 year old Hispanic male, blk hair, brn eyes, 3 ft tall, 40 lbs SAVANNAH: 7 year old Hispanic female, brn hair, brn eyes, 3 ft tall, 35 lbs MARTINEZ: 26 year old Hispanic female, brn hair, hazel eyes, 5 foot 4tall, 160 lbs DAHL 30 year old Caucasian male, brn hair, hazel eyes, 6 ft tall, 140 lbs CALL 911 with info, see GFPD FB page for pics",
+  "sent_utc": "2020-09-01T00:47:43+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/OnSolve-45cd5b6f7b7542ea901cb1b3cdbdf06d.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/OnSolve-45cd5b6f7b7542ea901cb1b3cdbdf06d_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/OnSolve-45cd5b6f7b7542ea901cb1b3cdbdf06d_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/OnSolve-45cd5b6f7b7542ea901cb1b3cdbdf06d_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/OnSolve-45cd5b6f7b7542ea901cb1b3cdbdf06d_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
