@@ -1,0 +1,21 @@
+{
+  "id": "17882182410001397587287",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Arizona; at 4:17 PM on AUG 31, 2026 Effective until 2:17 AM SEP 1, 2026. Message from WSLF/CAP.",
+  "extra_text": "A SAFE Alert has been issued for Mohave County Sheriff's Office. This is the Arizona Department of Public Safety. The Mohave County Sheriff's Office is looking for a white male, Michael Leon Hopkins, 65-years-old, approximately 5 feet 8 inches tall and weighing 164 pounds, with blonde hair and blue eyes. He was last seen wearing light blue jeans, dark blue t-shirt with pocket, and a Route 66 baseball cap. Michael Leon Hopkins of Golden Valley, was last seen at his residence in the 3400 block of N Lochiel Road at approximately 2:00 pm on Sunday (8/30). He left the residence in his vehicle, listed as a white 2021 Ram 3500 (Arizona plate: handicap-RYA5TD) with a large dent on the passenger side. His vehicle was last seen traveling westbound I-40 at the Arizona/California border at approximately 5:55 pm on Sunday (8/30). Michael has multiple medical conditions that may cause confusion, raising concern for his safety and well-being. If you have contact with this SAFE Alert, please call 911. Monitor TV and Radio for updates.",
+  "sent_utc": "2026-08-31T23:17:21+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/17882182410001397587287.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/17882182410001397587287_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/17882182410001397587287_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/17882182410001397587287_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/17882182410001397587287_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
