@@ -1,0 +1,21 @@
+{
+  "id": "dfd41ef6-90e0-7761-d493-cfae87d5ffe2",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Cottonwood, MN; at 8:23 AM on SEP 1, 2020 Effective until 8:53 AM. Message from WSLF/CAP.",
+  "extra_text": "This is only a Test If this was an actually emergency, instructions would be listed here.",
+  "sent_utc": "2020-08-31T15:23:39+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/dfd41ef6-90e0-7761-d493-cfae87d5ffe2.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/dfd41ef6-90e0-7761-d493-cfae87d5ffe2_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/dfd41ef6-90e0-7761-d493-cfae87d5ffe2_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/dfd41ef6-90e0-7761-d493-cfae87d5ffe2_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2020/08/31/dfd41ef6-90e0-7761-d493-cfae87d5ffe2_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
