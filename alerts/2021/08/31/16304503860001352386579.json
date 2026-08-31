@@ -1,0 +1,21 @@
+{
+  "id": "16304503860001352386579",
+  "event_code": "LEW",
+  "eas_text": "A civil authority has issued A LAW ENFORCEMENT WARNING for the following counties or areas: Lake, IN; at 3:53 PM on AUG 31, 2021 Effective until 2:53 PM SEP 1, 2021. Message from WSLF/CAP.",
+  "extra_text": "A Statewide Silver Alert has been declared.\n\nThe Gary Police Department is investigating the disappearance of Davion Blakes, a 15 year old black male, 5 feet 6 inches tall, 100 pounds, black hair with brown eyes, last seen wearing a T-shirt and blue jeans.\n\nDavion is missing from Gary, Indiana, and was last seen on Tuesday, August 31, 2021 at 3:00 am. He is believed to be in extreme danger and may require medical assistance. \n\nIf you have any information on Davion Blakes, contact the Gary Police Department at 219-660-0000 or 911.\n\nA photo of Davion is available at https://bit.ly/davionblakes again, that's https://bit.ly/davionblakes. Call 219-660-0000 or 911 with information.",
+  "sent_utc": "2021-08-31T22:53:06+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/16304503860001352386579.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/16304503860001352386579_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/16304503860001352386579_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/16304503860001352386579_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/16304503860001352386579_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
