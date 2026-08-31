@@ -1,0 +1,21 @@
+{
+  "id": "AS-AZ-9c47acde-ce04-4f42-8630-d5bd8232e210",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Arizona; at 5:23 AM on AUG 31, 2021 Effective until 3:23 PM. Message from WSLF/CAP.",
+  "extra_text": "A Silver Alert has been issued for Maricopa and Pinal counties. This is the Arizona Department of Public Safety. The Maricopa County Sheriff's Office is looking for Jeannine Fautsch, a white female, 87 years of age. Jeannine is believed to be on-foot, and was reported missing from area of the 9200 block of East Fairway Blvd, in Sun Lakes, at 3:45pm on August 30th. She is approximately 5 feet, 2 inches tall, and 115 pounds. Jeannine suffers from a condition that may make her lost and disoriented. If you have contact with the Silver Alert, Please call 9 1 1.  Monitor TV and Radio for updates.",
+  "sent_utc": "2021-08-31T12:23:47+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-9c47acde-ce04-4f42-8630-d5bd8232e210.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-9c47acde-ce04-4f42-8630-d5bd8232e210_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-9c47acde-ce04-4f42-8630-d5bd8232e210_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-9c47acde-ce04-4f42-8630-d5bd8232e210_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-9c47acde-ce04-4f42-8630-d5bd8232e210_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
