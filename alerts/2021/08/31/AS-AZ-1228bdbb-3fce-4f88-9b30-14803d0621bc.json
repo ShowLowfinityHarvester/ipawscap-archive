@@ -1,0 +1,21 @@
+{
+  "id": "AS-AZ-1228bdbb-3fce-4f88-9b30-14803d0621bc",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Arizona; at 12:09 AM on AUG 31, 2021 Effective until 10:09 AM. Message from WSLF/CAP.",
+  "extra_text": "A Silver Alert has been issued for Chandler PD. This is the Arizona Department of Public Safety. Chandler PD is looking for Peng Huon Tek, 79-years-old, 5 foot 03 inches, 103 lbs., black hair, brown eyes, last seen wearing a white shirt, white pants with decorations. Peng was last seen leaving her home near Val Vista and Hunt Highway, at 2 p.m. on 8/30/21. She was driving a silver Toyota RAV-4, with AZ/BJM8904 and may have been near Casa Grande. It is possible Peng may have left her vehicle and may be on foot. She only speaks Mandarin and Cantonese. Please contact Chandler PD with any information. If you have contact with the Silver Alert, Please call 9 1 1.  Monitor TV and Radio for updates.",
+  "sent_utc": "2021-08-31T07:09:31+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-1228bdbb-3fce-4f88-9b30-14803d0621bc.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-1228bdbb-3fce-4f88-9b30-14803d0621bc_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-1228bdbb-3fce-4f88-9b30-14803d0621bc_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-1228bdbb-3fce-4f88-9b30-14803d0621bc_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/AS-AZ-1228bdbb-3fce-4f88-9b30-14803d0621bc_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
