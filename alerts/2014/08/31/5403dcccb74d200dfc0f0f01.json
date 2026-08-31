@@ -1,0 +1,21 @@
+{
+  "id": "5403dcccb74d200dfc0f0f01",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Mississippi; at 7:56 PM on AUG 31, 2014 Effective until 8:56 PM. Message from WSLF/CAP.",
+  "extra_text": "The Mississippi Highway Patrol is issuing an Amber Alert for 17-year-old Katelyn Beard. She was abducted this morning from between 6:00 a.m. and 7:00 a.m. from 4244 Lynda Street in Jackson. She is described as a white female, with long brown hair, brown eyes, 5 feet four, inches tall and weighing 140 pounds.\nShe was last seen accompanied by Dewayne Thompson. Thompson is described as a black male, black hair, brown eyes, five feet, nine inches tall and weighing 135 pounds.\nThey were last seen traveling in a 2009 Nissan Altima with Greene County license plate GRF 293. They were traveling east on Lynda Street in Jackson.\nIf anyone has any information regarding the whereabouts of Katelyn Beard, Dewayne Thompson or the vehicle call the Mississippi Highway Patrol at 1-855- 642-5378, that\ufffds 1-855-642-5378.",
+  "sent_utc": "2014-09-01T02:56:13+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/31/5403dcccb74d200dfc0f0f01.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/31/5403dcccb74d200dfc0f0f01_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/31/5403dcccb74d200dfc0f0f01_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/31/5403dcccb74d200dfc0f0f01_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2014/08/31/5403dcccb74d200dfc0f0f01_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
