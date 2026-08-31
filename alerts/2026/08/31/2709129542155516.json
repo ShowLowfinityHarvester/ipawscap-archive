@@ -1,0 +1,21 @@
+{
+  "id": "2709129542155516",
+  "event_code": "CAE",
+  "eas_text": "A civil authority has issued A CHILD ABDUCTION EMERGENCY for the following counties or areas: Oregon; at 11:19 AM on AUG 31, 2026 Effective until 12:19 PM. Message from WSLF/CAP.",
+  "extra_text": "The Josephine County has requested activation of an AMBER Alert for Kaydence Patterson. The victim was taken from 32429 Redwood Highway overnight on 08-31-2026. The suspect was driving a 2006, Silver Infinity M 30, license plate, O E O 4 2 2, Oregon, unknown direction of travel. The suspect has been identified as James Patterson. Suspect is described as 5 feet 10 inches with a thin build, brown hair, unknown clothing description. The victim is 8 months old. If you have any information about this incident, please contact the Oregon AMBER Alert Tip Line at 1 8 6 6 5 AMBER 5 1 8 6 6 5 2 6 2 3 7 5 or call 9 1 1.",
+  "sent_utc": "2026-08-31T18:19:05+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/2709129542155516.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/2709129542155516_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/2709129542155516_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/2709129542155516_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/08/31/2709129542155516_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
