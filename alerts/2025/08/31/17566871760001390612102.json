@@ -1,0 +1,21 @@
+{
+  "id": "17566871760001390612102",
+  "event_code": "EVI",
+  "eas_text": "A civil authority has issued AN IMMEDIATE EVACUATION NOTICE for the following counties or areas: Siskiyou, CA; at 5:39 PM on AUG 31, 2025 Effective until 1:39 AM SEP 1, 2025. Message from WSLF/CAP.",
+  "extra_text": "The Siskiyou County Sheriffs Office has issued an evacuation order for Zone 1118-B south of Seiad Valley due to the Blue Fire... Anyone in this area is ordered to leave immediately.... Go to www.readysiskiyou.gov for current information on this or any other emergency impacting Siskiyou County The Siskiyou County Sheriffs Office has issued an evacuation order for Zone 1118-B south of Seiad Valley due to the Blue Fire... Anyone in this area is ordered to leave immediately.... Go to www.readysiskiyou.gov for current information on this or any other emergency impacting Siskiyou County",
+  "sent_utc": "2025-09-01T00:39:36+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/31/17566871760001390612102.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/31/17566871760001390612102_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/31/17566871760001390612102_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/31/17566871760001390612102_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2025/08/31/17566871760001390612102_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
