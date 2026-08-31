@@ -1,0 +1,21 @@
+{
+  "id": "OnSolve-0d2dba3810b4458ca3e3bb45fb675989",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Lassen, CA; at 11:24 AM on AUG 31, 2021 Effective until 11:24 AM SEP 1, 2021. Message from WSLF/CAP.",
+  "extra_text": "A NEW EVACUATION WARNING has been issued for:\n\n-Milford area east (lake side) of Hwy 395 from the Thunder Mountain Rd intersection south to County Rd A26/Garnier Rd.  This includes the south side of County Rd A25 east to but NOT including Sierra Army Depot  \n\nCheck the status of your address at community.zonehaven.com\n\nALL PREVIOUSLY ISSUED ORDERS AND WARNINGS REMAIN IN PLACE\n\nThose under warning who require assistance and those with pets and livestock should leave now.  Use caution, drive with your headlights on and yield to emergency personnel. Call dispatch for assistance evacuating 530-257-6121.",
+  "sent_utc": "2021-08-31T18:24:46+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/OnSolve-0d2dba3810b4458ca3e3bb45fb675989.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/OnSolve-0d2dba3810b4458ca3e3bb45fb675989_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/OnSolve-0d2dba3810b4458ca3e3bb45fb675989_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/OnSolve-0d2dba3810b4458ca3e3bb45fb675989_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2021/08/31/OnSolve-0d2dba3810b4458ca3e3bb45fb675989_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
