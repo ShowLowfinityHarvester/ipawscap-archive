@@ -1,0 +1,21 @@
+{
+  "id": "2713733746994629",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Ventura, CA; at 10:30 AM on SEP 1, 2026 Effective until 11:30 AM. Message from WSLF/CAP.",
+  "extra_text": "This is an FCC Required Monthly Test of the Emergency Alert System. Many Ventura County broadcasters have agreed to deliver information during an emergency that will help you understand what is happening and what you need to do. When you hear a real alert, you should immediately tune to one of these local radio or TV stations. This concludes this test of the Emergency Alert System.",
+  "sent_utc": "2026-09-01T17:30:40+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/2713733746994629.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/2713733746994629_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/2713733746994629_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/2713733746994629_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/2713733746994629_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
