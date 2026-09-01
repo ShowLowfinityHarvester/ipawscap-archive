@@ -1,0 +1,21 @@
+{
+  "id": "AS-HI-28515f45-ca36-4c9e-80f4-9d6a01640e1d",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Hawaii; at 2:14 PM on SEP 1, 2026 Effective until 3:14 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a coordinated test of the Emergency Alert System for broadcast stations in Hawaii. The regular monthly test of the Live Audio Broadcast Segment and All-Hazard Outdoor Warning Siren System for public safety will be conducted today at 1145 AM from Emergency Management Authorities. Hawaii's warning sirens are used to alert the public to any emergency that may pose a threat to life or property. The sound of the sirens is to alert residents to turn on a radio or television for information and instruction for an impending emergency. Instruction may also be provided by a cellular Wireless Emergency Alert. Hawaii Emergency Management Officials recommends residents prepare an emergency kit of a minimum of 14 days of food, water, medical, and other essential supplies. Always be prepared. Sent from the State of Hawaii Emergency Operations Center.",
+  "sent_utc": "2026-09-01T21:14:51+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/AS-HI-28515f45-ca36-4c9e-80f4-9d6a01640e1d.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/AS-HI-28515f45-ca36-4c9e-80f4-9d6a01640e1d_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/AS-HI-28515f45-ca36-4c9e-80f4-9d6a01640e1d_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/AS-HI-28515f45-ca36-4c9e-80f4-9d6a01640e1d_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/01/AS-HI-28515f45-ca36-4c9e-80f4-9d6a01640e1d_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
