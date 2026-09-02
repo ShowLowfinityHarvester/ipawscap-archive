@@ -1,0 +1,21 @@
+{
+  "id": "v2-3.12.20-1538668-1788385506569",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: San Diego, CA; at 2:45 PM on SEP 2, 2026 Effective until 4:45 PM. Message from WSLF/CAP.",
+  "extra_text": "TEST - This is the required monthly test TEST - This is the required monthly test of the Emergency Alert System.",
+  "sent_utc": "2026-09-02T21:45:07+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/02/v2-3.12.20-1538668-1788385506569.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/02/v2-3.12.20-1538668-1788385506569_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/02/v2-3.12.20-1538668-1788385506569_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/02/v2-3.12.20-1538668-1788385506569_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/02/v2-3.12.20-1538668-1788385506569_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
