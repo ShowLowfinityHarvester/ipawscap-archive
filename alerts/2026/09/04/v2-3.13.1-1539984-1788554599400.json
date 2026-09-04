@@ -1,0 +1,21 @@
+{
+  "id": "v2-3.13.1-1539984-1788554599400",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Inyo, CA; at 1:43 PM on SEP 4, 2026 Effective until 1:43 PM SEP 5, 2026. Message from WSLF/CAP.",
+  "extra_text": "ICSO, EVACUATION WARNING, prepare to evacuate. There is an active fire in the area of U.S. Hyw 395 between Division Creek and Aberdeen. Unknown duration. EVACUATION WARNING, prepare to evacuate the area of U.S. Hyw 395 between Division Creek and Aberdeen.  For further information, please go to https://ready.inyocounty.us/",
+  "sent_utc": "2026-09-04T20:43:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/04/v2-3.13.1-1539984-1788554599400.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/04/v2-3.13.1-1539984-1788554599400_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/04/v2-3.13.1-1539984-1788554599400_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/04/v2-3.13.1-1539984-1788554599400_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/04/v2-3.13.1-1539984-1788554599400_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
