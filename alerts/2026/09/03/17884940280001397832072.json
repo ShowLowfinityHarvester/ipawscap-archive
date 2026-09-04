@@ -1,0 +1,21 @@
+{
+  "id": "17884940280001397832072",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Maricopa, AZ; at 8:53 PM on SEP 3, 2026 Effective until 4:53 AM SEP 4, 2026. Message from WSLF/CAP.",
+  "extra_text": "A SAFE Alert has been issued for Phoenix Police Department. This is the Arizona Department of Public Safety. Phoenix PD is looking for Martin Lopez. He is a 74-year-old Hispanic male, five foot 3 inches, 180 pounds, brown eyes and gray hair. Martin was last seen near 25th Ave. and McLellan Blvd. wearing a white and gray striped polo shirt with gray shorts. Martin suffers from a medical condition which may cause him to become easily confused or lost. \n\nIf you have contact with this SAFE Alert, please call 911. Monitor TV and Radio for updates. If you have contact with this SAFE Alert, please call 911. Monitor TV and Radio for updates.",
+  "sent_utc": "2026-09-04T03:53:48+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/03/17884940280001397832072.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/03/17884940280001397832072_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/03/17884940280001397832072_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/03/17884940280001397832072_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/03/17884940280001397832072_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
