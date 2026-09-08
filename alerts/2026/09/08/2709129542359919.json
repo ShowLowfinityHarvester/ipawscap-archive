@@ -1,0 +1,21 @@
+{
+  "id": "2709129542359919",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Virginia; at 7:45 AM on SEP 8, 2026 Effective until 9:45 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Virginia Emergency Alert system. In the event of an emergency, this system would bring you important information.",
+  "sent_utc": "2026-09-08T14:45:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/2709129542359919.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/2709129542359919_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/2709129542359919_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/2709129542359919_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/2709129542359919_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
