@@ -1,0 +1,21 @@
+{
+  "id": "ASHERGROUP-1761566-post-1788877862",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Wahkiakum, WA; at 7:31 AM on SEP 8, 2026 Effective until 12:31 PM. Message from WSLF/CAP.",
+  "extra_text": "This is a required monthly test of the emergency alert system for Wahkiakum County Washington, from the Wahkiakum County Department of Emergency Management. In the event of an emergency, this system will bring you important information. The test is now concluded.",
+  "sent_utc": "2026-09-08T14:31:02+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/ASHERGROUP-1761566-post-1788877862.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/ASHERGROUP-1761566-post-1788877862_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/ASHERGROUP-1761566-post-1788877862_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/ASHERGROUP-1761566-post-1788877862_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/08/ASHERGROUP-1761566-post-1788877862_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
