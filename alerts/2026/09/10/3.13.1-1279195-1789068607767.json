@@ -1,0 +1,21 @@
+{
+  "id": "3.13.1-1279195-1789068607767",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: New Hampshire; at 12:30 PM on SEP 10, 2026 Effective until 1:30 PM. Message from WSLF/CAP.",
+  "extra_text": "New Hampshire Homeland Security and Emergency Management has activated the New Hampshire Emergency Alert System in order to conduct required monthly test. This concludes this test of the New Hampshire Emergency Alert System. No action required.",
+  "sent_utc": "2026-09-10T19:30:07+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/3.13.1-1279195-1789068607767.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/3.13.1-1279195-1789068607767_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/3.13.1-1279195-1789068607767_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/3.13.1-1279195-1789068607767_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/3.13.1-1279195-1789068607767_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
