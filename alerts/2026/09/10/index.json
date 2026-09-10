@@ -181,6 +181,20 @@
         "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/3.13.1-1279195-1789068607767_kal.mp3"
       },
       "default_voice": "cepstral_william"
+    },
+    {
+      "id": "6aa307483fedd914905cfa1e",
+      "event_code": "CEM",
+      "sent_utc": "2026-09-10T19:44:23+00:00",
+      "href": "6aa307483fedd914905cfa1e.json",
+      "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/6aa307483fedd914905cfa1e.mp3",
+      "audio_urls": {
+        "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/6aa307483fedd914905cfa1e_cepstral_david.mp3",
+        "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/6aa307483fedd914905cfa1e_cepstral_william.mp3",
+        "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/6aa307483fedd914905cfa1e_cepstral_allison.mp3",
+        "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/6aa307483fedd914905cfa1e_kal.mp3"
+      },
+      "default_voice": "cepstral_william"
     }
   ]
 }
