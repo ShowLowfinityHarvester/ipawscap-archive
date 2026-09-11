@@ -1,0 +1,21 @@
+{
+  "id": "2718544110296704",
+  "event_code": "RMT",
+  "eas_text": "A civil authority has issued A REQUIRED MONTHLY TEST for the following counties or areas: Chelan; Douglas; Grant, WA; at 7:50 AM on SEP 11, 2026 Effective until 8:50 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a test of the Emergency Alert System for Chelan, Douglas and Grant Counties being conducted by the Chelan County Sheriff's Office.  In an actual emergency, this system will provide important information.  The following tones will conclude this test of the Emergency Alert System.",
+  "sent_utc": "2026-09-11T14:50:10+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/11/2718544110296704.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/11/2718544110296704_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/11/2718544110296704_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/11/2718544110296704_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/11/2718544110296704_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
