@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-7051d342-a9fd-4ebe-be04-91b661ded7ac",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Cassia; Minidoka; Power, ID; at 5:16 PM on SEP 10, 2026 Effective until 7:16 PM. Message from WSLF/CAP.",
+  "extra_text": "This is an activation of the Endangered Missing Person Alert system.  The Minidoka County Sheriffs Office is looking for Leonard Snook a 54 year old white male 5ft 6 inches tall 200lbs blue eyes and grey hair last seen wearing a t-shirt robe and socks.  He is driving a white 2003 Mercury Grand Marquis with Idaho plates 4CA7430 last seen in the area of Paul Idaho around 1:30 pm.  Leonard has dementia and very poor eyesight.  Anyone with information on Leonard please contact the Minidoka County Sheriffs office at 2084342320.",
+  "sent_utc": "2026-09-11T00:16:26+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/AS-ID-7051d342-a9fd-4ebe-be04-91b661ded7ac.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/AS-ID-7051d342-a9fd-4ebe-be04-91b661ded7ac_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/AS-ID-7051d342-a9fd-4ebe-be04-91b661ded7ac_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/AS-ID-7051d342-a9fd-4ebe-be04-91b661ded7ac_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/10/AS-ID-7051d342-a9fd-4ebe-be04-91b661ded7ac_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
