@@ -1,0 +1,21 @@
+{
+  "id": "202797.60c6648006c338e0ecbd0df9310e60",
+  "event_code": "RWT",
+  "eas_text": "A civil authority has issued A REQUIRED WEEKLY TEST for the following counties or areas: Clark, NV; at 8:06 AM on SEP 14, 2026 Effective until 8:21 AM. Message from WSLF/CAP.",
+  "extra_text": "This is a Required Weekly Test (RWT) of the Southern Nevada Operational Area Emergency Alert System. This message is originating from the City of North Las Vegas Emergency Operations Center in North Las Vegas, NV. This system is used for warnings and essential safety information. During emergencies, tune to a participating radio or television station for directions, safety instructions and other official information. No action is needed at this time. This is only a test.",
+  "sent_utc": "2026-09-14T15:06:10+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/14/202797.60c6648006c338e0ecbd0df9310e60.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/14/202797.60c6648006c338e0ecbd0df9310e60_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/14/202797.60c6648006c338e0ecbd0df9310e60_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/14/202797.60c6648006c338e0ecbd0df9310e60_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/14/202797.60c6648006c338e0ecbd0df9310e60_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
