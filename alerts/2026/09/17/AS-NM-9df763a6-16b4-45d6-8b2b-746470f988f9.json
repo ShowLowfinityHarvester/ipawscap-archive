@@ -1,0 +1,21 @@
+{
+  "id": "AS-NM-9df763a6-16b4-45d6-8b2b-746470f988f9",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Lincoln, NM; at 3:47 PM on SEP 17, 2026 Effective until 7:47 PM. Message from WSLF/CAP.",
+  "extra_text": "Lincoln County OES. Flash Flooding OBSERVED in Ruidoso Downs. MOVE to higher ground. Lincoln County Emergency Management: Flash Flood Alert for Ruidoso Downs along Rio Ruidoso. Rapidly rising floodwaters may impact roadways and low-lying areas. Avoid travel and move to higher ground if threatened. Do NOT drive through flooded roads. Personnel needing shelter can go to the Ruidoso Downs Senior Center.",
+  "sent_utc": "2026-09-17T22:47:54+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/17/AS-NM-9df763a6-16b4-45d6-8b2b-746470f988f9.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/17/AS-NM-9df763a6-16b4-45d6-8b2b-746470f988f9_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/17/AS-NM-9df763a6-16b4-45d6-8b2b-746470f988f9_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/17/AS-NM-9df763a6-16b4-45d6-8b2b-746470f988f9_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/17/AS-NM-9df763a6-16b4-45d6-8b2b-746470f988f9_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
