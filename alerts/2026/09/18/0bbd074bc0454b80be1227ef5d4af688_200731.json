@@ -1,0 +1,21 @@
+{
+  "id": "0bbd074bc0454b80be1227ef5d4af688_200731",
+  "event_code": "CEM",
+  "eas_text": "A civil authority has issued A CIVIL EMERGENCY MESSAGE for the following areas: Jefferson Davis, LA; at 6:20 AM on SEP 18, 2026 Effective until 7:20 AM. Message from WSLF/CAP.",
+  "extra_text": "There has been a gas pipeline rupture on farm supply north of highway 90 AVOID THE AREA OF HIGHWAY 90 BETWEEN MONGER ROAD AND 395. THERE HAS BEEN A PIPELINE RUPTURE EMERGENCY PERSONEL ARE WORKING TO EVACUATE AND CLEAR THE AREA. HIGHWAY 90 IS CLOSED BETWEEN MONGER ROAD AND 395",
+  "sent_utc": "2026-09-18T13:20:20+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/0bbd074bc0454b80be1227ef5d4af688_200731.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/0bbd074bc0454b80be1227ef5d4af688_200731_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/0bbd074bc0454b80be1227ef5d4af688_200731_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/0bbd074bc0454b80be1227ef5d4af688_200731_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/0bbd074bc0454b80be1227ef5d4af688_200731_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
