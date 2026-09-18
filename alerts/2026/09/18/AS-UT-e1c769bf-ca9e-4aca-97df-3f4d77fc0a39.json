@@ -1,0 +1,21 @@
+{
+  "id": "AS-UT-e1c769bf-ca9e-4aca-97df-3f4d77fc0a39",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: San Juan, UT; at 2:48 PM on SEP 18, 2026 Effective until 2:48 PM SEP 19, 2026. Message from WSLF/CAP.",
+  "extra_text": "There is potential for rising water and flooding along the San Juan River. Residents, visitors, and anyone near the river should use caution and remain alert for changing conditions.Water levels may rise, and conditions can change quickly. Please be prepared to move away from the river and low-lying areas if necessary.Stay aware.Be prepared. Do not enter or attempt to cross floodwaters.",
+  "sent_utc": "2026-09-18T21:48:16+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/AS-UT-e1c769bf-ca9e-4aca-97df-3f4d77fc0a39.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/AS-UT-e1c769bf-ca9e-4aca-97df-3f4d77fc0a39_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/AS-UT-e1c769bf-ca9e-4aca-97df-3f4d77fc0a39_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/AS-UT-e1c769bf-ca9e-4aca-97df-3f4d77fc0a39_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/18/AS-UT-e1c769bf-ca9e-4aca-97df-3f4d77fc0a39_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
