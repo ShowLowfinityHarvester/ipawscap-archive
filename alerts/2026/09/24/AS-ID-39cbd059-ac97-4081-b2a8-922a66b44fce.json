@@ -1,0 +1,21 @@
+{
+  "id": "AS-ID-39cbd059-ac97-4081-b2a8-922a66b44fce",
+  "event_code": "FRW",
+  "eas_text": "A civil authority has issued A FIRE WARNING for the following counties or areas: Elmore, ID; at 3:00 PM on SEP 24, 2026 Effective until 7:00 PM. Message from WSLF/CAP.",
+  "extra_text": "Brush fire in Mayfield/Oasis area. There is a brush fire to the north of the interstate between Oasis and Mayfield. Maintain awareness and prepare to evacuate if told to. Fire is moving to the north.",
+  "sent_utc": "2026-09-24T22:00:40+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/24/AS-ID-39cbd059-ac97-4081-b2a8-922a66b44fce.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/24/AS-ID-39cbd059-ac97-4081-b2a8-922a66b44fce_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/24/AS-ID-39cbd059-ac97-4081-b2a8-922a66b44fce_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/24/AS-ID-39cbd059-ac97-4081-b2a8-922a66b44fce_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/24/AS-ID-39cbd059-ac97-4081-b2a8-922a66b44fce_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
