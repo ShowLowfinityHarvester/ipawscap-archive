@@ -1,0 +1,21 @@
+{
+  "id": "200635.5e903826a6d7f778eedd168286cc94",
+  "event_code": "LAE",
+  "eas_text": "A civil authority has issued A LOCAL AREA EMERGENCY for the following counties or areas: Hamilton, TN; at 10:01 AM on SEP 25, 2026 Effective until 2:01 PM. Message from WSLF/CAP.",
+  "extra_text": "Missing Juvenile -Caleb Johnson .Black male last seen wearing a yellow t shirt and a pull up. Last seen around 7am near 1205 Boynton Drive. Missing Juvenile -Caleb Johnson . Black male last seen wearing a yellow t shirt and a pull up. Last seen around 7am near 1205 Boynton Drive. If seen call 9-1-1 ASAP or Chattanooga PD at 423-698-2525.",
+  "sent_utc": "2026-09-25T17:01:37+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/25/200635.5e903826a6d7f778eedd168286cc94.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/25/200635.5e903826a6d7f778eedd168286cc94_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/25/200635.5e903826a6d7f778eedd168286cc94_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/25/200635.5e903826a6d7f778eedd168286cc94_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/25/200635.5e903826a6d7f778eedd168286cc94_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
