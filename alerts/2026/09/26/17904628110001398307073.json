@@ -1,0 +1,21 @@
+{
+  "id": "17904628110001398307073",
+  "event_code": "ADR",
+  "eas_text": "A civil authority has issued AN ADMINISTRATIVE MESSAGE for the following counties or areas: Maricopa, AZ; at 3:46 PM on SEP 26, 2026 Effective until 11:46 PM. Message from WSLF/CAP.",
+  "extra_text": "A SAFE Alert has been issued for Phoenix Police Department. This is the Arizona Department of Public Safety. Phoenix PD is looking for 72-year-old Hispanic female, Yolanda Garcia. Yolanda was last seen on foot in the area of South 99th Lane and West Gross Avenue wearing a blue shirt with a white unknown graphic, black capri style pants and flip flops. She is 5'2\" tall and weighs 110 pounds with brown hair in a ponytail and brown eyes. Yolanda suffers from a medical condition which may cause her to be confused and easily lost.\n\nIf you have contact with this SAFE Alert, please call 911. Monitor TV and Radio for updates. If you have contact with this SAFE Alert, please call 911. Monitor TV and Radio for updates.",
+  "sent_utc": "2026-09-26T22:46:51+00:00",
+  "audio_url": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/26/17904628110001398307073.mp3",
+  "audio_urls": {
+    "cepstral_david": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/26/17904628110001398307073_cepstral_david.mp3",
+    "cepstral_william": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/26/17904628110001398307073_cepstral_william.mp3",
+    "cepstral_allison": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/26/17904628110001398307073_cepstral_allison.mp3",
+    "kal": "https://showlowfinityharvester.github.io/ipawscap-archive/alerts/2026/09/26/17904628110001398307073_kal.mp3"
+  },
+  "default_voice": "cepstral_william",
+  "voices": [
+    "cepstral_david",
+    "cepstral_william",
+    "cepstral_allison",
+    "kal"
+  ]
+}
